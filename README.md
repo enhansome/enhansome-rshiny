@@ -38,7 +38,7 @@ A curated list of resources for R Shiny.  (*Featured on [Awesome-R](https://awes
   * [Training](https://www.rstudio.com/certified-partners/)
   * [Consultants](https://community.rstudio.com/groups/consultants/)
   * [Function References](http://shiny.rstudio.com/reference/shiny/latest/)
-* [GitHub](https://github.com/rstudio/shiny) ⭐ 5,675 | 🐛 865 | 🌐 R | 📅 2026-08-10
+* [GitHub](https://github.com/rstudio/shiny) ⭐ 5,677 | 🐛 865 | 🌐 R | 📅 2026-08-10
 
 ### Community
 
@@ -125,7 +125,7 @@ A curated list of resources for R Shiny.  (*Featured on [Awesome-R](https://awes
 ### Packages
 
 * [golem](https://github.com/ThinkR-open/golem/) ⭐ 945 | 🐛 21 | 🌐 R | 📅 2026-07-07 - Framework for building production-grade shiny applications.
-* [shinyWidgets](https://github.com/dreamRs/shinyWidgets) ⭐ 870 | 🐛 115 | 🌐 R | 📅 2026-07-06 - Extend input widgets available in Shiny.
+* [shinyWidgets](https://github.com/dreamRs/shinyWidgets) ⭐ 871 | 🐛 115 | 🌐 R | 📅 2026-07-06 - Extend input widgets available in Shiny.
 * [shinyjs](https://github.com/daattali/shinyjs) ⭐ 751 | 🐛 5 | 🌐 R | 📅 2026-08-11 - Common JavaScript operations in shiny via R code.
 * [timevis](https://github.com/daattali/timevis/) ⭐ 680 | 🐛 4 | 🌐 R | 📅 2024-08-18 - Create interactive timeline visualizations in R.
 * [shiny.semantic](https://github.com/Appsilon/shiny.semantic) ⭐ 513 | 🐛 40 | 🌐 R | 📅 2025-12-02 - Semantic UI wrapper for Shiny.
@@ -189,7 +189,7 @@ A curated list of resources for R Shiny.  (*Featured on [Awesome-R](https://awes
   * [flextable](https://github.com/davidgohel/flextable) ⭐ 625 | 🐛 10 | 🌐 R | 📅 2026-08-05 - Easily create customizable tables
   * [DT](https://github.com/rstudio/DT) ⭐ 621 | 🐛 207 | 🌐 JavaScript | 📅 2026-05-18 - Provides a function `datatable()` to display R data via the DataTables JavaScript library.
   * [visNetwork](https://github.com/datastorm-open/visNetwork) ⭐ 563 | 🐛 156 | 🌐 JavaScript | 📅 2026-07-15 - Network visualization for R using vis.js library.
-  * [rhandsontable](https://github.com/jrowen/rhandsontable) ⭐ 391 | 🐛 166 | 🌐 HTML | 📅 2024-07-23 - An htmlwidgets implementation of Handsontable.js.
+  * [rhandsontable](https://github.com/jrowen/rhandsontable) ⭐ 389 | 🐛 166 | 🌐 HTML | 📅 2024-07-23 - An htmlwidgets implementation of Handsontable.js.
   * [dygraphs](https://github.com/rstudio/dygraphs) ⭐ 367 | 🐛 122 | 🌐 JavaScript | 📅 2024-03-15 - R interface to the dygraphs JavaScript charting library. It provides rich facilites for charting time-series data in R.
   * [rthreejs](https://github.com/bwlewis/rthreejs) ⭐ 308 | 🐛 37 | 🌐 JavaScript | 📅 2025-05-03 - 3D scatterplots and globes.
   * [trelliscopejs](https://github.com/hafen/trelliscopejs/) ⭐ 263 | 🐛 77 | 🌐 R | 📅 2026-01-14 - TrelliscopeJS R package.
@@ -243,7 +243,7 @@ A curated list of resources for R Shiny.  (*Featured on [Awesome-R](https://awes
   * [Html Widgets Showcase](http://www.htmlwidgets.org/showcase_leaflet.html) - Featured Html widgets.
   * [Html Widgets Gallery](http://gallery.htmlwidgets.org/) - User submitted Html widgets.
 * [R Graph Catalog](http://shinyapps.stat.ubc.ca/r-graph-catalog/) - Complement to the book  “Creating More Effective Graphs” by Naomi Robbins.
-* [Awesome Shiny Apps for Statistics](https://github.com/huyingjie/Awesome-shiny-apps-for-statistics) ⭐ 178 | 🐛 0 | 🌐 JavaScript | 📅 2018-01-10 - A curated list of awesome Shiny Apps for statistics.
+* [Awesome Shiny Apps for Statistics](https://github.com/huyingjie/Awesome-shiny-apps-for-statistics) ⭐ 179 | 🐛 0 | 🌐 JavaScript | 📅 2018-01-10 - A curated list of awesome Shiny Apps for statistics.
 
 ## App Examples
 

@@ -125,7 +125,7 @@
             "last_commit": "2026-07-06T15:28:17Z",
             "owner": "dreamRs",
             "repo": "shinyWidgets",
-            "stars": 870
+            "stars": 871
           }
         },
         {
@@ -942,7 +942,7 @@
                 "last_commit": "2024-07-23T18:38:19Z",
                 "owner": "jrowen",
                 "repo": "rhandsontable",
-                "stars": 391
+                "stars": 389
               }
             },
             {
@@ -1515,7 +1515,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-13T04:06:06.087Z",
+    "last_updated": "2026-08-13T18:34:04.861Z",
     "original_repository": "grabear/awesome-rshiny",
     "original_repository_sha": "b7a9920893d359c9ee5fbf741e29f0c7f31ec952",
     "enhanced_repository": "enhansome/enhansome-rshiny",
