@@ -928,7 +928,7 @@
                 "last_commit": "2026-07-15T13:52:15Z",
                 "owner": "datastorm-open",
                 "repo": "visNetwork",
-                "stars": 563
+                "stars": 564
               }
             },
             {
@@ -1515,7 +1515,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-13T18:34:04.861Z",
+    "last_updated": "2026-08-14T18:30:18.857Z",
     "original_repository": "grabear/awesome-rshiny",
     "original_repository_sha": "b7a9920893d359c9ee5fbf741e29f0c7f31ec952",
     "enhanced_repository": "enhansome/enhansome-rshiny",
