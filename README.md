@@ -301,4 +301,4 @@ A curated list of resources for R Shiny.  (*Featured on [Awesome-R](https://awes
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-14._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-15._
