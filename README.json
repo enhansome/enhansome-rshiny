@@ -500,7 +500,7 @@
           "repo_info": {
             "archived": false,
             "language": "R",
-            "last_commit": "2026-08-13T01:25:03Z",
+            "last_commit": "2026-08-16T12:57:10Z",
             "owner": "nteetor",
             "repo": "yonder",
             "stars": 136
@@ -718,7 +718,7 @@
                 "last_commit": "2025-04-22T14:18:12Z",
                 "owner": "rstudio",
                 "repo": "shinydashboard",
-                "stars": 927
+                "stars": 928
               }
             },
             {
@@ -1515,7 +1515,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-15T17:54:23.175Z",
+    "last_updated": "2026-08-16T17:52:56.021Z",
     "original_repository": "grabear/awesome-rshiny",
     "original_repository_sha": "b7a9920893d359c9ee5fbf741e29f0c7f31ec952",
     "enhanced_repository": "enhansome/enhansome-rshiny",
