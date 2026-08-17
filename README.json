@@ -178,7 +178,7 @@
           "repo_info": {
             "archived": false,
             "language": "JavaScript",
-            "last_commit": "2026-08-11T20:58:13Z",
+            "last_commit": "2026-08-17T17:25:31Z",
             "owner": "JohnCoene",
             "repo": "waiter",
             "stars": 495
@@ -500,7 +500,7 @@
           "repo_info": {
             "archived": false,
             "language": "R",
-            "last_commit": "2026-08-16T12:57:10Z",
+            "last_commit": "2026-08-17T02:27:39Z",
             "owner": "nteetor",
             "repo": "yonder",
             "stars": 136
@@ -1515,7 +1515,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-16T17:52:56.021Z",
+    "last_updated": "2026-08-17T18:00:25.416Z",
     "original_repository": "grabear/awesome-rshiny",
     "original_repository_sha": "b7a9920893d359c9ee5fbf741e29f0c7f31ec952",
     "enhanced_repository": "enhansome/enhansome-rshiny",
