@@ -84,7 +84,7 @@
                 "last_commit": "2025-12-21T05:49:16Z",
                 "owner": "daattali",
                 "repo": "advanced-shiny",
-                "stars": 1215
+                "stars": 1214
               }
             }
           ]
@@ -153,7 +153,7 @@
             "last_commit": "2024-08-18T18:43:47Z",
             "owner": "daattali",
             "repo": "timevis",
-            "stars": 680
+            "stars": 681
           }
         },
         {
@@ -500,7 +500,7 @@
           "repo_info": {
             "archived": false,
             "language": "R",
-            "last_commit": "2026-08-17T02:27:39Z",
+            "last_commit": "2026-08-18T06:57:30Z",
             "owner": "nteetor",
             "repo": "yonder",
             "stars": 136
@@ -718,7 +718,7 @@
                 "last_commit": "2025-04-22T14:18:12Z",
                 "owner": "rstudio",
                 "repo": "shinydashboard",
-                "stars": 928
+                "stars": 927
               }
             },
             {
@@ -858,7 +858,7 @@
                 "last_commit": "2026-04-27T20:44:12Z",
                 "owner": "rich-iannone",
                 "repo": "DiagrammeR",
-                "stars": 1739
+                "stars": 1740
               }
             },
             {
@@ -1515,7 +1515,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-17T18:00:25.416Z",
+    "last_updated": "2026-08-18T17:59:21.345Z",
     "original_repository": "grabear/awesome-rshiny",
     "original_repository_sha": "b7a9920893d359c9ee5fbf741e29f0c7f31ec952",
     "enhanced_repository": "enhansome/enhansome-rshiny",
