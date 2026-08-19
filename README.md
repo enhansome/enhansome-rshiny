@@ -38,7 +38,7 @@ A curated list of resources for R Shiny.  (*Featured on [Awesome-R](https://awes
   * [Training](https://www.rstudio.com/certified-partners/)
   * [Consultants](https://community.rstudio.com/groups/consultants/)
   * [Function References](http://shiny.rstudio.com/reference/shiny/latest/)
-* [GitHub](https://github.com/rstudio/shiny) ⭐ 5,677 | 🐛 866 | 🌐 R | 📅 2026-08-17
+* [GitHub](https://github.com/rstudio/shiny) ⭐ 5,678 | 🐛 866 | 🌐 R | 📅 2026-08-17
 
 ### Community
 
@@ -182,7 +182,7 @@ A curated list of resources for R Shiny.  (*Featured on [Awesome-R](https://awes
 * [RInno](https://github.com/ficonsulting/RInno) ⭐ 313 | 🐛 61 | 🌐 HTML | 📅 2023-10-31 - Install local shiny apps by providing an interface between R and Inno Setup, (Windows Only).
 * [pool](https://github.com/rstudio/pool) ⭐ 255 | 🐛 3 | 🌐 R | 📅 2026-05-19 - Abstract away the logic of connection management and the performance cost of fetching a new connection from a remote database.
 * [HTML Widgets/JavaScript](http://www.htmlwidgets.org/)
-  * [plotly](https://github.com/ropensci/plotly) ⭐ 2,675 | 🐛 758 | 🌐 R | 📅 2026-07-25 - Easily translate your ggplot2 graphics to an interactive web-based version, and also provides bindings to the plotly.js graphing library.
+  * [plotly](https://github.com/ropensci/plotly) ⭐ 2,675 | 🐛 759 | 🌐 R | 📅 2026-07-25 - Easily translate your ggplot2 graphics to an interactive web-based version, and also provides bindings to the plotly.js graphing library.
   * [DiagrammeR](https://github.com/rich-iannone/DiagrammeR) ⭐ 1,740 | 🐛 172 | 🌐 R | 📅 2026-04-27 - Tool for creating diagrams and flowcharts using Graphviz and Mermaid.
   * [networkD3](https://github.com/christophergandrud/networkD3) ⭐ 660 | 🐛 82 | 🌐 R | 📅 2025-04-18 - Graph data visualization with D3.
   * [echarts4r](https://github.com/JohnCoene/echarts4r) ⭐ 628 | 🐛 179 | 🌐 R | 📅 2026-06-23 - Create interactive charts by leveraging Echarts.js library.
@@ -248,7 +248,7 @@ A curated list of resources for R Shiny.  (*Featured on [Awesome-R](https://awes
 ## App Examples
 
 * [R-Studio Examples](https://github.com/rstudio/shiny-examples) ⭐ 2,036 | 🐛 55 | 🌐 JavaScript | 📅 2025-05-20
-* [BallR](https://github.com/toddwschneider/ballr) ⭐ 612 | 🐛 2 | 🌐 R | 📅 2022-12-30 - Uses the NBA Stats API to visualize every shot taken by a player during an NBA season dating back to 1996.
+* [BallR](https://github.com/toddwschneider/ballr) ⭐ 613 | 🐛 2 | 🌐 R | 📅 2022-12-30 - Uses the NBA Stats API to visualize every shot taken by a player during an NBA season dating back to 1996.
 * [shinyEd](https://github.com/ShinyEd/ShinyEd) ⭐ 246 | 🐛 1 | 🌐 R | 📅 2022-09-15 - Statistics education apps.
 * [shiny-salesman](https://github.com/toddwschneider/shiny-salesman) ⭐ 245 | 🐛 0 | 🌐 R | 📅 2019-02-18 - Traveling salesman app.
 * [Google Analytics Dashboard](https://github.com/MarkEdmondson1234/ga-dashboard-demo) ⭐ 124 | 🐛 5 | 🌐 R | 📅 2018-04-20 - Demo on how to build your own Google Analytics dashboard with R, Shiny and MySQL.
