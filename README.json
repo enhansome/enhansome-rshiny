@@ -163,7 +163,7 @@
                 "last_commit": "2024-08-18T18:43:47Z",
                 "owner": "daattali",
                 "repo": "timevis",
-                "stars": 681
+                "stars": 682
               }
             },
             {
@@ -1599,7 +1599,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T17:56:42.104Z",
+    "last_updated": "2026-08-20T18:00:19.701Z",
     "original_repository": "grabear/awesome-rshiny",
     "original_repository_id": 89300938,
     "original_repository_sha": "b7a9920893d359c9ee5fbf741e29f0c7f31ec952",
