@@ -66,7 +66,7 @@
                     "last_commit": "2019-09-16T16:42:30Z",
                     "owner": "rstudio",
                     "repo": "RStartHere",
-                    "stars": 662
+                    "stars": 661
                   }
                 }
               ]
@@ -535,7 +535,7 @@
                 "archived": false,
                 "id": 95173969,
                 "language": "R",
-                "last_commit": "2026-08-18T06:57:30Z",
+                "last_commit": "2026-08-21T11:50:24Z",
                 "owner": "nteetor",
                 "repo": "yonder",
                 "stars": 136
@@ -918,7 +918,7 @@
                     "last_commit": "2026-04-27T20:44:12Z",
                     "owner": "rich-iannone",
                     "repo": "DiagrammeR",
-                    "stars": 1740
+                    "stars": 1741
                   }
                 },
                 {
@@ -1599,7 +1599,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-20T18:00:19.701Z",
+    "last_updated": "2026-08-21T18:01:04.004Z",
     "original_repository": "grabear/awesome-rshiny",
     "original_repository_id": 89300938,
     "original_repository_sha": "b7a9920893d359c9ee5fbf741e29f0c7f31ec952",
