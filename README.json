@@ -535,7 +535,7 @@
                 "archived": false,
                 "id": 95173969,
                 "language": "R",
-                "last_commit": "2026-08-21T11:50:24Z",
+                "last_commit": "2026-08-23T08:20:57Z",
                 "owner": "nteetor",
                 "repo": "yonder",
                 "stars": 136
@@ -918,7 +918,7 @@
                     "last_commit": "2026-04-27T20:44:12Z",
                     "owner": "rich-iannone",
                     "repo": "DiagrammeR",
-                    "stars": 1741
+                    "stars": 1740
                   }
                 },
                 {
@@ -963,7 +963,7 @@
                     "last_commit": "2026-08-05T08:07:06Z",
                     "owner": "davidgohel",
                     "repo": "flextable",
-                    "stars": 625
+                    "stars": 626
                   }
                 },
                 {
@@ -1599,7 +1599,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-22T17:55:15.239Z",
+    "last_updated": "2026-08-23T17:53:30.926Z",
     "original_repository": "grabear/awesome-rshiny",
     "original_repository_id": 89300938,
     "original_repository_sha": "b7a9920893d359c9ee5fbf741e29f0c7f31ec952",
