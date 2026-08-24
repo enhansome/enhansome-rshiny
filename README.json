@@ -947,7 +947,7 @@
                     "last_commit": "2026-07-25T00:33:15Z",
                     "owner": "plotly",
                     "repo": "plotly.R",
-                    "stars": 2677
+                    "stars": 2678
                   }
                 },
                 {
@@ -1643,7 +1643,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T14:15:12.879Z",
+    "last_updated": "2026-08-24T18:02:25.492Z",
     "original_repository": "grabear/awesome-rshiny",
     "original_repository_id": 89300938,
     "original_repository_sha": "b7a9920893d359c9ee5fbf741e29f0c7f31ec952",
