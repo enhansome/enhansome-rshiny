@@ -7,7 +7,7 @@
           "children": [
             {
               "node_type": "item",
-              "title": "GitHub",
+              "title": "rstudio/shiny",
               "description": null,
               "children": [],
               "repo_info": {
@@ -17,7 +17,7 @@
                 "last_commit": "2026-08-20T15:24:14Z",
                 "owner": "rstudio",
                 "repo": "shiny",
-                "stars": 5682
+                "stars": 5681
               }
             }
           ],
@@ -947,7 +947,7 @@
                     "last_commit": "2026-07-25T00:33:15Z",
                     "owner": "plotly",
                     "repo": "plotly.R",
-                    "stars": 2678
+                    "stars": 2677
                   }
                 },
                 {
@@ -1643,7 +1643,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T18:02:25.492Z",
+    "last_updated": "2026-08-25T06:08:48.666Z",
     "original_repository": "grabear/awesome-rshiny",
     "original_repository_id": 89300938,
     "original_repository_sha": "b7a9920893d359c9ee5fbf741e29f0c7f31ec952",
