@@ -14,7 +14,7 @@
                 "archived": false,
                 "id": 4729944,
                 "language": "R",
-                "last_commit": "2026-08-20T15:24:14Z",
+                "last_commit": "2026-08-26T17:26:31Z",
                 "owner": "rstudio",
                 "repo": "shiny",
                 "stars": 5681
@@ -1643,7 +1643,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T18:01:30.104Z",
+    "last_updated": "2026-08-26T19:25:01.642Z",
     "original_repository": "grabear/awesome-rshiny",
     "original_repository_id": 89300938,
     "original_repository_sha": "b7a9920893d359c9ee5fbf741e29f0c7f31ec952",
