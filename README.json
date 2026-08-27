@@ -17,7 +17,7 @@
                 "last_commit": "2026-08-26T17:26:31Z",
                 "owner": "rstudio",
                 "repo": "shiny",
-                "stars": 5681
+                "stars": 5682
               }
             }
           ],
@@ -897,7 +897,7 @@
                 "last_commit": "2025-10-08T08:20:33Z",
                 "owner": "mages",
                 "repo": "googleVis",
-                "stars": 361
+                "stars": 362
               }
             },
             {
@@ -1643,9 +1643,16 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-26T19:25:01.642Z",
-    "original_repository": "grabear/awesome-rshiny",
-    "original_repository_id": 89300938,
+    "last_updated": "2026-08-27T12:00:11.781Z",
+    "original_repository_info": {
+      "archived": false,
+      "id": 89300938,
+      "language": "R",
+      "last_commit": "2022-10-07T09:07:26Z",
+      "owner": "grabear",
+      "repo": "awesome-rshiny",
+      "stars": 870
+    },
     "original_repository_sha": "b7a9920893d359c9ee5fbf741e29f0c7f31ec952",
     "enhanced_repository": "enhansome/enhansome-rshiny",
     "enhanced_repository_description": null,
