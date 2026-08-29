@@ -12,12 +12,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Easy interactive web applications with R",
+                "homepage": "https://shiny.posit.co/",
                 "id": 4729944,
                 "language": "R",
+                "license": "NOASSERTION",
                 "last_commit": "2026-08-26T17:26:31Z",
+                "open_issues": 866,
                 "owner": "rstudio",
                 "repo": "shiny",
-                "stars": 5682
+                "stars": 5682,
+                "topics": [
+                  "r",
+                  "reactive",
+                  "rstudio",
+                  "shiny",
+                  "web-app",
+                  "web-development"
+                ]
               },
               "first_seen": "2026-08-29T01:08:45.064Z"
             }
@@ -37,12 +49,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Host Shiny applications over the web.",
+                    "homepage": "https://rstudio.com/shiny/server",
                     "id": 5513742,
                     "language": "JavaScript",
-                    "last_commit": "2026-08-28T03:07:22Z",
+                    "license": "NOASSERTION",
+                    "last_commit": "2026-08-29T04:32:55Z",
+                    "open_issues": 204,
                     "owner": "rstudio",
                     "repo": "shiny-server",
-                    "stars": 759
+                    "stars": 759,
+                    "topics": []
                   },
                   "first_seen": "2026-08-29T01:08:45.064Z"
                 },
@@ -53,12 +70,25 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "A fully Dockerized, self-hosted development environment for teams. Develop where you serve.",
+                    "homepage": "https://hub.docker.com/r/dm3ll3n/shinystudio",
                     "id": 179188355,
                     "language": "Shell",
+                    "license": "MIT",
                     "last_commit": "2020-07-17T18:10:05Z",
+                    "open_issues": 8,
                     "owner": "fresh2dev",
                     "repo": "ShinyStudio",
-                    "stars": 241
+                    "stars": 241,
+                    "topics": [
+                      "docker",
+                      "powershell",
+                      "python",
+                      "r",
+                      "rstudio",
+                      "shiny",
+                      "vscode"
+                    ]
                   },
                   "first_seen": "2026-08-29T01:08:45.064Z"
                 }
@@ -76,12 +106,28 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Heroku buildpack for R - Makes deploying R on Heroku easy",
+                    "homepage": null,
                     "id": 3449857,
                     "language": "R",
+                    "license": "MIT",
                     "last_commit": "2025-05-08T22:08:48Z",
+                    "open_issues": 4,
                     "owner": "virtualstaticvoid",
                     "repo": "heroku-buildpack-r",
-                    "stars": 305
+                    "stars": 305,
+                    "topics": [
+                      "heroku",
+                      "heroku-buildpack",
+                      "multiple-buildpacks",
+                      "packrat",
+                      "plumber",
+                      "plumber-applications",
+                      "r",
+                      "renv",
+                      "shiny",
+                      "shiny-applications"
+                    ]
                   },
                   "first_seen": "2026-08-29T01:08:45.064Z"
                 }
@@ -109,12 +155,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "A guide to some of the most useful R Packages that we know about",
+                    "homepage": null,
                     "id": 57074111,
                     "language": "R",
+                    "license": "NOASSERTION",
                     "last_commit": "2019-09-16T16:42:30Z",
+                    "open_issues": 6,
                     "owner": "rstudio",
                     "repo": "RStartHere",
-                    "stars": 661
+                    "stars": 661,
+                    "topics": []
                   },
                   "first_seen": "2026-08-29T01:08:45.064Z"
                 }
@@ -132,12 +183,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "🤹 Shiny tips & tricks for improving your apps and solving common problems",
+                    "homepage": "https://deanattali.com/blog/advanced-shiny-tips/",
                     "id": 39494209,
                     "language": "R",
+                    "license": null,
                     "last_commit": "2025-12-21T05:49:16Z",
+                    "open_issues": 1,
                     "owner": "daattali",
                     "repo": "advanced-shiny",
-                    "stars": 1215
+                    "stars": 1215,
+                    "topics": []
                   },
                   "first_seen": "2026-08-29T01:08:45.064Z"
                 }
@@ -163,12 +219,26 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A Framework for Building Robust Shiny Apps ",
+                "homepage": "https://thinkr-open.github.io/golem/",
                 "id": 132664006,
                 "language": "R",
+                "license": "NOASSERTION",
                 "last_commit": "2026-07-07T15:10:56Z",
+                "open_issues": 21,
                 "owner": "ThinkR-open",
                 "repo": "golem",
-                "stars": 945
+                "stars": 945,
+                "topics": [
+                  "golemverse",
+                  "hacktoberfest",
+                  "r",
+                  "r-package",
+                  "shiny",
+                  "shiny-apps",
+                  "shiny-r",
+                  "shinyapps"
+                ]
               },
               "first_seen": "2026-08-29T01:08:45.064Z"
             },
@@ -179,12 +249,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "shinyWidgets : Extend widgets available in shiny",
+                "homepage": "https://dreamrs.github.io/shinyWidgets/",
                 "id": 85872107,
                 "language": "R",
+                "license": "GPL-3.0",
                 "last_commit": "2026-07-06T15:28:17Z",
+                "open_issues": 116,
                 "owner": "dreamRs",
                 "repo": "shinyWidgets",
-                "stars": 871
+                "stars": 871,
+                "topics": [
+                  "r",
+                  "rshiny",
+                  "rstats",
+                  "shiny"
+                ]
               },
               "first_seen": "2026-08-29T01:08:45.064Z"
             },
@@ -195,12 +275,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "💡 Easily improve the user experience of your Shiny apps in seconds",
+                "homepage": "https://deanattali.com/shinyjs",
                 "id": 29843701,
                 "language": "R",
+                "license": "NOASSERTION",
                 "last_commit": "2026-08-11T19:09:42Z",
+                "open_issues": 5,
                 "owner": "daattali",
                 "repo": "shinyjs",
-                "stars": 751
+                "stars": 751,
+                "topics": [
+                  "javascript",
+                  "r",
+                  "r-package",
+                  "rstats",
+                  "shiny",
+                  "shiny-r"
+                ]
               },
               "first_seen": "2026-08-29T01:08:45.064Z"
             },
@@ -211,12 +303,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "📅 Create interactive timeline visualizations in R",
+                "homepage": "http://daattali.com/shiny/timevis-demo/",
                 "id": 63218141,
                 "language": "R",
+                "license": "NOASSERTION",
                 "last_commit": "2024-08-18T18:43:47Z",
+                "open_issues": 4,
                 "owner": "daattali",
                 "repo": "timevis",
-                "stars": 683
+                "stars": 683,
+                "topics": [
+                  "r",
+                  "r-package",
+                  "rstats",
+                  "shiny",
+                  "shiny-r"
+                ]
               },
               "first_seen": "2026-08-29T01:08:45.064Z"
             },
@@ -227,12 +330,26 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Shiny support for powerful Fomantic UI library.",
+                "homepage": "http://appsilon.github.io/shiny.semantic",
                 "id": 75114262,
                 "language": "R",
+                "license": "NOASSERTION",
                 "last_commit": "2025-12-02T15:10:47Z",
+                "open_issues": 40,
                 "owner": "Appsilon",
                 "repo": "shiny.semantic",
-                "stars": 513
+                "stars": 513,
+                "topics": [
+                  "appsilon",
+                  "fomantic-ui",
+                  "r",
+                  "rhinoverse",
+                  "semantic",
+                  "semantic-components",
+                  "semantic-ui",
+                  "shiny"
+                ]
               },
               "first_seen": "2026-08-29T01:08:45.064Z"
             },
@@ -243,12 +360,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Loading screens for Shiny",
+                "homepage": "https://waiter.john-coene.com/",
                 "id": 174504815,
                 "language": "JavaScript",
+                "license": "NOASSERTION",
                 "last_commit": "2026-08-17T17:25:31Z",
+                "open_issues": 35,
                 "owner": "JohnCoene",
                 "repo": "waiter",
-                "stars": 495
+                "stars": 495,
+                "topics": [
+                  "hacktoberfest",
+                  "r",
+                  "rstats",
+                  "shiny"
+                ]
               },
               "first_seen": "2026-08-29T01:08:45.064Z"
             },
@@ -259,12 +386,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Business analytics using R and Shiny. The radiant app combines the menus from radiant.data, radiant.design, radiant.basics, radiant.model, and radiant.multivariate.",
+                "homepage": "https://radiant-rstats.github.io/docs/",
                 "id": 61595715,
                 "language": "HTML",
+                "license": "NOASSERTION",
                 "last_commit": "2026-01-10T02:56:23Z",
+                "open_issues": 37,
                 "owner": "radiant-rstats",
                 "repo": "radiant",
-                "stars": 466
+                "stars": 466,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:08:45.064Z"
             },
@@ -275,12 +407,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "R package with shiny authentication modules",
+                "homepage": "https://paulc91.github.io/shinyauthr/",
                 "id": 154582682,
                 "language": "R",
+                "license": "NOASSERTION",
                 "last_commit": "2024-03-04T17:16:16Z",
+                "open_issues": 14,
                 "owner": "PaulC91",
                 "repo": "shinyauthr",
-                "stars": 439
+                "stars": 439,
+                "topics": [
+                  "authentication",
+                  "r",
+                  "shiny"
+                ]
               },
               "first_seen": "2026-08-29T01:08:45.064Z"
             },
@@ -291,12 +432,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "⌛ Add loading animations to a Shiny output while it's recalculating",
+                "homepage": "https://daattali.com/shiny/shinycssloaders-demo/",
                 "id": 90229172,
                 "language": "CSS",
+                "license": "NOASSERTION",
                 "last_commit": "2025-08-14T12:37:00Z",
+                "open_issues": 3,
                 "owner": "daattali",
                 "repo": "shinycssloaders",
-                "stars": 422
+                "stars": 422,
+                "topics": [
+                  "r",
+                  "r-package",
+                  "rstats",
+                  "shiny",
+                  "shiny-r"
+                ]
               },
               "first_seen": "2026-08-29T01:08:45.064Z"
             },
@@ -307,12 +459,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Simple and secure authentification mechanism for single shiny applications.",
+                "homepage": "https://datastorm-open.github.io/shinymanager/",
                 "id": 175846555,
                 "language": "HTML",
+                "license": null,
                 "last_commit": "2026-07-06T11:21:28Z",
+                "open_issues": 53,
                 "owner": "datastorm-open",
                 "repo": "shinymanager",
-                "stars": 404
+                "stars": 404,
+                "topics": [
+                  "r",
+                  "shiny",
+                  "shiny-server",
+                  "shinyapps"
+                ]
               },
               "first_seen": "2026-08-29T01:08:45.064Z"
             },
@@ -323,12 +485,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "No Longer Supported",
+                "homepage": null,
                 "id": 123786666,
                 "language": "R",
+                "license": "NOASSERTION",
                 "last_commit": "2022-07-13T17:57:00Z",
+                "open_issues": 0,
                 "owner": "nik01010",
                 "repo": "dashboardthemes",
-                "stars": 314
+                "stars": 314,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:08:45.064Z"
             },
@@ -339,12 +506,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "jQuery UI Interactions and Effects for Shiny",
+                "homepage": "https://yang-tang.github.io/shinyjqui/",
                 "id": 80878449,
                 "language": "R",
+                "license": "NOASSERTION",
                 "last_commit": "2023-12-30T13:09:30Z",
+                "open_issues": 16,
                 "owner": "Yang-Tang",
                 "repo": "shinyjqui",
-                "stars": 279
+                "stars": 279,
+                "topics": [
+                  "jquery-ui",
+                  "r",
+                  "shiny"
+                ]
               },
               "first_seen": "2026-08-29T01:08:45.064Z"
             },
@@ -355,12 +531,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Interactively edit ggplot layer aesthetics and theme definitions",
+                "homepage": "https://yonicd.github.io/ggedit/",
                 "id": 73772072,
                 "language": "HTML",
+                "license": "NOASSERTION",
                 "last_commit": "2024-05-11T11:40:46Z",
+                "open_issues": 2,
                 "owner": "yonicd",
                 "repo": "ggedit",
-                "stars": 252
+                "stars": 252,
+                "topics": [
+                  "ggplot2",
+                  "r",
+                  "shiny"
+                ]
               },
               "first_seen": "2026-08-29T01:08:45.064Z"
             },
@@ -371,12 +556,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "🗯️ Easily create pretty popup messages (modals) in Shiny",
+                "homepage": "https://daattali.com/shiny/shinyalert-demo/",
                 "id": 70670304,
                 "language": "R",
+                "license": "NOASSERTION",
                 "last_commit": "2024-06-02T16:48:16Z",
+                "open_issues": 5,
                 "owner": "daattali",
                 "repo": "shinyalert",
-                "stars": 245
+                "stars": 245,
+                "topics": [
+                  "r",
+                  "r-package",
+                  "rstats",
+                  "shiny",
+                  "shiny-r"
+                ]
               },
               "first_seen": "2026-08-29T01:08:45.064Z"
             },
@@ -387,12 +583,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Authentication and Administration for Shiny apps",
+                "homepage": "https://polished.tech",
                 "id": 194945356,
                 "language": "R",
+                "license": "NOASSERTION",
                 "last_commit": "2025-03-20T10:57:30Z",
+                "open_issues": 21,
                 "owner": "Tychobra",
                 "repo": "polished",
-                "stars": 236
+                "stars": 236,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:08:45.064Z"
             },
@@ -403,12 +604,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 88212549,
                 "language": "R",
+                "license": "NOASSERTION",
                 "last_commit": "2025-12-23T03:49:59Z",
+                "open_issues": 43,
                 "owner": "ericrayanderson",
                 "repo": "shinymaterial",
-                "stars": 234
+                "stars": 234,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:08:45.064Z"
             },
@@ -419,12 +625,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Integrating the Ace editor with Shiny.",
+                "homepage": "http://trestletech.github.io/shinyAce/",
                 "id": 13487312,
                 "language": "R",
+                "license": "NOASSERTION",
                 "last_commit": "2025-02-02T22:59:08Z",
+                "open_issues": 14,
                 "owner": "trestletech",
                 "repo": "shinyAce",
-                "stars": 227
+                "stars": 227,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:08:45.064Z"
             },
@@ -435,12 +646,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "🎨 A colour picker tool for Shiny and for selecting colours in plots (in R)",
+                "homepage": "https://daattali.com/shiny/colourInput/",
                 "id": 65519148,
                 "language": "JavaScript",
+                "license": "NOASSERTION",
                 "last_commit": "2024-08-18T18:40:57Z",
+                "open_issues": 4,
                 "owner": "daattali",
                 "repo": "colourpicker",
-                "stars": 227
+                "stars": 227,
+                "topics": [
+                  "r",
+                  "r-package",
+                  "rstats",
+                  "rstudio-addin",
+                  "shiny",
+                  "shiny-r"
+                ]
               },
               "first_seen": "2026-08-29T01:08:45.064Z"
             },
@@ -451,12 +674,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Automated testing for shiny apps",
+                "homepage": "https://rstudio.github.io/shinytest/",
                 "id": 66461432,
                 "language": "JavaScript",
+                "license": "NOASSERTION",
                 "last_commit": "2024-05-28T17:42:51Z",
+                "open_issues": 53,
                 "owner": "rstudio",
                 "repo": "shinytest",
-                "stars": 224
+                "stars": 224,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:08:45.064Z"
             },
@@ -467,12 +695,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A shiny extension for server side file access",
+                "homepage": null,
                 "id": 20096303,
                 "language": "JavaScript",
+                "license": null,
                 "last_commit": "2023-07-05T20:43:26Z",
+                "open_issues": 36,
                 "owner": "thomasp85",
                 "repo": "shinyFiles",
-                "stars": 206
+                "stars": 206,
+                "topics": [
+                  "filemanager",
+                  "rstats",
+                  "shiny",
+                  "ui-components"
+                ]
               },
               "first_seen": "2026-08-29T01:08:45.064Z"
             },
@@ -483,12 +721,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A bunch of shiny modules that let shiny sense the world around it. ",
+                "homepage": "http://nickstrayer.me/shinysense",
                 "id": 86110731,
                 "language": "JavaScript",
+                "license": "NOASSERTION",
                 "last_commit": "2019-10-15T00:00:25Z",
+                "open_issues": 19,
                 "owner": "nstrayer",
                 "repo": "shinysense",
-                "stars": 205
+                "stars": 205,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:08:45.064Z"
             },
@@ -499,12 +742,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "display user feedback next to Shiny inputs",
+                "homepage": "https://merlinoa.github.io/shinyFeedback/",
                 "id": 75841627,
                 "language": "R",
+                "license": "NOASSERTION",
                 "last_commit": "2023-01-31T11:11:37Z",
+                "open_issues": 13,
                 "owner": "merlinoa",
                 "repo": "shinyFeedback",
-                "stars": 193
+                "stars": 193,
+                "topics": [
+                  "feedback",
+                  "r",
+                  "shiny",
+                  "shiny-inputs"
+                ]
               },
               "first_seen": "2026-08-29T01:08:45.064Z"
             },
@@ -515,12 +768,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Various UI widgets/components not part of Shiny e.g. alerts, styled buttons",
+                "homepage": null,
                 "id": 14550110,
                 "language": "R",
+                "license": "NOASSERTION",
                 "last_commit": "2020-02-27T12:25:28Z",
+                "open_issues": 20,
                 "owner": "AnalytixWare",
                 "repo": "ShinySky",
-                "stars": 188
+                "stars": 188,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:08:45.064Z"
             },
@@ -531,12 +789,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "📝 Easily create questionnaire-type forms with Shiny ",
+                "homepage": null,
                 "id": 42104004,
                 "language": "R",
+                "license": "NOASSERTION",
                 "last_commit": "2022-02-13T19:51:44Z",
+                "open_issues": 29,
                 "owner": "daattali",
                 "repo": "shinyforms",
-                "stars": 166
+                "stars": 166,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:08:45.064Z"
             },
@@ -547,12 +810,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Authentication in shinyapps using Auth0 service",
+                "homepage": "https://curso-r.github.io/auth0/",
                 "id": 154844030,
                 "language": "R",
+                "license": "NOASSERTION",
                 "last_commit": "2026-04-13T17:24:17Z",
+                "open_issues": 31,
                 "owner": "curso-r",
                 "repo": "auth0",
-                "stars": 165
+                "stars": 165,
+                "topics": [
+                  "auth0",
+                  "authentication",
+                  "hacktoberfest",
+                  "r",
+                  "shiny"
+                ]
               },
               "first_seen": "2026-08-29T01:08:45.064Z"
             },
@@ -563,12 +837,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Shiny integration with the jsTree library",
+                "homepage": null,
                 "id": 22565116,
                 "language": "JavaScript",
+                "license": "NOASSERTION",
                 "last_commit": "2025-10-02T21:21:26Z",
+                "open_issues": 35,
                 "owner": "shinyTree",
                 "repo": "shinyTree",
-                "stars": 153
+                "stars": 153,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:08:45.064Z"
             },
@@ -579,12 +858,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Shiny and R Markdown addons to Bootstrap 3",
+                "homepage": "http://ijlyttle.github.io/bsplus/",
                 "id": 50553069,
                 "language": "R",
+                "license": "NOASSERTION",
                 "last_commit": "2025-04-06T13:14:47Z",
+                "open_issues": 44,
                 "owner": "ijlyttle",
                 "repo": "bsplus",
-                "stars": 150
+                "stars": 150,
+                "topics": [
+                  "bootstrap3",
+                  "r",
+                  "rmarkdown",
+                  "shiny"
+                ]
               },
               "first_seen": "2026-08-29T01:08:45.064Z"
             },
@@ -595,12 +884,19 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Minimal busy indicator for Shiny apps",
+                "homepage": "https://dreamrs.github.io/shinybusy/",
                 "id": 162151458,
                 "language": "R",
+                "license": "NOASSERTION",
                 "last_commit": "2024-09-17T07:24:22Z",
+                "open_issues": 12,
                 "owner": "dreamRs",
                 "repo": "shinybusy",
-                "stars": 146
+                "stars": 146,
+                "topics": [
+                  "shiny"
+                ]
               },
               "first_seen": "2026-08-29T01:08:45.064Z"
             },
@@ -611,12 +907,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A reactive web framework built on shiny",
+                "homepage": "https://nteetor.github.io/yonder/",
                 "id": 95173969,
                 "language": "R",
-                "last_commit": "2026-08-28T03:23:35Z",
+                "license": "NOASSERTION",
+                "last_commit": "2026-08-29T03:46:38Z",
+                "open_issues": 26,
                 "owner": "nteetor",
                 "repo": "yonder",
-                "stars": 136
+                "stars": 136,
+                "topics": [
+                  "bootstrap-4",
+                  "r",
+                  "reactive",
+                  "shiny",
+                  "web-framework"
+                ]
               },
               "first_seen": "2026-08-29T01:08:45.064Z"
             },
@@ -627,12 +934,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "To insert interactive charts from ECharts into R Shiny applications (在R Shiny app中插入ECharts可交互图形)",
+                "homepage": "https://CRAN.R-project.org/package=ECharts2Shiny",
                 "id": 60709381,
                 "language": "R",
+                "license": "GPL-2.0",
                 "last_commit": "2020-10-02T13:11:31Z",
+                "open_issues": 6,
                 "owner": "XD-DENG",
                 "repo": "ECharts2Shiny",
-                "stars": 131
+                "stars": 131,
+                "topics": [
+                  "r",
+                  "shiny",
+                  "visualization"
+                ]
               },
               "first_seen": "2026-08-29T01:08:45.064Z"
             },
@@ -643,12 +959,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Shiny Reactivity Visualizer",
+                "homepage": "http://rstudio.github.io/reactlog",
                 "id": 137799634,
                 "language": "JavaScript",
+                "license": "NOASSERTION",
                 "last_commit": "2026-08-24T08:21:42Z",
+                "open_issues": 26,
                 "owner": "rstudio",
                 "repo": "reactlog",
-                "stars": 131
+                "stars": 131,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:08:45.064Z"
             },
@@ -659,12 +980,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Add a custom loader for R shiny",
+                "homepage": "https://emitanaka.github.io/shinycustomloader/",
                 "id": 124728862,
                 "language": "R",
+                "license": null,
                 "last_commit": "2018-07-17T18:50:18Z",
+                "open_issues": 8,
                 "owner": "emitanaka",
                 "repo": "shinycustomloader",
-                "stars": 121
+                "stars": 121,
+                "topics": [
+                  "r",
+                  "rshiny",
+                  "rstats",
+                  "shiny"
+                ]
               },
               "first_seen": "2026-08-29T01:08:45.064Z"
             },
@@ -675,12 +1006,19 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Add markdown help files to 'shiny' apps",
+                "homepage": null,
                 "id": 134713039,
                 "language": "R",
+                "license": null,
                 "last_commit": "2022-10-05T16:28:11Z",
+                "open_issues": 14,
                 "owner": "cwthom",
                 "repo": "shinyhelper",
-                "stars": 116
+                "stars": 116,
+                "topics": [
+                  "shiny"
+                ]
               },
               "first_seen": "2026-08-29T01:08:45.064Z"
             },
@@ -691,12 +1029,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Notifications in Shiny apps",
+                "homepage": null,
                 "id": 60481849,
                 "language": "R",
+                "license": "NOASSERTION",
                 "last_commit": "2016-08-29T19:53:03Z",
+                "open_issues": 0,
                 "owner": "MangoTheCat",
                 "repo": "shinytoastr",
-                "stars": 96
+                "stars": 96,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:08:45.064Z"
             },
@@ -707,12 +1050,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Creating drag and drop elements in Shiny",
+                "homepage": null,
                 "id": 60884037,
                 "language": "R",
+                "license": null,
                 "last_commit": "2017-09-24T23:19:47Z",
+                "open_issues": 5,
                 "owner": "ayayron",
                 "repo": "shinydnd",
-                "stars": 93
+                "stars": 93,
+                "topics": [
+                  "draggable-elements",
+                  "drop-elements",
+                  "r",
+                  "shiny",
+                  "shiny-apps",
+                  "shinyapps"
+                ]
               },
               "first_seen": "2026-08-29T01:08:45.064Z"
             },
@@ -723,12 +1078,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "This project is deprecated and no longer supported. (Google Docs-like live collaboration in Shiny)",
+                "homepage": "https://appsilon.github.io/shiny.collections/",
                 "id": 85219961,
                 "language": "R",
+                "license": "NOASSERTION",
                 "last_commit": "2023-12-15T17:39:53Z",
+                "open_issues": 4,
                 "owner": "Appsilon",
                 "repo": "shiny.collections",
-                "stars": 75
+                "stars": 75,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:08:45.064Z"
             },
@@ -739,12 +1099,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "📷 Capture screenshots of entire pages or parts of pages in Shiny apps",
+                "homepage": "https://daattali.com/shiny/shinyscreenshot-demo/",
                 "id": 161843898,
                 "language": "R",
+                "license": "NOASSERTION",
                 "last_commit": "2024-10-27T04:38:55Z",
+                "open_issues": 4,
                 "owner": "daattali",
                 "repo": "shinyscreenshot",
-                "stars": 72
+                "stars": 72,
+                "topics": [
+                  "r",
+                  "r-package",
+                  "rstats",
+                  "shiny",
+                  "shiny-r"
+                ]
               },
               "first_seen": "2026-08-29T01:08:45.064Z"
             },
@@ -755,12 +1126,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "🔌 Show a nice message when a Shiny app disconnects or errors",
+                "homepage": "https://daattali.com/shiny/shinydisconnect-demo",
                 "id": 270562933,
                 "language": "R",
+                "license": "NOASSERTION",
                 "last_commit": "2024-08-18T18:44:17Z",
+                "open_issues": 5,
                 "owner": "daattali",
                 "repo": "shinydisconnect",
-                "stars": 71
+                "stars": 71,
+                "topics": [
+                  "r",
+                  "r-package",
+                  "rstats",
+                  "shiny",
+                  "shiny-r"
+                ]
               },
               "first_seen": "2026-08-29T01:08:45.064Z"
             },
@@ -771,12 +1153,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "Generate UML diagrams of Shiny modules",
+                "homepage": null,
                 "id": 169471133,
                 "language": "R",
+                "license": "NOASSERTION",
                 "last_commit": "2023-12-27T19:33:07Z",
+                "open_issues": 2,
                 "owner": "strboul",
                 "repo": "supreme",
-                "stars": 59
+                "stars": 59,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:08:45.064Z"
             },
@@ -787,12 +1174,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "unit testing for shiny reactivity",
+                "homepage": "https://yonicd.github.io/reactor",
                 "id": 219646466,
                 "language": "R",
+                "license": "NOASSERTION",
                 "last_commit": "2021-07-07T14:13:32Z",
+                "open_issues": 1,
                 "owner": "yonicd",
                 "repo": "reactor",
-                "stars": 58
+                "stars": 58,
+                "topics": [
+                  "r",
+                  "shiny",
+                  "testthat"
+                ]
               },
               "first_seen": "2026-08-29T01:08:45.064Z"
             },
@@ -803,12 +1199,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "An shiny input widget for selecting directories",
+                "homepage": null,
                 "id": 49921549,
                 "language": "R",
+                "license": "BSD-3-Clause",
                 "last_commit": "2021-03-03T21:45:46Z",
+                "open_issues": 5,
                 "owner": "wleepang",
                 "repo": "shiny-directory-input",
-                "stars": 49
+                "stars": 49,
+                "topics": [
+                  "r",
+                  "shiny",
+                  "shiny-applications",
+                  "widget"
+                ]
               },
               "first_seen": "2026-08-29T01:08:45.064Z"
             },
@@ -819,12 +1225,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A Shiny framework for workflow management and data visualization",
+                "homepage": "https://systempipe.org/sps/",
                 "id": 241477718,
                 "language": "R",
+                "license": null,
                 "last_commit": "2025-05-20T04:19:24Z",
+                "open_issues": 0,
                 "owner": "systemPipeR",
                 "repo": "systemPipeShiny",
-                "stars": 36
+                "stars": 36,
+                "topics": [
+                  "bioconductor",
+                  "bioconductor-package",
+                  "data-visualization",
+                  "r",
+                  "shiny",
+                  "systempiper"
+                ]
               },
               "first_seen": "2026-08-29T01:08:45.064Z"
             },
@@ -835,12 +1253,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A timeInput widget for Shiny",
+                "homepage": "https://burgerga.github.io/shinyTime/",
                 "id": 63516991,
                 "language": "R",
+                "license": "NOASSERTION",
                 "last_commit": "2024-05-08T15:23:31Z",
+                "open_issues": 8,
                 "owner": "burgerga",
                 "repo": "shinyTime",
-                "stars": 31
+                "stars": 31,
+                "topics": [
+                  "hacktoberfest",
+                  "r",
+                  "r-package",
+                  "shiny",
+                  "timepicker",
+                  "widget"
+                ]
               },
               "first_seen": "2026-08-29T01:08:45.064Z"
             },
@@ -856,12 +1286,27 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Shiny Dashboarding framework",
+                    "homepage": "http://rstudio.github.io/shinydashboard/",
                     "id": 26501669,
                     "language": "CSS",
+                    "license": "NOASSERTION",
                     "last_commit": "2025-04-22T14:18:12Z",
+                    "open_issues": 165,
                     "owner": "rstudio",
                     "repo": "shinydashboard",
-                    "stars": 927
+                    "stars": 927,
+                    "topics": [
+                      "admin-dashboard",
+                      "dashboard",
+                      "r",
+                      "reactivity",
+                      "rstudio",
+                      "shiny",
+                      "shinydashboard",
+                      "web-app",
+                      "web-development"
+                    ]
                   },
                   "first_seen": "2026-08-29T01:08:45.064Z"
                 },
@@ -872,12 +1317,21 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Easily insert FontAwesome icons into R Markdown docs and Shiny apps",
+                    "homepage": "https://rstudio.github.io/fontawesome/",
                     "id": 135504089,
                     "language": "R",
+                    "license": "NOASSERTION",
                     "last_commit": "2025-10-05T04:11:16Z",
+                    "open_issues": 9,
                     "owner": "rstudio",
                     "repo": "fontawesome",
-                    "stars": 300
+                    "stars": 300,
+                    "topics": [
+                      "font-awesome",
+                      "r",
+                      "svg-icons"
+                    ]
                   },
                   "first_seen": "2026-08-29T01:08:45.064Z"
                 },
@@ -893,24 +1347,34 @@
                       "children": [],
                       "repo_info": {
                         "archived": false,
+                        "description": null,
+                        "homepage": null,
                         "id": 48509649,
                         "language": "R",
+                        "license": null,
                         "last_commit": "2025-04-17T22:05:33Z",
+                        "open_issues": 6,
                         "owner": "rstudio",
                         "repo": "miniUI",
-                        "stars": 108
+                        "stars": 108,
+                        "topics": []
                       },
                       "first_seen": "2026-08-29T01:08:45.064Z"
                     }
                   ],
                   "repo_info": {
                     "archived": false,
+                    "description": "Themes for Shiny",
+                    "homepage": "http://rstudio.github.io/shinythemes/",
                     "id": 27605687,
                     "language": "R",
+                    "license": "NOASSERTION",
                     "last_commit": "2022-02-25T15:37:49Z",
+                    "open_issues": 6,
                     "owner": "rstudio",
                     "repo": "shinythemes",
-                    "stars": 160
+                    "stars": 160,
+                    "topics": []
                   },
                   "first_seen": "2026-08-29T01:08:45.064Z"
                 }
@@ -930,12 +1394,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "Interactive grammar of graphics for R",
+                "homepage": null,
                 "id": 9779536,
                 "language": "R",
+                "license": "NOASSERTION",
                 "last_commit": "2026-02-10T14:26:50Z",
+                "open_issues": 189,
                 "owner": "rstudio",
                 "repo": "ggvis",
-                "stars": 707
+                "stars": 707,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:08:45.064Z"
             },
@@ -946,12 +1415,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Interface between R and the Google Chart Tools",
+                "homepage": "https://mages.github.io/googleVis/",
                 "id": 16663505,
                 "language": "R",
+                "license": null,
                 "last_commit": "2025-10-08T08:20:33Z",
+                "open_issues": 33,
                 "owner": "mages",
                 "repo": "googleVis",
-                "stars": 363
+                "stars": 363,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:08:45.064Z"
             },
@@ -962,12 +1436,35 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "How to install local shiny apps",
+                "homepage": "https://ficonsulting.github.io/RInno/",
                 "id": 83442097,
                 "language": "HTML",
+                "license": "NOASSERTION",
                 "last_commit": "2023-10-31T05:28:09Z",
+                "open_issues": 61,
                 "owner": "ficonsulting",
                 "repo": "RInno",
-                "stars": 313
+                "stars": 313,
+                "topics": [
+                  "batch-script",
+                  "electron",
+                  "flexdashboard",
+                  "inno",
+                  "inno-setup",
+                  "iss",
+                  "javascript",
+                  "jscript",
+                  "json",
+                  "pascal",
+                  "r",
+                  "shiny",
+                  "shiny-applications",
+                  "shiny-apps",
+                  "shinyapps",
+                  "shinydashboard",
+                  "wsf"
+                ]
               },
               "first_seen": "2026-08-29T01:08:45.064Z"
             },
@@ -978,12 +1475,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Object Pooling in R",
+                "homepage": "http://rstudio.github.io/pool/",
                 "id": 59137493,
                 "language": "R",
+                "license": "NOASSERTION",
                 "last_commit": "2026-05-19T13:23:48Z",
+                "open_issues": 3,
                 "owner": "rstudio",
                 "repo": "pool",
-                "stars": 255
+                "stars": 255,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:08:45.064Z"
             },
@@ -999,12 +1501,28 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "An interactive graphing library for R",
+                    "homepage": "https://plotly-r.com",
                     "id": 14579179,
                     "language": "R",
+                    "license": "NOASSERTION",
                     "last_commit": "2026-07-25T00:33:15Z",
+                    "open_issues": 760,
                     "owner": "plotly",
                     "repo": "plotly.R",
-                    "stars": 2676
+                    "stars": 2676,
+                    "topics": [
+                      "d3js",
+                      "data-visualization",
+                      "ggplot2",
+                      "javascript",
+                      "plotly",
+                      "r",
+                      "r-package",
+                      "rstats",
+                      "shiny",
+                      "webgl"
+                    ]
                   },
                   "first_seen": "2026-08-29T01:08:45.064Z"
                 },
@@ -1015,12 +1533,24 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Graph and network visualization using tabular data in R",
+                    "homepage": "https://rich-iannone.github.io/DiagrammeR/",
                     "id": 28556914,
                     "language": "R",
+                    "license": "NOASSERTION",
                     "last_commit": "2026-04-27T20:44:12Z",
+                    "open_issues": 172,
                     "owner": "rich-iannone",
                     "repo": "DiagrammeR",
-                    "stars": 1740
+                    "stars": 1740,
+                    "topics": [
+                      "graph",
+                      "graph-functions",
+                      "network-graph",
+                      "property-graph",
+                      "r",
+                      "visualization"
+                    ]
                   },
                   "first_seen": "2026-08-29T01:08:45.064Z"
                 },
@@ -1031,12 +1561,21 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "D3 JavaScript Network Graphs from R",
+                    "homepage": "http://christophergandrud.github.io/networkD3",
                     "id": 22515506,
                     "language": "R",
+                    "license": null,
                     "last_commit": "2025-04-18T06:25:04Z",
+                    "open_issues": 82,
                     "owner": "christophergandrud",
                     "repo": "networkD3",
-                    "stars": 660
+                    "stars": 660,
+                    "topics": [
+                      "d3js",
+                      "networks",
+                      "rstats"
+                    ]
                   },
                   "first_seen": "2026-08-29T01:08:45.064Z"
                 },
@@ -1047,12 +1586,24 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Echarts 5 for R",
+                    "homepage": "http://echarts4r.john-coene.com/",
                     "id": 124915957,
                     "language": "R",
+                    "license": "NOASSERTION",
                     "last_commit": "2026-06-23T14:27:23Z",
+                    "open_issues": 179,
                     "owner": "JohnCoene",
                     "repo": "echarts4r",
-                    "stars": 628
+                    "stars": 628,
+                    "topics": [
+                      "echarts",
+                      "htmlwidget",
+                      "htmlwidgets",
+                      "r",
+                      "rstats",
+                      "visualization"
+                    ]
                   },
                   "first_seen": "2026-08-29T01:08:45.064Z"
                 },
@@ -1063,12 +1614,26 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "table farming",
+                    "homepage": "https://ardata-fr.github.io/flextable-book/",
                     "id": 62127938,
                     "language": "R",
+                    "license": null,
                     "last_commit": "2026-08-05T08:07:06Z",
+                    "open_issues": 10,
                     "owner": "davidgohel",
                     "repo": "flextable",
-                    "stars": 626
+                    "stars": 626,
+                    "topics": [
+                      "cran",
+                      "docx",
+                      "html5",
+                      "ms-office-documents",
+                      "r",
+                      "rmarkdown",
+                      "rstats",
+                      "table"
+                    ]
                   },
                   "first_seen": "2026-08-29T01:08:45.064Z"
                 },
@@ -1079,12 +1644,24 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "R Interface to the jQuery Plug-in DataTables",
+                    "homepage": "https://rstudio.github.io/DT/",
                     "id": 26505425,
                     "language": "JavaScript",
+                    "license": "NOASSERTION",
                     "last_commit": "2026-05-18T15:40:52Z",
+                    "open_issues": 207,
                     "owner": "rstudio",
                     "repo": "DT",
-                    "stars": 622
+                    "stars": 622,
+                    "topics": [
+                      "datatables",
+                      "htmlwidgets",
+                      "javascript",
+                      "r",
+                      "r-package",
+                      "shiny"
+                    ]
                   },
                   "first_seen": "2026-08-29T01:08:45.064Z"
                 },
@@ -1095,12 +1672,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "R package, using vis.js library for network visualization",
+                    "homepage": null,
                     "id": 34519310,
                     "language": "JavaScript",
+                    "license": "NOASSERTION",
                     "last_commit": "2026-07-15T13:52:15Z",
+                    "open_issues": 156,
                     "owner": "datastorm-open",
                     "repo": "visNetwork",
-                    "stars": 564
+                    "stars": 564,
+                    "topics": []
                   },
                   "first_seen": "2026-08-29T01:08:45.064Z"
                 },
@@ -1111,12 +1693,24 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "A htmlwidgets implementation of Handsontable.js",
+                    "homepage": "http://jrowen.github.io/rhandsontable/",
                     "id": 31691538,
                     "language": "HTML",
+                    "license": "NOASSERTION",
                     "last_commit": "2024-07-23T18:38:19Z",
+                    "open_issues": 166,
                     "owner": "jrowen",
                     "repo": "rhandsontable",
-                    "stars": 389
+                    "stars": 389,
+                    "topics": [
+                      "handsontable",
+                      "htmlwidgets",
+                      "javascript",
+                      "r",
+                      "shiny",
+                      "sparkline"
+                    ]
                   },
                   "first_seen": "2026-08-29T01:08:45.064Z"
                 },
@@ -1127,12 +1721,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "R interface to dygraphs",
+                    "homepage": "http://rstudio.github.io/dygraphs",
                     "id": 22991378,
                     "language": "JavaScript",
+                    "license": "NOASSERTION",
                     "last_commit": "2024-03-15T04:26:22Z",
+                    "open_issues": 122,
                     "owner": "rstudio",
                     "repo": "dygraphs",
-                    "stars": 367
+                    "stars": 367,
+                    "topics": []
                   },
                   "first_seen": "2026-08-29T01:08:45.064Z"
                 },
@@ -1143,12 +1742,24 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Three.js widgets for R and shiny",
+                    "homepage": "http://bwlewis.github.io/rthreejs",
                     "id": 26826454,
                     "language": "JavaScript",
+                    "license": "NOASSERTION",
                     "last_commit": "2025-05-03T10:48:06Z",
+                    "open_issues": 37,
                     "owner": "bwlewis",
                     "repo": "rthreejs",
-                    "stars": 308
+                    "stars": 308,
+                    "topics": [
+                      "data-visualization",
+                      "graph-animation",
+                      "igraph",
+                      "r",
+                      "threejs",
+                      "webgl"
+                    ]
                   },
                   "first_seen": "2026-08-29T01:08:45.064Z"
                 },
@@ -1159,12 +1770,20 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "TrelliscopeJS R Package",
+                    "homepage": "https://hafen.github.io/trelliscopejs",
                     "id": 69994512,
                     "language": "R",
+                    "license": "NOASSERTION",
                     "last_commit": "2026-01-14T15:12:20Z",
+                    "open_issues": 77,
                     "owner": "hafen",
                     "repo": "trelliscopejs",
-                    "stars": 263
+                    "stars": 263,
+                    "topics": [
+                      "r",
+                      "visualization"
+                    ]
                   },
                   "first_seen": "2026-08-29T01:08:45.064Z"
                 },
@@ -1175,12 +1794,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "A D3.js-based heatmap htmlwidget for R",
+                    "homepage": null,
                     "id": 11424446,
                     "language": "R",
+                    "license": "NOASSERTION",
                     "last_commit": "2025-11-29T12:07:50Z",
+                    "open_issues": 45,
                     "owner": "talgalili",
                     "repo": "d3heatmap",
-                    "stars": 236
+                    "stars": 236,
+                    "topics": []
                   },
                   "first_seen": "2026-08-29T01:08:45.064Z"
                 },
@@ -1191,12 +1815,23 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Shiny gadget for labeling points on ggplot",
+                    "homepage": null,
                     "id": 82725277,
                     "language": "R",
+                    "license": "NOASSERTION",
                     "last_commit": "2021-03-12T04:52:13Z",
+                    "open_issues": 1,
                     "owner": "AliciaSchep",
                     "repo": "gglabeller",
-                    "stars": 188
+                    "stars": 188,
+                    "topics": [
+                      "ggplot2",
+                      "labeling-points",
+                      "plot",
+                      "r",
+                      "shiny"
+                    ]
                   },
                   "first_seen": "2026-08-29T01:08:45.064Z"
                 },
@@ -1207,12 +1842,21 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": ":bar_chart: R Htmlwidget for billboard.js",
+                    "homepage": "https://dreamrs.github.io/billboarder/",
                     "id": 97649774,
                     "language": "R",
+                    "license": "NOASSERTION",
                     "last_commit": "2026-08-06T14:10:40Z",
+                    "open_issues": 11,
                     "owner": "dreamRs",
                     "repo": "billboarder",
-                    "stars": 177
+                    "stars": 177,
+                    "topics": [
+                      "data-visualization",
+                      "htmlwidgets",
+                      "r"
+                    ]
                   },
                   "first_seen": "2026-08-29T01:08:45.064Z"
                 },
@@ -1223,12 +1867,22 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "slick carousel htmlwidget for R",
+                    "homepage": "https://yonicd.github.io/slickR/",
                     "id": 81700637,
                     "language": "JavaScript",
+                    "license": "NOASSERTION",
                     "last_commit": "2025-12-15T21:07:43Z",
+                    "open_issues": 19,
                     "owner": "yonicd",
                     "repo": "slickR",
-                    "stars": 162
+                    "stars": 162,
+                    "topics": [
+                      "htmlwidgets",
+                      "javascript",
+                      "r",
+                      "slick"
+                    ]
                   },
                   "first_seen": "2026-08-29T01:08:45.064Z"
                 },
@@ -1239,12 +1893,24 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "R scatter plot htmlwidget based on D3.js",
+                    "homepage": "https://juba.github.io/scatterD3/",
                     "id": 37119784,
                     "language": "JavaScript",
+                    "license": null,
                     "last_commit": "2026-08-05T17:07:34Z",
+                    "open_issues": 3,
                     "owner": "juba",
                     "repo": "scatterD3",
-                    "stars": 162
+                    "stars": 162,
+                    "topics": [
+                      "cran",
+                      "d3",
+                      "d3js",
+                      "htmlwidgets",
+                      "r",
+                      "shiny"
+                    ]
                   },
                   "first_seen": "2026-08-29T01:08:45.064Z"
                 },
@@ -1255,12 +1921,21 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "An Interface to 'jExcel.js' Library",
+                    "homepage": "https://swechhya.github.io/excelR/",
                     "id": 194982911,
                     "language": "JavaScript",
+                    "license": "NOASSERTION",
                     "last_commit": "2023-07-12T10:04:13Z",
+                    "open_issues": 31,
                     "owner": "Swechhya",
                     "repo": "excelR",
-                    "stars": 154
+                    "stars": 154,
+                    "topics": [
+                      "hacktoberfest",
+                      "r",
+                      "shiny"
+                    ]
                   },
                   "first_seen": "2026-08-29T01:08:45.064Z"
                 },
@@ -1271,12 +1946,22 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Wrapper for the Intro.js library",
+                    "homepage": "http://rintrojs.carlganz.com/",
                     "id": 62968025,
                     "language": "R",
+                    "license": "AGPL-3.0",
                     "last_commit": "2024-01-11T18:50:42Z",
+                    "open_issues": 20,
                     "owner": "carlganz",
                     "repo": "rintrojs",
-                    "stars": 137
+                    "stars": 137,
+                    "topics": [
+                      "cran",
+                      "introjs",
+                      "r",
+                      "shiny"
+                    ]
                   },
                   "first_seen": "2026-08-29T01:08:45.064Z"
                 },
@@ -1287,12 +1972,27 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Add More Interactivity to htmlwidgets",
+                    "homepage": null,
                     "id": 73835566,
                     "language": "R",
+                    "license": null,
                     "last_commit": "2026-01-16T09:47:51Z",
+                    "open_issues": 18,
                     "owner": "rte-antares-rpackage",
                     "repo": "manipulateWidget",
-                    "stars": 131
+                    "stars": 131,
+                    "topics": [
+                      "cran",
+                      "graphical",
+                      "htmlwidgets",
+                      "interactive-charts",
+                      "manipulate",
+                      "r",
+                      "rte",
+                      "shiny",
+                      "tyndp"
+                    ]
                   },
                   "first_seen": "2026-08-29T01:08:45.064Z"
                 },
@@ -1303,12 +2003,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": ":chart_with_upwards_trend: htmlwidget interface to the MetricsGraphics.js D3 chart library",
+                    "homepage": "http://hrbrmstr.github.io/metricsgraphics/",
                     "id": 28812485,
                     "language": "HTML",
+                    "license": "NOASSERTION",
                     "last_commit": "2018-02-03T14:38:42Z",
+                    "open_issues": 22,
                     "owner": "hrbrmstr",
                     "repo": "metricsgraphics",
-                    "stars": 130
+                    "stars": 130,
+                    "topics": []
                   },
                   "first_seen": "2026-08-29T01:08:45.064Z"
                 },
@@ -1319,12 +2024,26 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Minicharts for dynamic leaflet maps",
+                    "homepage": null,
                     "id": 87547970,
                     "language": "R",
+                    "license": null,
                     "last_commit": "2025-10-29T10:03:26Z",
+                    "open_issues": 26,
                     "owner": "rte-antares-rpackage",
                     "repo": "leaflet.minicharts",
-                    "stars": 108
+                    "stars": 108,
+                    "topics": [
+                      "chart",
+                      "dynamic-chart",
+                      "javascript",
+                      "leaflet",
+                      "leaflet-map",
+                      "leaflet-plugins",
+                      "leafletjs",
+                      "r"
+                    ]
                   },
                   "first_seen": "2026-08-29T01:08:45.064Z"
                 },
@@ -1335,12 +2054,23 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Σ sigma.js for R",
+                    "homepage": "http://sigmajs.john-coene.com",
                     "id": 133564984,
                     "language": "R",
+                    "license": "NOASSERTION",
                     "last_commit": "2021-01-29T09:28:35Z",
+                    "open_issues": 7,
                     "owner": "JohnCoene",
                     "repo": "sigmajs",
-                    "stars": 72
+                    "stars": 72,
+                    "topics": [
+                      "htmlwidgets",
+                      "network-visualization",
+                      "r",
+                      "rstats",
+                      "sigmajs"
+                    ]
                   },
                   "first_seen": "2026-08-29T01:08:45.064Z"
                 },
@@ -1351,12 +2081,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "clipboard.js for R/Shiny Applications",
+                    "homepage": null,
                     "id": 76152131,
                     "language": "R",
+                    "license": "NOASSERTION",
                     "last_commit": "2023-11-15T09:28:05Z",
+                    "open_issues": 0,
                     "owner": "sbihorel",
                     "repo": "rclipboard",
-                    "stars": 51
+                    "stars": 51,
+                    "topics": []
                   },
                   "first_seen": "2026-08-29T01:08:45.064Z"
                 }
@@ -1380,12 +2115,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 13722949,
             "language": "JavaScript",
+            "license": "NOASSERTION",
             "last_commit": "2025-05-20T13:04:41Z",
+            "open_issues": 55,
             "owner": "rstudio",
             "repo": "shiny-examples",
-            "stars": 2035
+            "stars": 2035,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:08:45.064Z"
         },
@@ -1396,12 +2136,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Interactive NBA and NCAA Shot Charts with R and Shiny",
+            "homepage": null,
             "id": 52746920,
             "language": "R",
+            "license": "MIT",
             "last_commit": "2022-12-30T14:24:55Z",
+            "open_issues": 2,
             "owner": "toddwschneider",
             "repo": "ballr",
-            "stars": 613
+            "stars": 613,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:08:45.064Z"
         },
@@ -1412,12 +2157,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Shiny apps for introductory statistics",
+            "homepage": "http://shinyed.github.io/intro-stats/",
             "id": 14483609,
             "language": "R",
+            "license": "NOASSERTION",
             "last_commit": "2022-09-15T21:50:32Z",
+            "open_issues": 1,
             "owner": "ShinyEd",
             "repo": "intro-stats",
-            "stars": 246
+            "stars": 246,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:08:45.064Z"
         },
@@ -1428,12 +2178,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Traveling salesman with simulated annealing, R, and Shiny",
+            "homepage": null,
             "id": 24035703,
             "language": "R",
+            "license": "MIT",
             "last_commit": "2019-02-18T14:30:59Z",
+            "open_issues": 0,
             "owner": "toddwschneider",
             "repo": "shiny-salesman",
-            "stars": 245
+            "stars": 245,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:08:45.064Z"
         },
@@ -1444,12 +2199,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A demo on how to build your own Google Analytics dashboard with R, Shiny and MySQL",
+            "homepage": "http://markedmondson.me/enhance-your-google-analytics-data-with-r-and-shiny-free-online-dashboard-template",
             "id": 38977253,
             "language": "R",
+            "license": null,
             "last_commit": "2018-04-20T11:12:46Z",
+            "open_issues": 5,
             "owner": "MarkEdmondson1234",
             "repo": "ga-dashboard-demo",
-            "stars": 124
+            "stars": 124,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:08:45.064Z"
         },
@@ -1460,12 +2220,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "The START App: R Shiny Transcriptome Analysis Resource Tool",
+            "homepage": "https://kcvi.shinyapps.io/START/",
             "id": 54351232,
             "language": "HTML",
+            "license": "GPL-3.0",
             "last_commit": "2020-11-11T01:31:12Z",
+            "open_issues": 7,
             "owner": "jminnier",
             "repo": "STARTapp",
-            "stars": 87
+            "stars": 87,
+            "topics": [
+              "bioinformatics",
+              "genome-biology",
+              "r",
+              "rna-seq",
+              "shiny",
+              "shiny-apps",
+              "transcriptome",
+              "visualization"
+            ]
           },
           "first_seen": "2026-08-29T01:08:45.064Z"
         },
@@ -1476,12 +2250,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "An interactive web application for demonstrating and using phyloseq.",
+            "homepage": "http://joey711.github.io/shiny-phyloseq",
             "id": 19294457,
             "language": "HTML",
+            "license": "GPL-3.0",
             "last_commit": "2019-07-18T15:10:30Z",
+            "open_issues": 22,
             "owner": "joey711",
             "repo": "shiny-phyloseq",
-            "stars": 60
+            "stars": 60,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:08:45.064Z"
         },
@@ -1492,12 +2271,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Shiny app for exploring a PCA ",
+            "homepage": null,
             "id": 56367367,
             "language": "R",
+            "license": "MIT",
             "last_commit": "2023-12-21T00:36:58Z",
+            "open_issues": 1,
             "owner": "benmarwick",
             "repo": "Interactive_PCA_Explorer",
-            "stars": 55
+            "stars": 55,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:08:45.064Z"
         },
@@ -1508,12 +2292,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Optimize your liquor cabinet using cocktail recipes from cooking.nytimes.com",
+            "homepage": null,
             "id": 51682423,
             "language": "R",
+            "license": null,
             "last_commit": "2016-02-14T18:02:05Z",
+            "open_issues": 2,
             "owner": "jordanmeyer",
             "repo": "nyt-bar-optimizer",
-            "stars": 41
+            "stars": 41,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:08:45.064Z"
         },
@@ -1524,12 +2313,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Demonstration of user management and authentication system in R Shiny",
+            "homepage": "https://yanirmor.shinyapps.io/shiny-user-management",
             "id": 127111284,
             "language": "R",
+            "license": "MIT",
             "last_commit": "2023-01-10T20:10:35Z",
+            "open_issues": 4,
             "owner": "yanirmor",
             "repo": "shiny-user-management",
-            "stars": 39
+            "stars": 39,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:08:45.064Z"
         },
@@ -1540,12 +2334,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Convert HTML to R",
+            "homepage": "https://alandipert.shinyapps.io/html2r/",
             "id": 119908886,
             "language": "R",
+            "license": null,
             "last_commit": "2018-02-02T00:21:25Z",
+            "open_issues": 4,
             "owner": "alandipert",
             "repo": "html2r",
-            "stars": 38
+            "stars": 38,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:08:45.064Z"
         },
@@ -1556,12 +2355,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "MAVIS: Meta Analysis via Shiny",
+            "homepage": null,
             "id": 26893336,
             "language": "R",
+            "license": null,
             "last_commit": "2018-03-01T06:44:38Z",
+            "open_issues": 5,
             "owner": "kylehamilton",
             "repo": "MAVIS",
-            "stars": 36
+            "stars": 36,
+            "topics": [
+              "cran",
+              "effect-size",
+              "meta-analysis",
+              "shiny"
+            ]
           },
           "first_seen": "2026-08-29T01:08:45.064Z"
         },
@@ -1572,12 +2381,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A data analysis web-app written in R Shiny.",
+            "homepage": null,
             "id": 120549347,
             "language": "R",
+            "license": "MIT",
             "last_commit": "2019-05-06T04:00:23Z",
+            "open_issues": 0,
             "owner": "fresh2dev",
             "repo": "shinyGEM",
-            "stars": 22
+            "stars": 22,
+            "topics": [
+              "r",
+              "shiny"
+            ]
           },
           "first_seen": "2026-08-29T01:08:45.064Z"
         },
@@ -1588,12 +2405,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "An application to compare genetic maps with D3 & Shiny",
+            "homepage": null,
             "id": 52594164,
             "language": "R",
+            "license": null,
             "last_commit": "2023-02-28T12:42:06Z",
+            "open_issues": 2,
             "owner": "holtzy",
             "repo": "GenMap-Comparator",
-            "stars": 22
+            "stars": 22,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:08:45.064Z"
         },
@@ -1604,12 +2426,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Application for hosting gene expression and ontology data with Shiny",
+            "homepage": null,
             "id": 63720464,
             "language": "R",
+            "license": null,
             "last_commit": "2018-01-08T21:44:13Z",
+            "open_issues": 0,
             "owner": "5c077",
             "repo": "ExpressionDB",
-            "stars": 17
+            "stars": 17,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:08:45.064Z"
         },
@@ -1620,12 +2447,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "web app for exploring Discogs collections",
+            "homepage": "https://apps.ewen.io/vinylspotting",
             "id": 83170259,
             "language": "R",
+            "license": "MIT",
             "last_commit": "2019-05-11T21:51:49Z",
+            "open_issues": 1,
             "owner": "ewenme",
             "repo": "vinylspotting",
-            "stars": 13
+            "stars": 13,
+            "topics": [
+              "discogs",
+              "music",
+              "r",
+              "rstats",
+              "shiny"
+            ]
           },
           "first_seen": "2026-08-29T01:08:45.064Z"
         },
@@ -1636,12 +2474,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "OCR an image and get a word cloud",
+            "homepage": null,
             "id": 74562898,
             "language": "R",
+            "license": null,
             "last_commit": "2020-02-10T04:49:09Z",
+            "open_issues": 2,
             "owner": "longhowlam",
             "repo": "OCRinShiny",
-            "stars": 13
+            "stars": 13,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:08:45.064Z"
         },
@@ -1652,12 +2495,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A Shiny app for finding beginner GitHub issues to contribute to",
+            "homepage": null,
             "id": 85960436,
             "language": "R",
+            "license": null,
             "last_commit": "2017-04-27T14:26:53Z",
+            "open_issues": 8,
             "owner": "LucyMcGowan",
             "repo": "contributr",
-            "stars": 12
+            "stars": 12,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:08:45.064Z"
         },
@@ -1668,12 +2516,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Shiny app for browsing R packages by CRAN Task Views and license info",
+            "homepage": "https://bearloga.shinyapps.io/taskviewr/",
             "id": 79497892,
             "language": "R",
+            "license": "GPL-3.0",
             "last_commit": "2019-09-04T18:54:46Z",
+            "open_issues": 0,
             "owner": "bearloga",
             "repo": "taskviewr",
-            "stars": 11
+            "stars": 11,
+            "topics": [
+              "app",
+              "cran",
+              "r",
+              "shiny",
+              "taskviews"
+            ]
           },
           "first_seen": "2026-08-29T01:08:45.064Z"
         },
@@ -1684,12 +2543,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "WebApp in RShiny using the package itunesr for iTunes AppStore Review Extraction and Analysis",
+            "homepage": null,
             "id": 99721694,
             "language": "R",
+            "license": null,
             "last_commit": "2020-03-03T19:40:17Z",
+            "open_issues": 1,
             "owner": "amrrs",
             "repo": "itunesr_webapp",
-            "stars": 10
+            "stars": 10,
+            "topics": [
+              "appstore",
+              "itunes",
+              "r",
+              "rshiny"
+            ]
           },
           "first_seen": "2026-08-29T01:08:45.064Z"
         },
@@ -1700,12 +2569,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Shiny app that connects with spotify's API and provides personalized playlist recommendations and data visualization",
+            "homepage": null,
             "id": 124295023,
             "language": "R",
+            "license": null,
             "last_commit": "2018-03-07T21:32:34Z",
+            "open_issues": 1,
             "owner": "joelcponte",
             "repo": "shiny-app-spotify",
-            "stars": 10
+            "stars": 10,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:08:45.064Z"
         },
@@ -1716,12 +2590,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Visual Pruner: a Shiny app for cohort selection in observational studies",
+            "homepage": null,
             "id": 54733392,
             "language": "HTML",
+            "license": null,
             "last_commit": "2023-02-09T21:26:23Z",
+            "open_issues": 0,
             "owner": "LaurenSamuels",
             "repo": "VisualPruner",
-            "stars": 4
+            "stars": 4,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:08:45.064Z"
         },
@@ -1732,12 +2611,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 94792393,
             "language": "R",
+            "license": "GPL-3.0",
             "last_commit": "2018-03-12T22:28:57Z",
+            "open_issues": 0,
             "owner": "Dmunslow",
             "repo": "Opioid-Overdose-Shiny-App",
-            "stars": 0
+            "stars": 0,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:08:45.064Z"
         }
@@ -1746,15 +2630,26 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T01:08:45.064Z",
+    "last_updated": "2026-08-29T04:37:55.164Z",
     "original_repository_info": {
       "archived": false,
+      "description": "An awesome R-shiny list!",
+      "homepage": "https://grabear.github.io/awesome-rshiny/",
       "id": 89300938,
       "language": "R",
+      "license": "CC0-1.0",
       "last_commit": "2022-10-07T09:07:26Z",
+      "open_issues": 7,
       "owner": "grabear",
       "repo": "awesome-rshiny",
-      "stars": 870
+      "stars": 870,
+      "topics": [
+        "awesome",
+        "awesome-list",
+        "rshiny",
+        "rstudio",
+        "shiny"
+      ]
     },
     "original_repository_sha": "b7a9920893d359c9ee5fbf741e29f0c7f31ec952",
     "enhanced_repository": "enhansome/enhansome-rshiny",
