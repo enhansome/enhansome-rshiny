@@ -18,7 +18,8 @@
                 "owner": "rstudio",
                 "repo": "shiny",
                 "stars": 5682
-              }
+              },
+              "first_seen": "2026-08-29T01:08:45.064Z"
             }
           ],
           "description": null,
@@ -38,11 +39,12 @@
                     "archived": false,
                     "id": 5513742,
                     "language": "JavaScript",
-                    "last_commit": "2026-04-14T02:06:28Z",
+                    "last_commit": "2026-08-28T03:07:22Z",
                     "owner": "rstudio",
                     "repo": "shiny-server",
                     "stars": 759
-                  }
+                  },
+                  "first_seen": "2026-08-29T01:08:45.064Z"
                 },
                 {
                   "node_type": "item",
@@ -57,7 +59,8 @@
                     "owner": "fresh2dev",
                     "repo": "ShinyStudio",
                     "stars": 241
-                  }
+                  },
+                  "first_seen": "2026-08-29T01:08:45.064Z"
                 }
               ],
               "description": null,
@@ -79,7 +82,8 @@
                     "owner": "virtualstaticvoid",
                     "repo": "heroku-buildpack-r",
                     "stars": 305
-                  }
+                  },
+                  "first_seen": "2026-08-29T01:08:45.064Z"
                 }
               ],
               "description": null,
@@ -111,7 +115,8 @@
                     "owner": "rstudio",
                     "repo": "RStartHere",
                     "stars": 661
-                  }
+                  },
+                  "first_seen": "2026-08-29T01:08:45.064Z"
                 }
               ]
             },
@@ -133,7 +138,8 @@
                     "owner": "daattali",
                     "repo": "advanced-shiny",
                     "stars": 1215
-                  }
+                  },
+                  "first_seen": "2026-08-29T01:08:45.064Z"
                 }
               ]
             }
@@ -163,7 +169,8 @@
                 "owner": "ThinkR-open",
                 "repo": "golem",
                 "stars": 945
-              }
+              },
+              "first_seen": "2026-08-29T01:08:45.064Z"
             },
             {
               "node_type": "item",
@@ -178,7 +185,8 @@
                 "owner": "dreamRs",
                 "repo": "shinyWidgets",
                 "stars": 871
-              }
+              },
+              "first_seen": "2026-08-29T01:08:45.064Z"
             },
             {
               "node_type": "item",
@@ -193,7 +201,8 @@
                 "owner": "daattali",
                 "repo": "shinyjs",
                 "stars": 751
-              }
+              },
+              "first_seen": "2026-08-29T01:08:45.064Z"
             },
             {
               "node_type": "item",
@@ -208,7 +217,8 @@
                 "owner": "daattali",
                 "repo": "timevis",
                 "stars": 683
-              }
+              },
+              "first_seen": "2026-08-29T01:08:45.064Z"
             },
             {
               "node_type": "item",
@@ -223,7 +233,8 @@
                 "owner": "Appsilon",
                 "repo": "shiny.semantic",
                 "stars": 513
-              }
+              },
+              "first_seen": "2026-08-29T01:08:45.064Z"
             },
             {
               "node_type": "item",
@@ -238,7 +249,8 @@
                 "owner": "JohnCoene",
                 "repo": "waiter",
                 "stars": 495
-              }
+              },
+              "first_seen": "2026-08-29T01:08:45.064Z"
             },
             {
               "node_type": "item",
@@ -253,7 +265,8 @@
                 "owner": "radiant-rstats",
                 "repo": "radiant",
                 "stars": 466
-              }
+              },
+              "first_seen": "2026-08-29T01:08:45.064Z"
             },
             {
               "node_type": "item",
@@ -268,7 +281,8 @@
                 "owner": "PaulC91",
                 "repo": "shinyauthr",
                 "stars": 439
-              }
+              },
+              "first_seen": "2026-08-29T01:08:45.064Z"
             },
             {
               "node_type": "item",
@@ -283,7 +297,8 @@
                 "owner": "daattali",
                 "repo": "shinycssloaders",
                 "stars": 422
-              }
+              },
+              "first_seen": "2026-08-29T01:08:45.064Z"
             },
             {
               "node_type": "item",
@@ -298,7 +313,8 @@
                 "owner": "datastorm-open",
                 "repo": "shinymanager",
                 "stars": 404
-              }
+              },
+              "first_seen": "2026-08-29T01:08:45.064Z"
             },
             {
               "node_type": "item",
@@ -313,7 +329,8 @@
                 "owner": "nik01010",
                 "repo": "dashboardthemes",
                 "stars": 314
-              }
+              },
+              "first_seen": "2026-08-29T01:08:45.064Z"
             },
             {
               "node_type": "item",
@@ -328,7 +345,8 @@
                 "owner": "Yang-Tang",
                 "repo": "shinyjqui",
                 "stars": 279
-              }
+              },
+              "first_seen": "2026-08-29T01:08:45.064Z"
             },
             {
               "node_type": "item",
@@ -343,7 +361,8 @@
                 "owner": "yonicd",
                 "repo": "ggedit",
                 "stars": 252
-              }
+              },
+              "first_seen": "2026-08-29T01:08:45.064Z"
             },
             {
               "node_type": "item",
@@ -358,7 +377,8 @@
                 "owner": "daattali",
                 "repo": "shinyalert",
                 "stars": 245
-              }
+              },
+              "first_seen": "2026-08-29T01:08:45.064Z"
             },
             {
               "node_type": "item",
@@ -373,7 +393,8 @@
                 "owner": "Tychobra",
                 "repo": "polished",
                 "stars": 236
-              }
+              },
+              "first_seen": "2026-08-29T01:08:45.064Z"
             },
             {
               "node_type": "item",
@@ -388,7 +409,8 @@
                 "owner": "ericrayanderson",
                 "repo": "shinymaterial",
                 "stars": 234
-              }
+              },
+              "first_seen": "2026-08-29T01:08:45.064Z"
             },
             {
               "node_type": "item",
@@ -403,7 +425,8 @@
                 "owner": "trestletech",
                 "repo": "shinyAce",
                 "stars": 227
-              }
+              },
+              "first_seen": "2026-08-29T01:08:45.064Z"
             },
             {
               "node_type": "item",
@@ -418,7 +441,8 @@
                 "owner": "daattali",
                 "repo": "colourpicker",
                 "stars": 227
-              }
+              },
+              "first_seen": "2026-08-29T01:08:45.064Z"
             },
             {
               "node_type": "item",
@@ -433,7 +457,8 @@
                 "owner": "rstudio",
                 "repo": "shinytest",
                 "stars": 224
-              }
+              },
+              "first_seen": "2026-08-29T01:08:45.064Z"
             },
             {
               "node_type": "item",
@@ -448,7 +473,8 @@
                 "owner": "thomasp85",
                 "repo": "shinyFiles",
                 "stars": 206
-              }
+              },
+              "first_seen": "2026-08-29T01:08:45.064Z"
             },
             {
               "node_type": "item",
@@ -463,7 +489,8 @@
                 "owner": "nstrayer",
                 "repo": "shinysense",
                 "stars": 205
-              }
+              },
+              "first_seen": "2026-08-29T01:08:45.064Z"
             },
             {
               "node_type": "item",
@@ -478,7 +505,8 @@
                 "owner": "merlinoa",
                 "repo": "shinyFeedback",
                 "stars": 193
-              }
+              },
+              "first_seen": "2026-08-29T01:08:45.064Z"
             },
             {
               "node_type": "item",
@@ -493,7 +521,8 @@
                 "owner": "AnalytixWare",
                 "repo": "ShinySky",
                 "stars": 188
-              }
+              },
+              "first_seen": "2026-08-29T01:08:45.064Z"
             },
             {
               "node_type": "item",
@@ -508,7 +537,8 @@
                 "owner": "daattali",
                 "repo": "shinyforms",
                 "stars": 166
-              }
+              },
+              "first_seen": "2026-08-29T01:08:45.064Z"
             },
             {
               "node_type": "item",
@@ -523,7 +553,8 @@
                 "owner": "curso-r",
                 "repo": "auth0",
                 "stars": 165
-              }
+              },
+              "first_seen": "2026-08-29T01:08:45.064Z"
             },
             {
               "node_type": "item",
@@ -538,7 +569,8 @@
                 "owner": "shinyTree",
                 "repo": "shinyTree",
                 "stars": 153
-              }
+              },
+              "first_seen": "2026-08-29T01:08:45.064Z"
             },
             {
               "node_type": "item",
@@ -553,7 +585,8 @@
                 "owner": "ijlyttle",
                 "repo": "bsplus",
                 "stars": 150
-              }
+              },
+              "first_seen": "2026-08-29T01:08:45.064Z"
             },
             {
               "node_type": "item",
@@ -568,7 +601,8 @@
                 "owner": "dreamRs",
                 "repo": "shinybusy",
                 "stars": 146
-              }
+              },
+              "first_seen": "2026-08-29T01:08:45.064Z"
             },
             {
               "node_type": "item",
@@ -579,11 +613,12 @@
                 "archived": false,
                 "id": 95173969,
                 "language": "R",
-                "last_commit": "2026-08-23T08:20:57Z",
+                "last_commit": "2026-08-28T03:23:35Z",
                 "owner": "nteetor",
                 "repo": "yonder",
                 "stars": 136
-              }
+              },
+              "first_seen": "2026-08-29T01:08:45.064Z"
             },
             {
               "node_type": "item",
@@ -598,7 +633,8 @@
                 "owner": "XD-DENG",
                 "repo": "ECharts2Shiny",
                 "stars": 131
-              }
+              },
+              "first_seen": "2026-08-29T01:08:45.064Z"
             },
             {
               "node_type": "item",
@@ -613,7 +649,8 @@
                 "owner": "rstudio",
                 "repo": "reactlog",
                 "stars": 131
-              }
+              },
+              "first_seen": "2026-08-29T01:08:45.064Z"
             },
             {
               "node_type": "item",
@@ -628,7 +665,8 @@
                 "owner": "emitanaka",
                 "repo": "shinycustomloader",
                 "stars": 121
-              }
+              },
+              "first_seen": "2026-08-29T01:08:45.064Z"
             },
             {
               "node_type": "item",
@@ -643,7 +681,8 @@
                 "owner": "cwthom",
                 "repo": "shinyhelper",
                 "stars": 116
-              }
+              },
+              "first_seen": "2026-08-29T01:08:45.064Z"
             },
             {
               "node_type": "item",
@@ -658,7 +697,8 @@
                 "owner": "MangoTheCat",
                 "repo": "shinytoastr",
                 "stars": 96
-              }
+              },
+              "first_seen": "2026-08-29T01:08:45.064Z"
             },
             {
               "node_type": "item",
@@ -673,7 +713,8 @@
                 "owner": "ayayron",
                 "repo": "shinydnd",
                 "stars": 93
-              }
+              },
+              "first_seen": "2026-08-29T01:08:45.064Z"
             },
             {
               "node_type": "item",
@@ -688,7 +729,8 @@
                 "owner": "Appsilon",
                 "repo": "shiny.collections",
                 "stars": 75
-              }
+              },
+              "first_seen": "2026-08-29T01:08:45.064Z"
             },
             {
               "node_type": "item",
@@ -703,7 +745,8 @@
                 "owner": "daattali",
                 "repo": "shinyscreenshot",
                 "stars": 72
-              }
+              },
+              "first_seen": "2026-08-29T01:08:45.064Z"
             },
             {
               "node_type": "item",
@@ -718,7 +761,8 @@
                 "owner": "daattali",
                 "repo": "shinydisconnect",
                 "stars": 71
-              }
+              },
+              "first_seen": "2026-08-29T01:08:45.064Z"
             },
             {
               "node_type": "item",
@@ -733,7 +777,8 @@
                 "owner": "strboul",
                 "repo": "supreme",
                 "stars": 59
-              }
+              },
+              "first_seen": "2026-08-29T01:08:45.064Z"
             },
             {
               "node_type": "item",
@@ -748,7 +793,8 @@
                 "owner": "yonicd",
                 "repo": "reactor",
                 "stars": 58
-              }
+              },
+              "first_seen": "2026-08-29T01:08:45.064Z"
             },
             {
               "node_type": "item",
@@ -763,7 +809,8 @@
                 "owner": "wleepang",
                 "repo": "shiny-directory-input",
                 "stars": 49
-              }
+              },
+              "first_seen": "2026-08-29T01:08:45.064Z"
             },
             {
               "node_type": "item",
@@ -778,7 +825,8 @@
                 "owner": "systemPipeR",
                 "repo": "systemPipeShiny",
                 "stars": 36
-              }
+              },
+              "first_seen": "2026-08-29T01:08:45.064Z"
             },
             {
               "node_type": "item",
@@ -793,7 +841,8 @@
                 "owner": "burgerga",
                 "repo": "shinyTime",
                 "stars": 31
-              }
+              },
+              "first_seen": "2026-08-29T01:08:45.064Z"
             },
             {
               "node_type": "group",
@@ -813,7 +862,8 @@
                     "owner": "rstudio",
                     "repo": "shinydashboard",
                     "stars": 927
-                  }
+                  },
+                  "first_seen": "2026-08-29T01:08:45.064Z"
                 },
                 {
                   "node_type": "item",
@@ -828,7 +878,8 @@
                     "owner": "rstudio",
                     "repo": "fontawesome",
                     "stars": 300
-                  }
+                  },
+                  "first_seen": "2026-08-29T01:08:45.064Z"
                 },
                 {
                   "node_type": "item",
@@ -848,7 +899,8 @@
                         "owner": "rstudio",
                         "repo": "miniUI",
                         "stars": 108
-                      }
+                      },
+                      "first_seen": "2026-08-29T01:08:45.064Z"
                     }
                   ],
                   "repo_info": {
@@ -859,7 +911,8 @@
                     "owner": "rstudio",
                     "repo": "shinythemes",
                     "stars": 160
-                  }
+                  },
+                  "first_seen": "2026-08-29T01:08:45.064Z"
                 }
               ]
             }
@@ -883,7 +936,8 @@
                 "owner": "rstudio",
                 "repo": "ggvis",
                 "stars": 707
-              }
+              },
+              "first_seen": "2026-08-29T01:08:45.064Z"
             },
             {
               "node_type": "item",
@@ -897,8 +951,9 @@
                 "last_commit": "2025-10-08T08:20:33Z",
                 "owner": "mages",
                 "repo": "googleVis",
-                "stars": 362
-              }
+                "stars": 363
+              },
+              "first_seen": "2026-08-29T01:08:45.064Z"
             },
             {
               "node_type": "item",
@@ -913,7 +968,8 @@
                 "owner": "ficonsulting",
                 "repo": "RInno",
                 "stars": 313
-              }
+              },
+              "first_seen": "2026-08-29T01:08:45.064Z"
             },
             {
               "node_type": "item",
@@ -928,7 +984,8 @@
                 "owner": "rstudio",
                 "repo": "pool",
                 "stars": 255
-              }
+              },
+              "first_seen": "2026-08-29T01:08:45.064Z"
             },
             {
               "node_type": "group",
@@ -948,7 +1005,8 @@
                     "owner": "plotly",
                     "repo": "plotly.R",
                     "stars": 2676
-                  }
+                  },
+                  "first_seen": "2026-08-29T01:08:45.064Z"
                 },
                 {
                   "node_type": "item",
@@ -963,7 +1021,8 @@
                     "owner": "rich-iannone",
                     "repo": "DiagrammeR",
                     "stars": 1740
-                  }
+                  },
+                  "first_seen": "2026-08-29T01:08:45.064Z"
                 },
                 {
                   "node_type": "item",
@@ -978,7 +1037,8 @@
                     "owner": "christophergandrud",
                     "repo": "networkD3",
                     "stars": 660
-                  }
+                  },
+                  "first_seen": "2026-08-29T01:08:45.064Z"
                 },
                 {
                   "node_type": "item",
@@ -993,7 +1053,8 @@
                     "owner": "JohnCoene",
                     "repo": "echarts4r",
                     "stars": 628
-                  }
+                  },
+                  "first_seen": "2026-08-29T01:08:45.064Z"
                 },
                 {
                   "node_type": "item",
@@ -1008,7 +1069,8 @@
                     "owner": "davidgohel",
                     "repo": "flextable",
                     "stars": 626
-                  }
+                  },
+                  "first_seen": "2026-08-29T01:08:45.064Z"
                 },
                 {
                   "node_type": "item",
@@ -1022,8 +1084,9 @@
                     "last_commit": "2026-05-18T15:40:52Z",
                     "owner": "rstudio",
                     "repo": "DT",
-                    "stars": 621
-                  }
+                    "stars": 622
+                  },
+                  "first_seen": "2026-08-29T01:08:45.064Z"
                 },
                 {
                   "node_type": "item",
@@ -1038,7 +1101,8 @@
                     "owner": "datastorm-open",
                     "repo": "visNetwork",
                     "stars": 564
-                  }
+                  },
+                  "first_seen": "2026-08-29T01:08:45.064Z"
                 },
                 {
                   "node_type": "item",
@@ -1053,7 +1117,8 @@
                     "owner": "jrowen",
                     "repo": "rhandsontable",
                     "stars": 389
-                  }
+                  },
+                  "first_seen": "2026-08-29T01:08:45.064Z"
                 },
                 {
                   "node_type": "item",
@@ -1068,7 +1133,8 @@
                     "owner": "rstudio",
                     "repo": "dygraphs",
                     "stars": 367
-                  }
+                  },
+                  "first_seen": "2026-08-29T01:08:45.064Z"
                 },
                 {
                   "node_type": "item",
@@ -1083,7 +1149,8 @@
                     "owner": "bwlewis",
                     "repo": "rthreejs",
                     "stars": 308
-                  }
+                  },
+                  "first_seen": "2026-08-29T01:08:45.064Z"
                 },
                 {
                   "node_type": "item",
@@ -1098,7 +1165,8 @@
                     "owner": "hafen",
                     "repo": "trelliscopejs",
                     "stars": 263
-                  }
+                  },
+                  "first_seen": "2026-08-29T01:08:45.064Z"
                 },
                 {
                   "node_type": "item",
@@ -1113,7 +1181,8 @@
                     "owner": "talgalili",
                     "repo": "d3heatmap",
                     "stars": 236
-                  }
+                  },
+                  "first_seen": "2026-08-29T01:08:45.064Z"
                 },
                 {
                   "node_type": "item",
@@ -1128,7 +1197,8 @@
                     "owner": "AliciaSchep",
                     "repo": "gglabeller",
                     "stars": 188
-                  }
+                  },
+                  "first_seen": "2026-08-29T01:08:45.064Z"
                 },
                 {
                   "node_type": "item",
@@ -1143,7 +1213,8 @@
                     "owner": "dreamRs",
                     "repo": "billboarder",
                     "stars": 177
-                  }
+                  },
+                  "first_seen": "2026-08-29T01:08:45.064Z"
                 },
                 {
                   "node_type": "item",
@@ -1158,7 +1229,8 @@
                     "owner": "yonicd",
                     "repo": "slickR",
                     "stars": 162
-                  }
+                  },
+                  "first_seen": "2026-08-29T01:08:45.064Z"
                 },
                 {
                   "node_type": "item",
@@ -1173,7 +1245,8 @@
                     "owner": "juba",
                     "repo": "scatterD3",
                     "stars": 162
-                  }
+                  },
+                  "first_seen": "2026-08-29T01:08:45.064Z"
                 },
                 {
                   "node_type": "item",
@@ -1188,7 +1261,8 @@
                     "owner": "Swechhya",
                     "repo": "excelR",
                     "stars": 154
-                  }
+                  },
+                  "first_seen": "2026-08-29T01:08:45.064Z"
                 },
                 {
                   "node_type": "item",
@@ -1203,7 +1277,8 @@
                     "owner": "carlganz",
                     "repo": "rintrojs",
                     "stars": 137
-                  }
+                  },
+                  "first_seen": "2026-08-29T01:08:45.064Z"
                 },
                 {
                   "node_type": "item",
@@ -1218,7 +1293,8 @@
                     "owner": "rte-antares-rpackage",
                     "repo": "manipulateWidget",
                     "stars": 131
-                  }
+                  },
+                  "first_seen": "2026-08-29T01:08:45.064Z"
                 },
                 {
                   "node_type": "item",
@@ -1233,7 +1309,8 @@
                     "owner": "hrbrmstr",
                     "repo": "metricsgraphics",
                     "stars": 130
-                  }
+                  },
+                  "first_seen": "2026-08-29T01:08:45.064Z"
                 },
                 {
                   "node_type": "item",
@@ -1248,7 +1325,8 @@
                     "owner": "rte-antares-rpackage",
                     "repo": "leaflet.minicharts",
                     "stars": 108
-                  }
+                  },
+                  "first_seen": "2026-08-29T01:08:45.064Z"
                 },
                 {
                   "node_type": "item",
@@ -1263,7 +1341,8 @@
                     "owner": "JohnCoene",
                     "repo": "sigmajs",
                     "stars": 72
-                  }
+                  },
+                  "first_seen": "2026-08-29T01:08:45.064Z"
                 },
                 {
                   "node_type": "item",
@@ -1278,7 +1357,8 @@
                     "owner": "sbihorel",
                     "repo": "rclipboard",
                     "stars": 51
-                  }
+                  },
+                  "first_seen": "2026-08-29T01:08:45.064Z"
                 }
               ]
             }
@@ -1305,8 +1385,9 @@
             "last_commit": "2025-05-20T13:04:41Z",
             "owner": "rstudio",
             "repo": "shiny-examples",
-            "stars": 2036
-          }
+            "stars": 2035
+          },
+          "first_seen": "2026-08-29T01:08:45.064Z"
         },
         {
           "node_type": "item",
@@ -1321,7 +1402,8 @@
             "owner": "toddwschneider",
             "repo": "ballr",
             "stars": 613
-          }
+          },
+          "first_seen": "2026-08-29T01:08:45.064Z"
         },
         {
           "node_type": "item",
@@ -1336,7 +1418,8 @@
             "owner": "ShinyEd",
             "repo": "intro-stats",
             "stars": 246
-          }
+          },
+          "first_seen": "2026-08-29T01:08:45.064Z"
         },
         {
           "node_type": "item",
@@ -1351,7 +1434,8 @@
             "owner": "toddwschneider",
             "repo": "shiny-salesman",
             "stars": 245
-          }
+          },
+          "first_seen": "2026-08-29T01:08:45.064Z"
         },
         {
           "node_type": "item",
@@ -1366,7 +1450,8 @@
             "owner": "MarkEdmondson1234",
             "repo": "ga-dashboard-demo",
             "stars": 124
-          }
+          },
+          "first_seen": "2026-08-29T01:08:45.064Z"
         },
         {
           "node_type": "item",
@@ -1381,7 +1466,8 @@
             "owner": "jminnier",
             "repo": "STARTapp",
             "stars": 87
-          }
+          },
+          "first_seen": "2026-08-29T01:08:45.064Z"
         },
         {
           "node_type": "item",
@@ -1396,7 +1482,8 @@
             "owner": "joey711",
             "repo": "shiny-phyloseq",
             "stars": 60
-          }
+          },
+          "first_seen": "2026-08-29T01:08:45.064Z"
         },
         {
           "node_type": "item",
@@ -1411,7 +1498,8 @@
             "owner": "benmarwick",
             "repo": "Interactive_PCA_Explorer",
             "stars": 55
-          }
+          },
+          "first_seen": "2026-08-29T01:08:45.064Z"
         },
         {
           "node_type": "item",
@@ -1426,7 +1514,8 @@
             "owner": "jordanmeyer",
             "repo": "nyt-bar-optimizer",
             "stars": 41
-          }
+          },
+          "first_seen": "2026-08-29T01:08:45.064Z"
         },
         {
           "node_type": "item",
@@ -1441,7 +1530,8 @@
             "owner": "yanirmor",
             "repo": "shiny-user-management",
             "stars": 39
-          }
+          },
+          "first_seen": "2026-08-29T01:08:45.064Z"
         },
         {
           "node_type": "item",
@@ -1456,7 +1546,8 @@
             "owner": "alandipert",
             "repo": "html2r",
             "stars": 38
-          }
+          },
+          "first_seen": "2026-08-29T01:08:45.064Z"
         },
         {
           "node_type": "item",
@@ -1471,7 +1562,8 @@
             "owner": "kylehamilton",
             "repo": "MAVIS",
             "stars": 36
-          }
+          },
+          "first_seen": "2026-08-29T01:08:45.064Z"
         },
         {
           "node_type": "item",
@@ -1486,7 +1578,8 @@
             "owner": "fresh2dev",
             "repo": "shinyGEM",
             "stars": 22
-          }
+          },
+          "first_seen": "2026-08-29T01:08:45.064Z"
         },
         {
           "node_type": "item",
@@ -1501,7 +1594,8 @@
             "owner": "holtzy",
             "repo": "GenMap-Comparator",
             "stars": 22
-          }
+          },
+          "first_seen": "2026-08-29T01:08:45.064Z"
         },
         {
           "node_type": "item",
@@ -1516,7 +1610,8 @@
             "owner": "5c077",
             "repo": "ExpressionDB",
             "stars": 17
-          }
+          },
+          "first_seen": "2026-08-29T01:08:45.064Z"
         },
         {
           "node_type": "item",
@@ -1531,7 +1626,8 @@
             "owner": "ewenme",
             "repo": "vinylspotting",
             "stars": 13
-          }
+          },
+          "first_seen": "2026-08-29T01:08:45.064Z"
         },
         {
           "node_type": "item",
@@ -1546,7 +1642,8 @@
             "owner": "longhowlam",
             "repo": "OCRinShiny",
             "stars": 13
-          }
+          },
+          "first_seen": "2026-08-29T01:08:45.064Z"
         },
         {
           "node_type": "item",
@@ -1561,7 +1658,8 @@
             "owner": "LucyMcGowan",
             "repo": "contributr",
             "stars": 12
-          }
+          },
+          "first_seen": "2026-08-29T01:08:45.064Z"
         },
         {
           "node_type": "item",
@@ -1576,7 +1674,8 @@
             "owner": "bearloga",
             "repo": "taskviewr",
             "stars": 11
-          }
+          },
+          "first_seen": "2026-08-29T01:08:45.064Z"
         },
         {
           "node_type": "item",
@@ -1591,7 +1690,8 @@
             "owner": "amrrs",
             "repo": "itunesr_webapp",
             "stars": 10
-          }
+          },
+          "first_seen": "2026-08-29T01:08:45.064Z"
         },
         {
           "node_type": "item",
@@ -1606,7 +1706,8 @@
             "owner": "joelcponte",
             "repo": "shiny-app-spotify",
             "stars": 10
-          }
+          },
+          "first_seen": "2026-08-29T01:08:45.064Z"
         },
         {
           "node_type": "item",
@@ -1621,7 +1722,8 @@
             "owner": "LaurenSamuels",
             "repo": "VisualPruner",
             "stars": 4
-          }
+          },
+          "first_seen": "2026-08-29T01:08:45.064Z"
         },
         {
           "node_type": "item",
@@ -1636,14 +1738,15 @@
             "owner": "Dmunslow",
             "repo": "Opioid-Overdose-Shiny-App",
             "stars": 0
-          }
+          },
+          "first_seen": "2026-08-29T01:08:45.064Z"
         }
       ],
       "title": "App Examples"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T01:37:54.187Z",
+    "last_updated": "2026-08-29T01:08:45.064Z",
     "original_repository_info": {
       "archived": false,
       "id": 89300938,
