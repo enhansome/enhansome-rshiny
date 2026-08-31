@@ -912,8 +912,8 @@
                 "id": 95173969,
                 "language": "R",
                 "license": "NOASSERTION",
-                "last_commit": "2026-08-30T14:14:16Z",
-                "open_issues": 26,
+                "last_commit": "2026-08-31T14:49:42Z",
+                "open_issues": 27,
                 "owner": "nteetor",
                 "repo": "yonder",
                 "stars": 136,
@@ -964,7 +964,7 @@
                 "id": 137799634,
                 "language": "JavaScript",
                 "license": "NOASSERTION",
-                "last_commit": "2026-08-24T08:21:42Z",
+                "last_commit": "2026-08-31T08:28:17Z",
                 "open_issues": 26,
                 "owner": "rstudio",
                 "repo": "reactlog",
@@ -1730,7 +1730,7 @@
                     "open_issues": 122,
                     "owner": "rstudio",
                     "repo": "dygraphs",
-                    "stars": 367,
+                    "stars": 368,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T01:08:45.064Z"
@@ -2630,7 +2630,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-30T20:01:02.036Z",
+    "last_updated": "2026-08-31T22:01:47.227Z",
     "original_repository_info": {
       "archived": false,
       "description": "An awesome R-shiny list!",
