@@ -225,7 +225,7 @@
                 "language": "R",
                 "license": "NOASSERTION",
                 "last_commit": "2026-07-07T15:10:56Z",
-                "open_issues": 21,
+                "open_issues": 20,
                 "owner": "ThinkR-open",
                 "repo": "golem",
                 "stars": 945,
@@ -1898,7 +1898,7 @@
                     "id": 37119784,
                     "language": "JavaScript",
                     "license": null,
-                    "last_commit": "2026-08-05T17:07:34Z",
+                    "last_commit": "2026-09-03T07:31:10Z",
                     "open_issues": 3,
                     "owner": "juba",
                     "repo": "scatterD3",
@@ -2630,7 +2630,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-02T20:05:30.793Z",
+    "last_updated": "2026-09-03T20:07:00.245Z",
     "original_repository_info": {
       "archived": false,
       "description": "An awesome R-shiny list!",
