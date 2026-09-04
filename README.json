@@ -1542,7 +1542,7 @@
                     "open_issues": 172,
                     "owner": "rich-iannone",
                     "repo": "DiagrammeR",
-                    "stars": 1740,
+                    "stars": 1741,
                     "topics": [
                       "graph",
                       "graph-functions",
@@ -2630,7 +2630,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-03T20:07:00.245Z",
+    "last_updated": "2026-09-04T19:50:27.133Z",
     "original_repository_info": {
       "archived": false,
       "description": "An awesome R-shiny list!",
