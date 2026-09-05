@@ -18,7 +18,7 @@
                 "language": "R",
                 "license": "NOASSERTION",
                 "last_commit": "2026-08-26T17:26:31Z",
-                "open_issues": 866,
+                "open_issues": 867,
                 "owner": "rstudio",
                 "repo": "shiny",
                 "stars": 5682,
@@ -1542,7 +1542,7 @@
                     "open_issues": 172,
                     "owner": "rich-iannone",
                     "repo": "DiagrammeR",
-                    "stars": 1741,
+                    "stars": 1740,
                     "topics": [
                       "graph",
                       "graph-functions",
@@ -1570,7 +1570,7 @@
                     "open_issues": 82,
                     "owner": "christophergandrud",
                     "repo": "networkD3",
-                    "stars": 660,
+                    "stars": 659,
                     "topics": [
                       "d3js",
                       "networks",
@@ -2630,7 +2630,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-04T19:50:27.133Z",
+    "last_updated": "2026-09-05T19:27:12.814Z",
     "original_repository_info": {
       "archived": false,
       "description": "An awesome R-shiny list!",
