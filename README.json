@@ -1510,7 +1510,7 @@
                     "open_issues": 760,
                     "owner": "plotly",
                     "repo": "plotly.R",
-                    "stars": 2678,
+                    "stars": 2679,
                     "topics": [
                       "d3js",
                       "data-visualization",
@@ -2630,7 +2630,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-07T20:46:40.573Z",
+    "last_updated": "2026-09-08T20:14:39.615Z",
     "original_repository_info": {
       "archived": false,
       "description": "An awesome R-shiny list!",
