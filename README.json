@@ -54,7 +54,7 @@
                     "id": 5513742,
                     "language": "JavaScript",
                     "license": "NOASSERTION",
-                    "last_commit": "2026-09-02T18:58:24Z",
+                    "last_commit": "2026-09-09T00:02:55Z",
                     "open_issues": 204,
                     "owner": "rstudio",
                     "repo": "shiny-server",
@@ -258,7 +258,7 @@
                 "open_issues": 116,
                 "owner": "dreamRs",
                 "repo": "shinyWidgets",
-                "stars": 871,
+                "stars": 870,
                 "topics": [
                   "r",
                   "rshiny",
@@ -392,7 +392,7 @@
                 "language": "HTML",
                 "license": "NOASSERTION",
                 "last_commit": "2026-01-10T02:56:23Z",
-                "open_issues": 37,
+                "open_issues": 36,
                 "owner": "radiant-rstats",
                 "repo": "radiant",
                 "stars": 466,
@@ -1542,7 +1542,7 @@
                     "open_issues": 172,
                     "owner": "rich-iannone",
                     "repo": "DiagrammeR",
-                    "stars": 1740,
+                    "stars": 1741,
                     "topics": [
                       "graph",
                       "graph-functions",
@@ -1595,7 +1595,7 @@
                     "open_issues": 179,
                     "owner": "JohnCoene",
                     "repo": "echarts4r",
-                    "stars": 628,
+                    "stars": 629,
                     "topics": [
                       "echarts",
                       "htmlwidget",
@@ -2630,7 +2630,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-08T20:14:39.615Z",
+    "last_updated": "2026-09-09T20:00:15.795Z",
     "original_repository_info": {
       "archived": false,
       "description": "An awesome R-shiny list!",
