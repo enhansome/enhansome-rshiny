@@ -21,7 +21,7 @@
                 "open_issues": 866,
                 "owner": "rstudio",
                 "repo": "shiny",
-                "stars": 5682,
+                "stars": 5683,
                 "topics": [
                   "r",
                   "reactive",
@@ -565,7 +565,7 @@
                 "open_issues": 5,
                 "owner": "daattali",
                 "repo": "shinyalert",
-                "stars": 245,
+                "stars": 246,
                 "topics": [
                   "r",
                   "r-package",
@@ -2630,7 +2630,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-10T20:00:35.282Z",
+    "last_updated": "2026-09-11T20:01:01.318Z",
     "original_repository_info": {
       "archived": false,
       "description": "An awesome R-shiny list!",
