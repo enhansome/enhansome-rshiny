@@ -55,7 +55,7 @@
                     "language": "JavaScript",
                     "license": "NOASSERTION",
                     "last_commit": "2026-09-09T00:02:55Z",
-                    "open_issues": 204,
+                    "open_issues": 203,
                     "owner": "rstudio",
                     "repo": "shiny-server",
                     "stars": 759,
@@ -1295,7 +1295,7 @@
                     "open_issues": 165,
                     "owner": "rstudio",
                     "repo": "shinydashboard",
-                    "stars": 927,
+                    "stars": 926,
                     "topics": [
                       "admin-dashboard",
                       "dashboard",
@@ -1653,7 +1653,7 @@
                     "open_issues": 207,
                     "owner": "rstudio",
                     "repo": "DT",
-                    "stars": 622,
+                    "stars": 621,
                     "topics": [
                       "datatables",
                       "htmlwidgets",
@@ -2630,7 +2630,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-11T20:01:01.318Z",
+    "last_updated": "2026-09-12T19:38:00.222Z",
     "original_repository_info": {
       "archived": false,
       "description": "An awesome R-shiny list!",
