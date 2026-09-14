@@ -27,7 +27,7 @@ A curated list of resources for R Shiny.  (*Featured on [Awesome-R](https://awes
 
 ### General
 
-* [GitHub](https://github.com/rstudio/shiny) ⭐ 5,683 | 🐛 866 | 🌐 R | 📅 2026-08-26
+* [GitHub](https://github.com/rstudio/shiny) ⭐ 5,685 | 🐛 866 | 🌐 R | 📅 2026-08-26
 * [Official Website](http://shiny.rstudio.com/)
   * [Blog](https://blog.rstudio.org/category/shiny/)
   * [Articles](http://shiny.rstudio.com/articles/)
@@ -55,7 +55,7 @@ A curated list of resources for R Shiny.  (*Featured on [Awesome-R](https://awes
 
 #### Self Hosting
 
-* [Shiny Server](https://github.com/rstudio/shiny-server) ⭐ 759 | 🐛 203 | 🌐 JavaScript | 📅 2026-09-09 - Back end software that builds a web server for shiny apps.
+* [Shiny Server](https://github.com/rstudio/shiny-server) ⭐ 759 | 🐛 204 | 🌐 JavaScript | 📅 2026-09-09 - Back end software that builds a web server for shiny apps.
 * [ShinyStudio](https://github.com/dm3ll3n/ShinyStudio) ⭐ 241 | 🐛 8 | 🌐 Shell | 📅 2020-07-17 - Builds on the [Rocker project](https://www.rocker-project.org/) by including ShinyProxy to provide secured access to RStudio, VS Code, and Shiny.
 * [RStudio Connect](https://www.rstudio.com/products/connect/) - Back end software for hosing shiny applications, Rmarkdown, plus other features for enterprise contexts.
 * [Shinyproxy](https://www.shinyproxy.io/) - Uses containers for hosting shiny apps and a Java server control and proxy traffic to the app containers. [How-to Blog](http://lukesingham.com/shiny-containers-with-shinyproxy/).
@@ -154,7 +154,7 @@ A curated list of resources for R Shiny.  (*Featured on [Awesome-R](https://awes
 * [shinybusy](https://github.com/dreamRs/shinybusy) ⭐ 146 | 🐛 12 | 🌐 R | 📅 2024-09-17 - Minimal busy indicator for Shiny apps.
 * [yonder](https://github.com/nteetor/yonder) ⭐ 136 | 🐛 27 | 🌐 R | 📅 2026-09-02 - A reactive web framework built on shiny.
 * [ECharts2Shiny](https://github.com/XD-DENG/ECharts2Shiny) ⭐ 131 | 🐛 6 | 🌐 R | 📅 2020-10-02 - Insert interactive charts from ECharts into Shiny.
-* [reactlog](https://github.com/rstudio/reactlog) ⭐ 131 | 🐛 26 | 🌐 JavaScript | 📅 2026-09-07 - Visual insight into a Shiny apps reactive graph.
+* [reactlog](https://github.com/rstudio/reactlog) ⭐ 131 | 🐛 26 | 🌐 JavaScript | 📅 2026-09-14 - Visual insight into a Shiny apps reactive graph.
 * [shinycustomloader](https://github.com/emitanaka/shinycustomloader) ⭐ 121 | 🐛 8 | 🌐 R | 📅 2018-07-17 - Add a custom loader for R Shiny.
 * [shinyhelper](https://github.com/cwthom/shinyhelper) ⭐ 116 | 🐛 14 | 🌐 R | 📅 2022-10-05 - Add markdown help files to Shiny apps.
 * [shinytoastr](https://github.com/MangoTheCat/shinytoastr) ⭐ 96 | 🐛 0 | 🌐 R | 📅 2016-08-29 - Notifications in Shiny, via [toastr](https://github.com/CodeSeven/toastr) ⭐ 12,100 | 🐛 154 | 🌐 JavaScript | 📅 2023-02-27.
@@ -202,7 +202,7 @@ A curated list of resources for R Shiny.  (*Featured on [Awesome-R](https://awes
   * [rintrojs](https://github.com/carlganz/rintrojs) ⭐ 137 | 🐛 20 | 🌐 R | 📅 2024-01-11 - Wrapper for the Intro.js library.
   * [manipulateWidget](https://github.com/rte-antares-rpackage/manipulateWidget) ⭐ 131 | 🐛 18 | 🌐 R | 📅 2026-01-16 - Add More Interactivity to htmlWidgets.
   * [MetricsGraphics](https://github.com/hrbrmstr/metricsgraphics) ⭐ 130 | 🐛 22 | 🌐 HTML | 📅 2018-02-03 - Enables easy creation of D3 scatterplots, line charts, and histograms.
-  * [leaflet.minicharts](https://github.com/rte-antares-rpackage/leaflet.minicharts) ⭐ 108 | 🐛 26 | 🌐 R | 📅 2025-10-29 - Add and update small charts on an interactive leaflet maps.
+  * [leaflet.minicharts](https://github.com/rte-antares-rpackage/leaflet.minicharts) ⭐ 109 | 🐛 26 | 🌐 R | 📅 2025-10-29 - Add and update small charts on an interactive leaflet maps.
   * [sigmajs](https://github.com/JohnCoene/sigmajs) ⭐ 72 | 🐛 7 | 🌐 R | 📅 2021-01-29 - Fully-fledged wrapper for the sigma.js JavaScript library.
   * [rclipboard](https://github.com/sbihorel/rclipboard) ⭐ 51 | 🐛 0 | 🌐 R | 📅 2023-11-15 - Clipboard.js for R/Shiny Applications.
   * [Crosstalk](https://rstudio.github.io/crosstalk/shiny.html) - Extends htmlwidgets with functionality for implementing cross-widget interactions.
@@ -301,4 +301,4 @@ A curated list of resources for R Shiny.  (*Featured on [Awesome-R](https://awes
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-13._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-14._
