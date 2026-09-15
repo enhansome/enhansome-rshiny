@@ -21,7 +21,7 @@
                 "open_issues": 866,
                 "owner": "rstudio",
                 "repo": "shiny",
-                "stars": 5685,
+                "stars": 5686,
                 "topics": [
                   "r",
                   "reactive",
@@ -224,7 +224,7 @@
                 "id": 132664006,
                 "language": "R",
                 "license": "NOASSERTION",
-                "last_commit": "2026-07-07T15:10:56Z",
+                "last_commit": "2026-09-15T08:21:44Z",
                 "open_issues": 21,
                 "owner": "ThinkR-open",
                 "repo": "golem",
@@ -1507,7 +1507,7 @@
                     "language": "R",
                     "license": "NOASSERTION",
                     "last_commit": "2026-07-25T00:33:15Z",
-                    "open_issues": 760,
+                    "open_issues": 761,
                     "owner": "plotly",
                     "repo": "plotly.R",
                     "stars": 2679,
@@ -1803,7 +1803,7 @@
                     "open_issues": 45,
                     "owner": "talgalili",
                     "repo": "d3heatmap",
-                    "stars": 236,
+                    "stars": 237,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T01:08:45.064Z"
@@ -2630,7 +2630,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-14T21:02:57.511Z",
+    "last_updated": "2026-09-15T20:25:29.361Z",
     "original_repository_info": {
       "archived": false,
       "description": "An awesome R-shiny list!",
