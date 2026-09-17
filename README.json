@@ -18,10 +18,10 @@
                 "language": "R",
                 "license": "NOASSERTION",
                 "last_commit": "2026-08-26T17:26:31Z",
-                "open_issues": 866,
+                "open_issues": 867,
                 "owner": "rstudio",
                 "repo": "shiny",
-                "stars": 5687,
+                "stars": 5690,
                 "topics": [
                   "r",
                   "reactive",
@@ -258,7 +258,7 @@
                 "open_issues": 116,
                 "owner": "dreamRs",
                 "repo": "shinyWidgets",
-                "stars": 870,
+                "stars": 871,
                 "topics": [
                   "r",
                   "rshiny",
@@ -1510,7 +1510,7 @@
                     "open_issues": 761,
                     "owner": "plotly",
                     "repo": "plotly.R",
-                    "stars": 2679,
+                    "stars": 2681,
                     "topics": [
                       "d3js",
                       "data-visualization",
@@ -1542,7 +1542,7 @@
                     "open_issues": 172,
                     "owner": "rich-iannone",
                     "repo": "DiagrammeR",
-                    "stars": 1742,
+                    "stars": 1743,
                     "topics": [
                       "graph",
                       "graph-functions",
@@ -2630,7 +2630,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-16T20:24:46.604Z",
+    "last_updated": "2026-09-17T20:32:25.469Z",
     "original_repository_info": {
       "archived": false,
       "description": "An awesome R-shiny list!",
