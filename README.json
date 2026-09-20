@@ -21,7 +21,7 @@
                 "open_issues": 867,
                 "owner": "rstudio",
                 "repo": "shiny",
-                "stars": 5690,
+                "stars": 5691,
                 "topics": [
                   "r",
                   "reactive",
@@ -115,7 +115,7 @@
                     "open_issues": 4,
                     "owner": "virtualstaticvoid",
                     "repo": "heroku-buildpack-r",
-                    "stars": 305,
+                    "stars": 306,
                     "topics": [
                       "heroku",
                       "heroku-buildpack",
@@ -1595,7 +1595,7 @@
                     "open_issues": 179,
                     "owner": "JohnCoene",
                     "repo": "echarts4r",
-                    "stars": 629,
+                    "stars": 630,
                     "topics": [
                       "echarts",
                       "htmlwidget",
@@ -1623,7 +1623,7 @@
                     "open_issues": 10,
                     "owner": "davidgohel",
                     "repo": "flextable",
-                    "stars": 626,
+                    "stars": 627,
                     "topics": [
                       "cran",
                       "docx",
@@ -2124,7 +2124,7 @@
             "open_issues": 55,
             "owner": "rstudio",
             "repo": "shiny-examples",
-            "stars": 2034,
+            "stars": 2035,
             "topics": []
           },
           "first_seen": "2026-08-29T01:08:45.064Z"
@@ -2630,7 +2630,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-19T19:34:29.800Z",
+    "last_updated": "2026-09-20T19:42:32.745Z",
     "original_repository_info": {
       "archived": false,
       "description": "An awesome R-shiny list!",
