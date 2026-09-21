@@ -18,7 +18,7 @@
                 "language": "R",
                 "license": "NOASSERTION",
                 "last_commit": "2026-08-26T17:26:31Z",
-                "open_issues": 867,
+                "open_issues": 868,
                 "owner": "rstudio",
                 "repo": "shiny",
                 "stars": 5691,
@@ -468,7 +468,7 @@
                 "open_issues": 53,
                 "owner": "datastorm-open",
                 "repo": "shinymanager",
-                "stars": 404,
+                "stars": 405,
                 "topics": [
                   "r",
                   "shiny",
@@ -964,7 +964,7 @@
                 "id": 137799634,
                 "language": "JavaScript",
                 "license": "NOASSERTION",
-                "last_commit": "2026-09-14T08:28:41Z",
+                "last_commit": "2026-09-21T08:28:05Z",
                 "open_issues": 26,
                 "owner": "rstudio",
                 "repo": "reactlog",
@@ -1779,7 +1779,7 @@
                     "open_issues": 77,
                     "owner": "hafen",
                     "repo": "trelliscopejs",
-                    "stars": 263,
+                    "stars": 264,
                     "topics": [
                       "r",
                       "visualization"
@@ -2630,7 +2630,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-20T19:42:32.745Z",
+    "last_updated": "2026-09-21T21:13:44.054Z",
     "original_repository_info": {
       "archived": false,
       "description": "An awesome R-shiny list!",
