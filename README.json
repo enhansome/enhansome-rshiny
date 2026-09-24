@@ -21,7 +21,7 @@
                 "open_issues": 869,
                 "owner": "rstudio",
                 "repo": "shiny",
-                "stars": 5693,
+                "stars": 5695,
                 "topics": [
                   "r",
                   "reactive",
@@ -228,7 +228,7 @@
                 "open_issues": 21,
                 "owner": "ThinkR-open",
                 "repo": "golem",
-                "stars": 945,
+                "stars": 946,
                 "topics": [
                   "golemverse",
                   "hacktoberfest",
@@ -258,7 +258,7 @@
                 "open_issues": 116,
                 "owner": "dreamRs",
                 "repo": "shinyWidgets",
-                "stars": 871,
+                "stars": 872,
                 "topics": [
                   "r",
                   "rshiny",
@@ -284,7 +284,7 @@
                 "open_issues": 5,
                 "owner": "daattali",
                 "repo": "shinyjs",
-                "stars": 751,
+                "stars": 752,
                 "topics": [
                   "javascript",
                   "r",
@@ -312,7 +312,7 @@
                 "open_issues": 4,
                 "owner": "daattali",
                 "repo": "timevis",
-                "stars": 683,
+                "stars": 684,
                 "topics": [
                   "r",
                   "r-package",
@@ -339,7 +339,7 @@
                 "open_issues": 40,
                 "owner": "Appsilon",
                 "repo": "shiny.semantic",
-                "stars": 513,
+                "stars": 512,
                 "topics": [
                   "appsilon",
                   "fomantic-ui",
@@ -1295,7 +1295,7 @@
                     "open_issues": 165,
                     "owner": "rstudio",
                     "repo": "shinydashboard",
-                    "stars": 926,
+                    "stars": 927,
                     "topics": [
                       "admin-dashboard",
                       "dashboard",
@@ -1445,7 +1445,7 @@
                 "open_issues": 61,
                 "owner": "ficonsulting",
                 "repo": "RInno",
-                "stars": 313,
+                "stars": 312,
                 "topics": [
                   "batch-script",
                   "electron",
@@ -1484,7 +1484,7 @@
                 "open_issues": 3,
                 "owner": "rstudio",
                 "repo": "pool",
-                "stars": 255,
+                "stars": 256,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:08:45.064Z"
@@ -1510,7 +1510,7 @@
                     "open_issues": 761,
                     "owner": "plotly",
                     "repo": "plotly.R",
-                    "stars": 2681,
+                    "stars": 2682,
                     "topics": [
                       "d3js",
                       "data-visualization",
@@ -1542,7 +1542,7 @@
                     "open_issues": 172,
                     "owner": "rich-iannone",
                     "repo": "DiagrammeR",
-                    "stars": 1744,
+                    "stars": 1745,
                     "topics": [
                       "graph",
                       "graph-functions",
@@ -1623,7 +1623,7 @@
                     "open_issues": 11,
                     "owner": "davidgohel",
                     "repo": "flextable",
-                    "stars": 627,
+                    "stars": 628,
                     "topics": [
                       "cran",
                       "docx",
@@ -1702,7 +1702,7 @@
                     "open_issues": 167,
                     "owner": "jrowen",
                     "repo": "rhandsontable",
-                    "stars": 389,
+                    "stars": 390,
                     "topics": [
                       "handsontable",
                       "htmlwidgets",
@@ -2630,7 +2630,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-23T20:40:11.435Z",
+    "last_updated": "2026-09-24T20:46:04.188Z",
     "original_repository_info": {
       "archived": false,
       "description": "An awesome R-shiny list!",
