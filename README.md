@@ -169,7 +169,7 @@ A curated list of resources for R Shiny.  (*Featured on [Awesome-R](https://awes
 * [shinyTime](https://github.com/burgerga/shinyTime) ⭐ 31 | 🐛 8 | 🌐 R | 📅 2024-05-08 - A timeInput widget for Shiny
 * R-Studio
   * [shinydashboard](https://github.com/rstudio/shinydashboard) ⭐ 927 | 🐛 165 | 🌐 CSS | 📅 2025-04-22 - Shiny Dashboarding framework.
-  * [fontawesome](https://github.com/rstudio/fontawesome) ⭐ 301 | 🐛 9 | 🌐 R | 📅 2025-10-05 - Easily insert FontAwesome icons into R Markdown docs and Shiny apps.
+  * [fontawesome](https://github.com/rstudio/fontawesome) ⭐ 302 | 🐛 9 | 🌐 R | 📅 2025-10-05 - Easily insert FontAwesome icons into R Markdown docs and Shiny apps.
   * [shinythemes](https://github.com/rstudio/shinythemes) ⭐ 160 | 🐛 6 | 🌐 R | 📅 2022-02-25 - Bootstrap themes for use with Shiny.
     * [miniUI](https://github.com/rstudio/miniUI) ⭐ 108 | 🐛 6 | 🌐 R | 📅 2025-04-17 - Provides UI widget and layout functions for writing Shiny apps that work well on small screens.
 * [shinystan](http://mc-stan.org/interfaces/shinystan) - Provides visual and numerical summaries of model parameters and convergence diagnostics for MCMC simulations.
@@ -183,7 +183,7 @@ A curated list of resources for R Shiny.  (*Featured on [Awesome-R](https://awes
 * [pool](https://github.com/rstudio/pool) ⭐ 256 | 🐛 3 | 🌐 R | 📅 2026-09-16 - Abstract away the logic of connection management and the performance cost of fetching a new connection from a remote database.
 * [HTML Widgets/JavaScript](http://www.htmlwidgets.org/)
   * [plotly](https://github.com/ropensci/plotly) ⭐ 2,682 | 🐛 761 | 🌐 R | 📅 2026-07-25 - Easily translate your ggplot2 graphics to an interactive web-based version, and also provides bindings to the plotly.js graphing library.
-  * [DiagrammeR](https://github.com/rich-iannone/DiagrammeR) ⭐ 1,745 | 🐛 172 | 🌐 R | 📅 2026-04-27 - Tool for creating diagrams and flowcharts using Graphviz and Mermaid.
+  * [DiagrammeR](https://github.com/rich-iannone/DiagrammeR) ⭐ 1,744 | 🐛 172 | 🌐 R | 📅 2026-04-27 - Tool for creating diagrams and flowcharts using Graphviz and Mermaid.
   * [networkD3](https://github.com/christophergandrud/networkD3) ⭐ 659 | 🐛 82 | 🌐 R | 📅 2025-04-18 - Graph data visualization with D3.
   * [echarts4r](https://github.com/JohnCoene/echarts4r) ⭐ 632 | 🐛 179 | 🌐 R | 📅 2026-06-23 - Create interactive charts by leveraging Echarts.js library.
   * [flextable](https://github.com/davidgohel/flextable) ⭐ 628 | 🐛 11 | 🌐 R | 📅 2026-09-10 - Easily create customizable tables
@@ -301,4 +301,4 @@ A curated list of resources for R Shiny.  (*Featured on [Awesome-R](https://awes
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-24._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-25._
