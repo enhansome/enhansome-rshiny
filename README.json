@@ -465,7 +465,7 @@
                 "language": "HTML",
                 "license": null,
                 "last_commit": "2026-07-06T11:21:28Z",
-                "open_issues": 53,
+                "open_issues": 54,
                 "owner": "datastorm-open",
                 "repo": "shinymanager",
                 "stars": 405,
@@ -1779,7 +1779,7 @@
                     "open_issues": 77,
                     "owner": "hafen",
                     "repo": "trelliscopejs",
-                    "stars": 264,
+                    "stars": 265,
                     "topics": [
                       "r",
                       "visualization"
@@ -2630,7 +2630,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-25T20:44:08.821Z",
+    "last_updated": "2026-09-26T20:07:16.949Z",
     "original_repository_info": {
       "archived": false,
       "description": "An awesome R-shiny list!",
