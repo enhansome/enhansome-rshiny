@@ -58,7 +58,7 @@
                     "open_issues": 204,
                     "owner": "rstudio",
                     "repo": "shiny-server",
-                    "stars": 760,
+                    "stars": 761,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T01:08:45.064Z"
@@ -2630,7 +2630,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-26T20:07:16.949Z",
+    "last_updated": "2026-09-27T20:22:33.104Z",
     "original_repository_info": {
       "archived": false,
       "description": "An awesome R-shiny list!",
@@ -2642,7 +2642,7 @@
       "open_issues": 7,
       "owner": "grabear",
       "repo": "awesome-rshiny",
-      "stars": 870,
+      "stars": 871,
       "topics": [
         "awesome",
         "awesome-list",
