@@ -27,7 +27,7 @@ A curated list of resources for R Shiny.  (*Featured on [Awesome-R](https://awes
 
 ### General
 
-* [GitHub](https://github.com/rstudio/shiny) ⭐ 5,694 | 🐛 873 | 🌐 R | 📅 2026-10-02
+* [GitHub](https://github.com/rstudio/shiny) ⭐ 5,694 | 🐛 873 | 🌐 R | 📅 2026-10-03
 * [Official Website](http://shiny.rstudio.com/)
   * [Blog](https://blog.rstudio.org/category/shiny/)
   * [Articles](http://shiny.rstudio.com/articles/)
@@ -132,7 +132,7 @@ A curated list of resources for R Shiny.  (*Featured on [Awesome-R](https://awes
 * [waiter](https://github.com/JohnCoene/waiter) ⭐ 495 | 🐛 35 | 🌐 JavaScript | 📅 2026-08-17 - Loading screens for Shiny.
 * [radiant](https://github.com/radiant-rstats/radiant) ⭐ 469 | 🐛 36 | 🌐 HTML | 📅 2026-01-10 - Business analytics using R and Shiny.
 * [shinyauthr](https://github.com/PaulC91/shinyauthr) ⭐ 439 | 🐛 14 | 🌐 R | 📅 2024-03-04 - Server-side authentication using shiny modules.
-* [shinycssloaders](https://github.com/daattali/shinycssloaders) ⭐ 422 | 🐛 3 | 🌐 CSS | 📅 2025-08-14 - Add CSS loader animations to Shiny outputs.
+* [shinycssloaders](https://github.com/daattali/shinycssloaders) ⭐ 421 | 🐛 3 | 🌐 CSS | 📅 2025-08-14 - Add CSS loader animations to Shiny outputs.
 * [shinymanager](https://github.com/datastorm-open/shinymanager/) ⭐ 405 | 🐛 53 | 🌐 HTML | 📅 2026-10-01 - Simple and secure authentication for single 'Shiny' applications using a SQLite database.
 * [dashboardthemes](https://github.com/nik01010/dashboardthemes) ⚠️ Archived - An experimental R package to provide custom theme options for Shinydashboard applications.
 * [shinyjqui](https://github.com/Yang-Tang/shinyjqui) ⭐ 279 | 🐛 16 | 🌐 R | 📅 2023-12-30 - jQuery UI interactions and effects for shiny.
@@ -255,7 +255,7 @@ A curated list of resources for R Shiny.  (*Featured on [Awesome-R](https://awes
 * [STARTapp](https://github.com/jminnier/STARTapp) ⭐ 87 | 🐛 7 | 🌐 HTML | 📅 2020-11-11 - Transcriptome Analysis Resource Tool.
 * [shiny-phyloseq](https://github.com/joey711/shiny-phyloseq) ⭐ 60 | 🐛 22 | 🌐 HTML | 📅 2019-07-18 - Provides a graphical user interface to the microbiome analysis package for R, called phyloseq.
 * [Interactive PCA Explorer](https://github.com/benmarwick/Interactive_PCA_Explorer) ⭐ 55 | 🐛 1 | 🌐 R | 📅 2023-12-21 - Explore a PCA plots and data.
-* [NYT Bar Optimizer](https://github.com/jordanmeyer/nyt-bar-optimizer) ⭐ 41 | 🐛 2 | 🌐 R | 📅 2016-02-14 - Optimize your liquor cabinet using cocktail recipes from New York Times Cooking.
+* [NYT Bar Optimizer](https://github.com/jordanmeyer/nyt-bar-optimizer) ⭐ 40 | 🐛 2 | 🌐 R | 📅 2016-02-14 - Optimize your liquor cabinet using cocktail recipes from New York Times Cooking.
 * [R Shiny User Management & Authentication](https://github.com/yanirmor/shiny-user-management) ⭐ 39 | 🐛 4 | 🌐 R | 📅 2023-01-10 - Demonstration of user management and authentication system in R Shiny.
 * [html2r](https://github.com/alandipert/html2r) ⚠️ Archived - Convert HTML to R.
 * [MAVIS](https://github.com/kylehamilton/MAVIS) ⭐ 36 | 🐛 5 | 🌐 R | 📅 2018-03-01 - MAVIS: Meta Analysis via Shiny.
