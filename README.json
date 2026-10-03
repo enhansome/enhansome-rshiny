@@ -8,7 +8,7 @@
             {
               "node_type": "item",
               "title": "rstudio/shiny",
-              "description": null,
+              "description": "rstudio/shiny",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -151,7 +151,7 @@
                 {
                   "node_type": "item",
                   "title": "RStartHere",
-                  "description": null,
+                  "description": "rstudio/RStartHere",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -179,7 +179,7 @@
                 {
                   "node_type": "item",
                   "title": "Advanced-Shiny",
-                  "description": null,
+                  "description": "daattali/advanced-shiny",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -2111,7 +2111,7 @@
         {
           "node_type": "item",
           "title": "R-Studio Examples",
-          "description": null,
+          "description": "rstudio/shiny-examples",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2630,7 +2630,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-02T21:26:20.064Z",
+    "last_updated": "2026-10-03T05:09:13.627Z",
     "original_repository_info": {
       "archived": false,
       "description": "An awesome R-shiny list!",
