@@ -18,7 +18,7 @@
                 "language": "R",
                 "license": "NOASSERTION",
                 "last_commit": "2026-10-03T18:02:35Z",
-                "open_issues": 873,
+                "open_issues": 870,
                 "owner": "rstudio",
                 "repo": "shiny",
                 "stars": 5695,
@@ -58,7 +58,7 @@
                     "open_issues": 204,
                     "owner": "rstudio",
                     "repo": "shiny-server",
-                    "stars": 761,
+                    "stars": 762,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T01:08:45.064Z"
@@ -494,7 +494,7 @@
                 "open_issues": 0,
                 "owner": "nik01010",
                 "repo": "dashboardthemes",
-                "stars": 314,
+                "stars": 313,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:08:45.064Z"
@@ -964,7 +964,7 @@
                 "id": 137799634,
                 "language": "JavaScript",
                 "license": "NOASSERTION",
-                "last_commit": "2026-09-28T08:32:13Z",
+                "last_commit": "2026-10-05T08:34:24Z",
                 "open_issues": 26,
                 "owner": "rstudio",
                 "repo": "reactlog",
@@ -1542,7 +1542,7 @@
                     "open_issues": 172,
                     "owner": "rich-iannone",
                     "repo": "DiagrammeR",
-                    "stars": 1745,
+                    "stars": 1746,
                     "topics": [
                       "graph",
                       "graph-functions",
@@ -2630,7 +2630,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-04T20:23:47.911Z",
+    "last_updated": "2026-10-05T23:21:09.039Z",
     "original_repository_info": {
       "archived": false,
       "description": "An awesome R-shiny list!",
