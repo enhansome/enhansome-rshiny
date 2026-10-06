@@ -395,7 +395,7 @@
                 "open_issues": 36,
                 "owner": "radiant-rstats",
                 "repo": "radiant",
-                "stars": 469,
+                "stars": 470,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:08:45.064Z"
@@ -2630,7 +2630,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-05T23:21:09.039Z",
+    "last_updated": "2026-10-06T10:32:58.113Z",
     "original_repository_info": {
       "archived": false,
       "description": "An awesome R-shiny list!",
