@@ -465,7 +465,7 @@
                 "language": "HTML",
                 "license": null,
                 "last_commit": "2026-10-01T09:37:24Z",
-                "open_issues": 53,
+                "open_issues": 54,
                 "owner": "datastorm-open",
                 "repo": "shinymanager",
                 "stars": 405,
@@ -1542,7 +1542,7 @@
                     "open_issues": 172,
                     "owner": "rich-iannone",
                     "repo": "DiagrammeR",
-                    "stars": 1746,
+                    "stars": 1747,
                     "topics": [
                       "graph",
                       "graph-functions",
@@ -2630,7 +2630,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-06T10:32:58.113Z",
+    "last_updated": "2026-10-06T21:53:07.740Z",
     "original_repository_info": {
       "archived": false,
       "description": "An awesome R-shiny list!",
