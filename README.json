@@ -21,7 +21,7 @@
                 "open_issues": 870,
                 "owner": "rstudio",
                 "repo": "shiny",
-                "stars": 5696,
+                "stars": 5697,
                 "topics": [
                   "r",
                   "reactive",
@@ -258,7 +258,7 @@
                 "open_issues": 116,
                 "owner": "dreamRs",
                 "repo": "shinyWidgets",
-                "stars": 872,
+                "stars": 873,
                 "topics": [
                   "r",
                   "rshiny",
@@ -1542,7 +1542,7 @@
                     "open_issues": 172,
                     "owner": "rich-iannone",
                     "repo": "DiagrammeR",
-                    "stars": 1747,
+                    "stars": 1748,
                     "topics": [
                       "graph",
                       "graph-functions",
@@ -1591,8 +1591,8 @@
                     "id": 124915957,
                     "language": "R",
                     "license": "NOASSERTION",
-                    "last_commit": "2026-06-23T14:27:23Z",
-                    "open_issues": 180,
+                    "last_commit": "2026-10-08T15:39:03Z",
+                    "open_issues": 179,
                     "owner": "JohnCoene",
                     "repo": "echarts4r",
                     "stars": 633,
@@ -1619,8 +1619,8 @@
                     "id": 62127938,
                     "language": "R",
                     "license": null,
-                    "last_commit": "2026-09-10T13:27:50Z",
-                    "open_issues": 12,
+                    "last_commit": "2026-10-08T11:00:35Z",
+                    "open_issues": 10,
                     "owner": "davidgohel",
                     "repo": "flextable",
                     "stars": 627,
@@ -2630,7 +2630,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-07T22:14:59.839Z",
+    "last_updated": "2026-10-08T22:25:21.631Z",
     "original_repository_info": {
       "archived": false,
       "description": "An awesome R-shiny list!",
