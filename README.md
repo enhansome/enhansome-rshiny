@@ -27,7 +27,7 @@ A curated list of resources for R Shiny.  (*Featured on [Awesome-R](https://awes
 
 ### General
 
-* [GitHub](https://github.com/rstudio/shiny) ⭐ 5,697 | 🐛 870 | 🌐 R | 📅 2026-10-09
+* [GitHub](https://github.com/rstudio/shiny) ⭐ 5,698 | 🐛 870 | 🌐 R | 📅 2026-10-09
 * [Official Website](http://shiny.rstudio.com/)
   * [Blog](https://blog.rstudio.org/category/shiny/)
   * [Articles](http://shiny.rstudio.com/articles/)
@@ -247,7 +247,7 @@ A curated list of resources for R Shiny.  (*Featured on [Awesome-R](https://awes
 
 ## App Examples
 
-* [R-Studio Examples](https://github.com/rstudio/shiny-examples) ⭐ 2,035 | 🐛 55 | 🌐 JavaScript | 📅 2025-05-20
+* [R-Studio Examples](https://github.com/rstudio/shiny-examples) ⭐ 2,034 | 🐛 55 | 🌐 JavaScript | 📅 2025-05-20
 * [BallR](https://github.com/toddwschneider/ballr) ⭐ 613 | 🐛 2 | 🌐 R | 📅 2022-12-30 - Uses the NBA Stats API to visualize every shot taken by a player during an NBA season dating back to 1996.
 * [shinyEd](https://github.com/ShinyEd/ShinyEd) ⭐ 246 | 🐛 1 | 🌐 R | 📅 2022-09-15 - Statistics education apps.
 * [shiny-salesman](https://github.com/toddwschneider/shiny-salesman) ⭐ 245 | 🐛 0 | 🌐 R | 📅 2019-02-18 - Traveling salesman app.
@@ -301,4 +301,4 @@ A curated list of resources for R Shiny.  (*Featured on [Awesome-R](https://awes
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-09._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-10._
