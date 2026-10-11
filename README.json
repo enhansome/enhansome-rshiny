@@ -21,7 +21,7 @@
                 "open_issues": 870,
                 "owner": "rstudio",
                 "repo": "shiny",
-                "stars": 5698,
+                "stars": 5699,
                 "topics": [
                   "r",
                   "reactive",
@@ -164,7 +164,7 @@
                     "open_issues": 6,
                     "owner": "rstudio",
                     "repo": "RStartHere",
-                    "stars": 661,
+                    "stars": 660,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T01:08:45.064Z"
@@ -2630,7 +2630,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-10T20:41:25.065Z",
+    "last_updated": "2026-10-11T21:03:35.839Z",
     "original_repository_info": {
       "archived": false,
       "description": "An awesome R-shiny list!",
