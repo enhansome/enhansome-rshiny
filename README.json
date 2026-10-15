@@ -816,7 +816,7 @@
                 "language": "R",
                 "license": "NOASSERTION",
                 "last_commit": "2026-04-13T17:24:17Z",
-                "open_issues": 32,
+                "open_issues": 34,
                 "owner": "curso-r",
                 "repo": "auth0",
                 "stars": 166,
@@ -1619,7 +1619,7 @@
                     "id": 62127938,
                     "language": "R",
                     "license": null,
-                    "last_commit": "2026-10-14T09:23:51Z",
+                    "last_commit": "2026-10-15T15:34:37Z",
                     "open_issues": 10,
                     "owner": "davidgohel",
                     "repo": "flextable",
@@ -2152,27 +2152,6 @@
         },
         {
           "node_type": "item",
-          "title": "shinyEd",
-          "description": "Statistics education apps.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "Shiny apps for introductory statistics",
-            "homepage": "http://shinyed.github.io/intro-stats/",
-            "id": 14483609,
-            "language": "R",
-            "license": "NOASSERTION",
-            "last_commit": "2022-09-15T21:50:32Z",
-            "open_issues": 1,
-            "owner": "ShinyEd",
-            "repo": "intro-stats",
-            "stars": 246,
-            "topics": []
-          },
-          "first_seen": "2026-08-29T01:08:45.064Z"
-        },
-        {
-          "node_type": "item",
           "title": "shiny-salesman",
           "description": "Traveling salesman app.",
           "children": [],
@@ -2187,6 +2166,27 @@
             "open_issues": 0,
             "owner": "toddwschneider",
             "repo": "shiny-salesman",
+            "stars": 245,
+            "topics": []
+          },
+          "first_seen": "2026-08-29T01:08:45.064Z"
+        },
+        {
+          "node_type": "item",
+          "title": "shinyEd",
+          "description": "Statistics education apps.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Shiny apps for introductory statistics",
+            "homepage": "http://shinyed.github.io/intro-stats/",
+            "id": 14483609,
+            "language": "R",
+            "license": "NOASSERTION",
+            "last_commit": "2022-09-15T21:50:32Z",
+            "open_issues": 1,
+            "owner": "ShinyEd",
+            "repo": "intro-stats",
             "stars": 245,
             "topics": []
           },
@@ -2630,7 +2630,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-14T20:57:11.592Z",
+    "last_updated": "2026-10-15T20:31:23.070Z",
     "original_repository_info": {
       "archived": false,
       "description": "An awesome R-shiny list!",
