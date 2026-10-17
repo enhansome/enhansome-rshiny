@@ -77,7 +77,7 @@ A curated list of resources for R Shiny.  (*Featured on [Awesome-R](https://awes
   * [Episode 25: Interview with Ian Lyttle (Rstudio::Conf 2018](https://r-podcast.org/episode/025-rstudioconf-ian-lyttle/)
   * [Episode 27: Get The {Gt} Tables (Rstudio::Conf 2019)](https://r-podcast.org/episode/027-rstudioconf-tables/)
 * [R-Studio (video)](https://shiny.rstudio.com/tutorial/)
-  * [RStartHere](https://github.com/rstudio/RStartHere) ⭐ 659 | 🐛 6 | 🌐 R | 📅 2019-09-16
+  * [RStartHere](https://github.com/rstudio/RStartHere) ⭐ 658 | 🐛 6 | 🌐 R | 📅 2019-09-16
   * [Effective Reactive Programming – Part 1 & Part 2](https://www.rstudio.com/resources/videos/effective-reactive-programming/)
   * [Coordinated multiple views (linked brushing)](https://www.rstudio.com/resources/videos/coordinated-multiple-views-linked-brushing/)
   * [Building interactive tools for exploratory data analysis (gadgets)](https://www.rstudio.com/resources/videos/building-interactive-tools-for-exploratory-data-analysis/)
@@ -197,7 +197,7 @@ A curated list of resources for R Shiny.  (*Featured on [Awesome-R](https://awes
   * [gglabeller](https://github.com/AliciaSchep/gglabeller) ⭐ 188 | 🐛 1 | 🌐 R | 📅 2021-03-12 - Gadget that enables selecting points on a ggplot to label.
   * [billboarder](https://github.com/dreamRs/billboarder) ⭐ 177 | 🐛 11 | 🌐 R | 📅 2026-09-23 - Htmlwidget for billboard.js.
   * [slickR](https://github.com/metrumresearchgroup/slickR) ⭐ 162 | 🐛 19 | 🌐 JavaScript | 📅 2025-12-15 - Slick carousel htmlwidget for R.
-  * [scatterD3](https://github.com/juba/scatterD3) ⭐ 162 | 🐛 4 | 🌐 JavaScript | 📅 2026-10-16 - Scatter plot htmlwidget based on D3.js.
+  * [scatterD3](https://github.com/juba/scatterD3) ⭐ 162 | 🐛 3 | 🌐 JavaScript | 📅 2026-10-16 - Scatter plot htmlwidget based on D3.js.
   * [excelR](https://github.com/Swechhya/excelR) ⭐ 154 | 🐛 31 | 🌐 JavaScript | 📅 2023-07-12 - An interface to jExcel.js library.
   * [rintrojs](https://github.com/carlganz/rintrojs) ⭐ 137 | 🐛 20 | 🌐 R | 📅 2024-01-11 - Wrapper for the Intro.js library.
   * [manipulateWidget](https://github.com/rte-antares-rpackage/manipulateWidget) ⭐ 131 | 🐛 18 | 🌐 R | 📅 2026-01-16 - Add More Interactivity to htmlWidgets.
@@ -301,4 +301,4 @@ A curated list of resources for R Shiny.  (*Featured on [Awesome-R](https://awes
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-16._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-17._

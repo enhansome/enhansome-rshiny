@@ -164,7 +164,7 @@
                     "open_issues": 6,
                     "owner": "rstudio",
                     "repo": "RStartHere",
-                    "stars": 659,
+                    "stars": 658,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T01:08:45.064Z"
@@ -1898,8 +1898,8 @@
                     "id": 37119784,
                     "language": "JavaScript",
                     "license": null,
-                    "last_commit": "2026-10-16T16:16:14Z",
-                    "open_issues": 4,
+                    "last_commit": "2026-10-16T20:37:40Z",
+                    "open_issues": 3,
                     "owner": "juba",
                     "repo": "scatterD3",
                     "stars": 162,
@@ -2630,7 +2630,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-16T20:03:25.661Z",
+    "last_updated": "2026-10-17T19:42:14.204Z",
     "original_repository_info": {
       "archived": false,
       "description": "An awesome R-shiny list!",
