@@ -228,7 +228,7 @@
                 "open_issues": 21,
                 "owner": "ThinkR-open",
                 "repo": "golem",
-                "stars": 946,
+                "stars": 947,
                 "topics": [
                   "golemverse",
                   "hacktoberfest",
@@ -395,7 +395,7 @@
                 "open_issues": 36,
                 "owner": "radiant-rstats",
                 "repo": "radiant",
-                "stars": 471,
+                "stars": 472,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:08:45.064Z"
@@ -842,8 +842,8 @@
                 "id": 22565116,
                 "language": "JavaScript",
                 "license": "NOASSERTION",
-                "last_commit": "2026-10-19T21:19:07Z",
-                "open_issues": 34,
+                "last_commit": "2026-10-20T20:45:08Z",
+                "open_issues": 29,
                 "owner": "shinyTree",
                 "repo": "shinyTree",
                 "stars": 153,
@@ -964,7 +964,7 @@
                 "id": 137799634,
                 "language": "JavaScript",
                 "license": "NOASSERTION",
-                "last_commit": "2026-10-19T08:28:28Z",
+                "last_commit": "2026-10-20T18:40:18Z",
                 "open_issues": 26,
                 "owner": "rstudio",
                 "repo": "reactlog",
@@ -1542,7 +1542,7 @@
                     "open_issues": 172,
                     "owner": "rich-iannone",
                     "repo": "DiagrammeR",
-                    "stars": 1749,
+                    "stars": 1750,
                     "topics": [
                       "graph",
                       "graph-functions",
@@ -2166,7 +2166,7 @@
             "open_issues": 0,
             "owner": "toddwschneider",
             "repo": "shiny-salesman",
-            "stars": 245,
+            "stars": 246,
             "topics": []
           },
           "first_seen": "2026-08-29T01:08:45.064Z"
@@ -2630,7 +2630,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-19T21:44:12.220Z",
+    "last_updated": "2026-10-20T20:51:38.133Z",
     "original_repository_info": {
       "archived": false,
       "description": "An awesome R-shiny list!",
