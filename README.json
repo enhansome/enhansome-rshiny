@@ -21,7 +21,7 @@
                 "open_issues": 873,
                 "owner": "rstudio",
                 "repo": "shiny",
-                "stars": 5704,
+                "stars": 5703,
                 "topics": [
                   "r",
                   "reactive",
@@ -842,8 +842,8 @@
                 "id": 22565116,
                 "language": "JavaScript",
                 "license": "NOASSERTION",
-                "last_commit": "2026-10-20T20:45:08Z",
-                "open_issues": 29,
+                "last_commit": "2026-10-21T20:48:36Z",
+                "open_issues": 9,
                 "owner": "shinyTree",
                 "repo": "shinyTree",
                 "stars": 153,
@@ -929,6 +929,27 @@
             },
             {
               "node_type": "item",
+              "title": "reactlog",
+              "description": "Visual insight into a Shiny apps reactive graph.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Shiny Reactivity Visualizer",
+                "homepage": "http://rstudio.github.io/reactlog",
+                "id": 137799634,
+                "language": "JavaScript",
+                "license": "NOASSERTION",
+                "last_commit": "2026-10-21T20:12:35Z",
+                "open_issues": 23,
+                "owner": "rstudio",
+                "repo": "reactlog",
+                "stars": 132,
+                "topics": []
+              },
+              "first_seen": "2026-08-29T01:08:45.064Z"
+            },
+            {
+              "node_type": "item",
               "title": "ECharts2Shiny",
               "description": "Insert interactive charts from ECharts into Shiny.",
               "children": [],
@@ -949,27 +970,6 @@
                   "shiny",
                   "visualization"
                 ]
-              },
-              "first_seen": "2026-08-29T01:08:45.064Z"
-            },
-            {
-              "node_type": "item",
-              "title": "reactlog",
-              "description": "Visual insight into a Shiny apps reactive graph.",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "Shiny Reactivity Visualizer",
-                "homepage": "http://rstudio.github.io/reactlog",
-                "id": 137799634,
-                "language": "JavaScript",
-                "license": "NOASSERTION",
-                "last_commit": "2026-10-20T18:40:18Z",
-                "open_issues": 26,
-                "owner": "rstudio",
-                "repo": "reactlog",
-                "stars": 131,
-                "topics": []
               },
               "first_seen": "2026-08-29T01:08:45.064Z"
             },
@@ -2124,7 +2124,7 @@
             "open_issues": 55,
             "owner": "rstudio",
             "repo": "shiny-examples",
-            "stars": 2034,
+            "stars": 2035,
             "topics": []
           },
           "first_seen": "2026-08-29T01:08:45.064Z"
@@ -2630,7 +2630,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-20T20:51:38.133Z",
+    "last_updated": "2026-10-21T20:52:35.338Z",
     "original_repository_info": {
       "archived": false,
       "description": "An awesome R-shiny list!",
