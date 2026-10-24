@@ -395,7 +395,7 @@
                 "open_issues": 36,
                 "owner": "radiant-rstats",
                 "repo": "radiant",
-                "stars": 472,
+                "stars": 473,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:08:45.064Z"
@@ -842,8 +842,8 @@
                 "id": 22565116,
                 "language": "JavaScript",
                 "license": "NOASSERTION",
-                "last_commit": "2026-10-23T15:27:28Z",
-                "open_issues": 3,
+                "last_commit": "2026-10-23T20:55:38Z",
+                "open_issues": 4,
                 "owner": "shinyTree",
                 "repo": "shinyTree",
                 "stars": 153,
@@ -1510,7 +1510,7 @@
                     "open_issues": 762,
                     "owner": "plotly",
                     "repo": "plotly.R",
-                    "stars": 2684,
+                    "stars": 2685,
                     "topics": [
                       "d3js",
                       "data-visualization",
@@ -2630,7 +2630,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-23T20:37:41.910Z",
+    "last_updated": "2026-10-24T19:45:39.006Z",
     "original_repository_info": {
       "archived": false,
       "description": "An awesome R-shiny list!",
