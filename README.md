@@ -27,7 +27,7 @@ A curated list of resources for R Shiny.  (*Featured on [Awesome-R](https://awes
 
 ### General
 
-* [GitHub](https://github.com/rstudio/shiny) ⭐ 5,705 | 🐛 873 | 🌐 R | 📅 2026-10-16
+* [GitHub](https://github.com/rstudio/shiny) ⭐ 5,706 | 🐛 873 | 🌐 R | 📅 2026-10-16
 * [Official Website](http://shiny.rstudio.com/)
   * [Blog](https://blog.rstudio.org/category/shiny/)
   * [Articles](http://shiny.rstudio.com/articles/)
@@ -157,7 +157,7 @@ A curated list of resources for R Shiny.  (*Featured on [Awesome-R](https://awes
 * [ECharts2Shiny](https://github.com/XD-DENG/ECharts2Shiny) ⭐ 131 | 🐛 6 | 🌐 R | 📅 2020-10-02 - Insert interactive charts from ECharts into Shiny.
 * [shinycustomloader](https://github.com/emitanaka/shinycustomloader) ⭐ 121 | 🐛 8 | 🌐 R | 📅 2018-07-17 - Add a custom loader for R Shiny.
 * [shinyhelper](https://github.com/cwthom/shinyhelper) ⭐ 116 | 🐛 14 | 🌐 R | 📅 2022-10-05 - Add markdown help files to Shiny apps.
-* [shinytoastr](https://github.com/MangoTheCat/shinytoastr) ⭐ 96 | 🐛 0 | 🌐 R | 📅 2016-08-29 - Notifications in Shiny, via [toastr](https://github.com/CodeSeven/toastr) ⭐ 12,087 | 🐛 159 | 🌐 JavaScript | 📅 2023-02-27.
+* [shinytoastr](https://github.com/MangoTheCat/shinytoastr) ⭐ 96 | 🐛 0 | 🌐 R | 📅 2016-08-29 - Notifications in Shiny, via [toastr](https://github.com/CodeSeven/toastr) ⭐ 12,086 | 🐛 159 | 🌐 JavaScript | 📅 2023-02-27.
 * [shinyDND](https://github.com/ayayron/shinydnd) ⭐ 93 | 🐛 5 | 🌐 R | 📅 2017-09-24 - Create Shiny drag and drop elements in R.
 * [shiny.collections](https://github.com/Appsilon/shiny.collections) ⭐ 75 | 🐛 4 | 🌐 R | 📅 2023-12-15 - Google Docs-like live collaboration in Shiny.
 * [shinyscreenshot](https://github.com/daattali/shinyscreenshot) ⭐ 72 | 🐛 4 | 🌐 R | 📅 2024-10-27 - Capture screenshots of entire pages or parts of pages in Shiny apps
@@ -301,4 +301,4 @@ A curated list of resources for R Shiny.  (*Featured on [Awesome-R](https://awes
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-24._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-25._
