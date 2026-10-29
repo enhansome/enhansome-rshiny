@@ -27,7 +27,7 @@ A curated list of resources for R Shiny.  (*Featured on [Awesome-R](https://awes
 
 ### General
 
-* [GitHub](https://github.com/rstudio/shiny) ⭐ 5,707 | 🐛 899 | 🌐 R | 📅 2026-10-28
+* [GitHub](https://github.com/rstudio/shiny) ⭐ 5,707 | 🐛 900 | 🌐 R | 📅 2026-10-28
 * [Official Website](http://shiny.rstudio.com/)
   * [Blog](https://blog.rstudio.org/category/shiny/)
   * [Articles](http://shiny.rstudio.com/articles/)
@@ -55,7 +55,7 @@ A curated list of resources for R Shiny.  (*Featured on [Awesome-R](https://awes
 
 #### Self Hosting
 
-* [Shiny Server](https://github.com/rstudio/shiny-server) ⭐ 763 | 🐛 198 | 🌐 JavaScript | 📅 2026-10-28 - Back end software that builds a web server for shiny apps.
+* [Shiny Server](https://github.com/rstudio/shiny-server) ⭐ 763 | 🐛 197 | 🌐 JavaScript | 📅 2026-10-28 - Back end software that builds a web server for shiny apps.
 * [ShinyStudio](https://github.com/dm3ll3n/ShinyStudio) ⭐ 241 | 🐛 8 | 🌐 Shell | 📅 2020-07-17 - Builds on the [Rocker project](https://www.rocker-project.org/) by including ShinyProxy to provide secured access to RStudio, VS Code, and Shiny.
 * [RStudio Connect](https://www.rstudio.com/products/connect/) - Back end software for hosing shiny applications, Rmarkdown, plus other features for enterprise contexts.
 * [Shinyproxy](https://www.shinyproxy.io/) - Uses containers for hosting shiny apps and a Java server control and proxy traffic to the app containers. [How-to Blog](http://lukesingham.com/shiny-containers-with-shinyproxy/).
@@ -151,7 +151,7 @@ A curated list of resources for R Shiny.  (*Featured on [Awesome-R](https://awes
 * [auth0](https://github.com/curso-r/auth0) ⭐ 166 | 🐛 34 | 🌐 R | 📅 2026-04-13 - Authentication in Shiny apps using Auth0 service.
 * [shinyTree](https://github.com/shinyTree/shinyTree) ⭐ 153 | 🐛 0 | 🌐 R | 📅 2026-10-28 - Enables Shiny application developers to use the jsTree library in their applications.
 * [bsplus](https://github.com/ijlyttle/bsplus) ⭐ 150 | 🐛 44 | 🌐 R | 📅 2025-04-06 - Shiny and R Markdown addons to Bootstrap 3.
-* [shinybusy](https://github.com/dreamRs/shinybusy) ⭐ 146 | 🐛 14 | 🌐 R | 📅 2024-09-17 - Minimal busy indicator for Shiny apps.
+* [shinybusy](https://github.com/dreamRs/shinybusy) ⭐ 146 | 🐛 12 | 🌐 R | 📅 2026-10-29 - Minimal busy indicator for Shiny apps.
 * [yonder](https://github.com/nteetor/yonder) ⭐ 136 | 🐛 31 | 🌐 R | 📅 2026-10-18 - A reactive web framework built on shiny.
 * [reactlog](https://github.com/rstudio/reactlog) ⭐ 132 | 🐛 25 | 🌐 JavaScript | 📅 2026-10-26 - Visual insight into a Shiny apps reactive graph.
 * [ECharts2Shiny](https://github.com/XD-DENG/ECharts2Shiny) ⭐ 131 | 🐛 6 | 🌐 R | 📅 2020-10-02 - Insert interactive charts from ECharts into Shiny.
@@ -301,4 +301,4 @@ A curated list of resources for R Shiny.  (*Featured on [Awesome-R](https://awes
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-28._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-29._
