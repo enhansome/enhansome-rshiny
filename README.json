@@ -17,11 +17,11 @@
                 "id": 4729944,
                 "language": "R",
                 "license": "NOASSERTION",
-                "last_commit": "2026-10-30T01:00:26Z",
-                "open_issues": 900,
+                "last_commit": "2026-11-02T16:20:45Z",
+                "open_issues": 902,
                 "owner": "rstudio",
                 "repo": "shiny",
-                "stars": 5707,
+                "stars": 5706,
                 "topics": [
                   "r",
                   "reactive",
@@ -58,7 +58,7 @@
                     "open_issues": 197,
                     "owner": "rstudio",
                     "repo": "shiny-server",
-                    "stars": 763,
+                    "stars": 762,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T01:08:45.064Z"
@@ -312,7 +312,7 @@
                 "open_issues": 4,
                 "owner": "daattali",
                 "repo": "timevis",
-                "stars": 685,
+                "stars": 684,
                 "topics": [
                   "r",
                   "r-package",
@@ -465,7 +465,7 @@
                 "language": "HTML",
                 "license": null,
                 "last_commit": "2026-10-26T16:38:29Z",
-                "open_issues": 53,
+                "open_issues": 54,
                 "owner": "datastorm-open",
                 "repo": "shinymanager",
                 "stars": 405,
@@ -939,7 +939,7 @@
                 "id": 137799634,
                 "language": "JavaScript",
                 "license": "NOASSERTION",
-                "last_commit": "2026-10-26T16:13:58Z",
+                "last_commit": "2026-11-02T08:18:41Z",
                 "open_issues": 25,
                 "owner": "rstudio",
                 "repo": "reactlog",
@@ -1510,7 +1510,7 @@
                     "open_issues": 761,
                     "owner": "plotly",
                     "repo": "plotly.R",
-                    "stars": 2685,
+                    "stars": 2683,
                     "topics": [
                       "d3js",
                       "data-visualization",
@@ -1620,10 +1620,10 @@
                     "language": "R",
                     "license": null,
                     "last_commit": "2026-10-22T19:26:12Z",
-                    "open_issues": 11,
+                    "open_issues": 12,
                     "owner": "davidgohel",
                     "repo": "flextable",
-                    "stars": 628,
+                    "stars": 629,
                     "topics": [
                       "cran",
                       "docx",
@@ -2630,7 +2630,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-01T21:21:54.581Z",
+    "last_updated": "2026-11-03T00:01:44.600Z",
     "original_repository_info": {
       "archived": false,
       "description": "An awesome R-shiny list!",
