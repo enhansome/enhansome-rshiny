@@ -17,11 +17,11 @@
                 "id": 4729944,
                 "language": "R",
                 "license": "NOASSERTION",
-                "last_commit": "2026-11-02T16:20:45Z",
-                "open_issues": 902,
+                "last_commit": "2026-11-05T21:08:29Z",
+                "open_issues": 901,
                 "owner": "rstudio",
                 "repo": "shiny",
-                "stars": 5705,
+                "stars": 5706,
                 "topics": [
                   "r",
                   "reactive",
@@ -392,7 +392,7 @@
                 "language": "HTML",
                 "license": "NOASSERTION",
                 "last_commit": "2026-01-10T02:56:23Z",
-                "open_issues": 36,
+                "open_issues": 37,
                 "owner": "radiant-rstats",
                 "repo": "radiant",
                 "stars": 473,
@@ -1619,7 +1619,7 @@
                     "id": 62127938,
                     "language": "R",
                     "license": null,
-                    "last_commit": "2026-10-22T19:26:12Z",
+                    "last_commit": "2026-11-05T18:15:18Z",
                     "open_issues": 13,
                     "owner": "davidgohel",
                     "repo": "flextable",
@@ -2630,7 +2630,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-04T22:51:26.202Z",
+    "last_updated": "2026-11-05T22:49:56.585Z",
     "original_repository_info": {
       "archived": false,
       "description": "An awesome R-shiny list!",

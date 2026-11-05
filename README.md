@@ -27,7 +27,7 @@ A curated list of resources for R Shiny.  (*Featured on [Awesome-R](https://awes
 
 ### General
 
-* [GitHub](https://github.com/rstudio/shiny) ⭐ 5,705 | 🐛 902 | 🌐 R | 📅 2026-11-02
+* [GitHub](https://github.com/rstudio/shiny) ⭐ 5,706 | 🐛 901 | 🌐 R | 📅 2026-11-05
 * [Official Website](http://shiny.rstudio.com/)
   * [Blog](https://blog.rstudio.org/category/shiny/)
   * [Articles](http://shiny.rstudio.com/articles/)
@@ -130,7 +130,7 @@ A curated list of resources for R Shiny.  (*Featured on [Awesome-R](https://awes
 * [timevis](https://github.com/daattali/timevis/) ⭐ 684 | 🐛 4 | 🌐 R | 📅 2024-08-18 - Create interactive timeline visualizations in R.
 * [shiny.semantic](https://github.com/Appsilon/shiny.semantic) ⭐ 512 | 🐛 41 | 🌐 R | 📅 2026-09-29 - Semantic UI wrapper for Shiny.
 * [waiter](https://github.com/JohnCoene/waiter) ⭐ 495 | 🐛 35 | 🌐 JavaScript | 📅 2026-08-17 - Loading screens for Shiny.
-* [radiant](https://github.com/radiant-rstats/radiant) ⭐ 473 | 🐛 36 | 🌐 HTML | 📅 2026-01-10 - Business analytics using R and Shiny.
+* [radiant](https://github.com/radiant-rstats/radiant) ⭐ 473 | 🐛 37 | 🌐 HTML | 📅 2026-01-10 - Business analytics using R and Shiny.
 * [shinyauthr](https://github.com/PaulC91/shinyauthr) ⭐ 439 | 🐛 14 | 🌐 R | 📅 2024-03-04 - Server-side authentication using shiny modules.
 * [shinycssloaders](https://github.com/daattali/shinycssloaders) ⭐ 421 | 🐛 3 | 🌐 CSS | 📅 2025-08-14 - Add CSS loader animations to Shiny outputs.
 * [shinymanager](https://github.com/datastorm-open/shinymanager/) ⭐ 405 | 🐛 54 | 🌐 HTML | 📅 2026-10-26 - Simple and secure authentication for single 'Shiny' applications using a SQLite database.
@@ -186,7 +186,7 @@ A curated list of resources for R Shiny.  (*Featured on [Awesome-R](https://awes
   * [DiagrammeR](https://github.com/rich-iannone/DiagrammeR) ⭐ 1,752 | 🐛 172 | 🌐 R | 📅 2026-04-27 - Tool for creating diagrams and flowcharts using Graphviz and Mermaid.
   * [networkD3](https://github.com/christophergandrud/networkD3) ⭐ 659 | 🐛 82 | 🌐 R | 📅 2025-04-18 - Graph data visualization with D3.
   * [echarts4r](https://github.com/JohnCoene/echarts4r) ⭐ 633 | 🐛 171 | 🌐 R | 📅 2026-10-16 - Create interactive charts by leveraging Echarts.js library.
-  * [flextable](https://github.com/davidgohel/flextable) ⭐ 629 | 🐛 13 | 🌐 R | 📅 2026-10-22 - Easily create customizable tables
+  * [flextable](https://github.com/davidgohel/flextable) ⭐ 629 | 🐛 13 | 🌐 R | 📅 2026-11-05 - Easily create customizable tables
   * [DT](https://github.com/rstudio/DT) ⭐ 621 | 🐛 207 | 🌐 JavaScript | 📅 2026-05-18 - Provides a function `datatable()` to display R data via the DataTables JavaScript library.
   * [visNetwork](https://github.com/datastorm-open/visNetwork) ⭐ 561 | 🐛 156 | 🌐 JavaScript | 📅 2026-07-15 - Network visualization for R using vis.js library.
   * [rhandsontable](https://github.com/jrowen/rhandsontable) ⭐ 390 | 🐛 167 | 🌐 HTML | 📅 2024-07-23 - An htmlwidgets implementation of Handsontable.js.
@@ -301,4 +301,4 @@ A curated list of resources for R Shiny.  (*Featured on [Awesome-R](https://awes
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-04._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-05._
