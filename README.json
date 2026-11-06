@@ -17,8 +17,8 @@
                 "id": 4729944,
                 "language": "R",
                 "license": "NOASSERTION",
-                "last_commit": "2026-11-05T21:08:29Z",
-                "open_issues": 901,
+                "last_commit": "2026-11-06T21:43:34Z",
+                "open_issues": 877,
                 "owner": "rstudio",
                 "repo": "shiny",
                 "stars": 5706,
@@ -115,7 +115,7 @@
                     "open_issues": 4,
                     "owner": "virtualstaticvoid",
                     "repo": "heroku-buildpack-r",
-                    "stars": 306,
+                    "stars": 305,
                     "topics": [
                       "heroku",
                       "heroku-buildpack",
@@ -464,8 +464,8 @@
                 "id": 175846555,
                 "language": "HTML",
                 "license": null,
-                "last_commit": "2026-10-26T16:38:29Z",
-                "open_issues": 54,
+                "last_commit": "2026-11-06T12:59:19Z",
+                "open_issues": 51,
                 "owner": "datastorm-open",
                 "repo": "shinymanager",
                 "stars": 405,
@@ -730,7 +730,7 @@
                 "open_issues": 19,
                 "owner": "nstrayer",
                 "repo": "shinysense",
-                "stars": 204,
+                "stars": 203,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:08:45.064Z"
@@ -1542,7 +1542,7 @@
                     "open_issues": 172,
                     "owner": "rich-iannone",
                     "repo": "DiagrammeR",
-                    "stars": 1752,
+                    "stars": 1751,
                     "topics": [
                       "graph",
                       "graph-functions",
@@ -1619,7 +1619,7 @@
                     "id": 62127938,
                     "language": "R",
                     "license": null,
-                    "last_commit": "2026-11-05T18:15:18Z",
+                    "last_commit": "2026-11-06T15:32:03Z",
                     "open_issues": 13,
                     "owner": "davidgohel",
                     "repo": "flextable",
@@ -2630,7 +2630,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-05T22:49:56.585Z",
+    "last_updated": "2026-11-06T22:21:46.571Z",
     "original_repository_info": {
       "archived": false,
       "description": "An awesome R-shiny list!",
