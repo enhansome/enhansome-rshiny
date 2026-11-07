@@ -27,7 +27,7 @@ A curated list of resources for R Shiny.  (*Featured on [Awesome-R](https://awes
 
 ### General
 
-* [GitHub](https://github.com/rstudio/shiny) ⭐ 5,706 | 🐛 877 | 🌐 R | 📅 2026-11-06
+* [GitHub](https://github.com/rstudio/shiny) ⭐ 5,705 | 🐛 877 | 🌐 R | 📅 2026-11-06
 * [Official Website](http://shiny.rstudio.com/)
   * [Blog](https://blog.rstudio.org/category/shiny/)
   * [Articles](http://shiny.rstudio.com/articles/)
@@ -77,7 +77,7 @@ A curated list of resources for R Shiny.  (*Featured on [Awesome-R](https://awes
   * [Episode 25: Interview with Ian Lyttle (Rstudio::Conf 2018](https://r-podcast.org/episode/025-rstudioconf-ian-lyttle/)
   * [Episode 27: Get The {Gt} Tables (Rstudio::Conf 2019)](https://r-podcast.org/episode/027-rstudioconf-tables/)
 * [R-Studio (video)](https://shiny.rstudio.com/tutorial/)
-  * [RStartHere](https://github.com/rstudio/RStartHere) ⭐ 658 | 🐛 6 | 🌐 R | 📅 2019-09-16
+  * [RStartHere](https://github.com/rstudio/RStartHere) ⭐ 657 | 🐛 6 | 🌐 R | 📅 2019-09-16
   * [Effective Reactive Programming – Part 1 & Part 2](https://www.rstudio.com/resources/videos/effective-reactive-programming/)
   * [Coordinated multiple views (linked brushing)](https://www.rstudio.com/resources/videos/coordinated-multiple-views-linked-brushing/)
   * [Building interactive tools for exploratory data analysis (gadgets)](https://www.rstudio.com/resources/videos/building-interactive-tools-for-exploratory-data-analysis/)
@@ -178,7 +178,7 @@ A curated list of resources for R Shiny.  (*Featured on [Awesome-R](https://awes
 ### Integrations
 
 * [ggvis](https://github.com/rstudio/ggvis) ⚠️ Archived - Make it easy to describe interactive web graphics in R.
-* [googleVis](https://github.com/mages/googleVis) ⭐ 363 | 🐛 33 | 🌐 R | 📅 2025-10-08 - An interface between R and the [Google's charts tools](https://developers.google.com/chart/).
+* [googleVis](https://github.com/mages/googleVis) ⭐ 362 | 🐛 33 | 🌐 R | 📅 2025-10-08 - An interface between R and the [Google's charts tools](https://developers.google.com/chart/).
 * [RInno](https://github.com/ficonsulting/RInno) ⭐ 312 | 🐛 61 | 🌐 HTML | 📅 2023-10-31 - Install local shiny apps by providing an interface between R and Inno Setup, (Windows Only).
 * [pool](https://github.com/rstudio/pool) ⭐ 256 | 🐛 3 | 🌐 R | 📅 2026-09-16 - Abstract away the logic of connection management and the performance cost of fetching a new connection from a remote database.
 * [HTML Widgets/JavaScript](http://www.htmlwidgets.org/)
@@ -186,7 +186,7 @@ A curated list of resources for R Shiny.  (*Featured on [Awesome-R](https://awes
   * [DiagrammeR](https://github.com/rich-iannone/DiagrammeR) ⭐ 1,751 | 🐛 172 | 🌐 R | 📅 2026-04-27 - Tool for creating diagrams and flowcharts using Graphviz and Mermaid.
   * [networkD3](https://github.com/christophergandrud/networkD3) ⭐ 659 | 🐛 82 | 🌐 R | 📅 2025-04-18 - Graph data visualization with D3.
   * [echarts4r](https://github.com/JohnCoene/echarts4r) ⭐ 633 | 🐛 171 | 🌐 R | 📅 2026-10-16 - Create interactive charts by leveraging Echarts.js library.
-  * [flextable](https://github.com/davidgohel/flextable) ⭐ 629 | 🐛 13 | 🌐 R | 📅 2026-11-06 - Easily create customizable tables
+  * [flextable](https://github.com/davidgohel/flextable) ⭐ 629 | 🐛 13 | 🌐 R | 📅 2026-11-07 - Easily create customizable tables
   * [DT](https://github.com/rstudio/DT) ⭐ 621 | 🐛 207 | 🌐 JavaScript | 📅 2026-05-18 - Provides a function `datatable()` to display R data via the DataTables JavaScript library.
   * [visNetwork](https://github.com/datastorm-open/visNetwork) ⭐ 561 | 🐛 156 | 🌐 JavaScript | 📅 2026-07-15 - Network visualization for R using vis.js library.
   * [rhandsontable](https://github.com/jrowen/rhandsontable) ⭐ 390 | 🐛 167 | 🌐 HTML | 📅 2024-07-23 - An htmlwidgets implementation of Handsontable.js.
@@ -301,4 +301,4 @@ A curated list of resources for R Shiny.  (*Featured on [Awesome-R](https://awes
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-06._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-07._

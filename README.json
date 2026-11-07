@@ -21,7 +21,7 @@
                 "open_issues": 877,
                 "owner": "rstudio",
                 "repo": "shiny",
-                "stars": 5706,
+                "stars": 5705,
                 "topics": [
                   "r",
                   "reactive",
@@ -164,7 +164,7 @@
                     "open_issues": 6,
                     "owner": "rstudio",
                     "repo": "RStartHere",
-                    "stars": 658,
+                    "stars": 657,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T01:08:45.064Z"
@@ -1424,7 +1424,7 @@
                 "open_issues": 33,
                 "owner": "mages",
                 "repo": "googleVis",
-                "stars": 363,
+                "stars": 362,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:08:45.064Z"
@@ -1619,7 +1619,7 @@
                     "id": 62127938,
                     "language": "R",
                     "license": null,
-                    "last_commit": "2026-11-06T15:32:03Z",
+                    "last_commit": "2026-11-07T18:53:46Z",
                     "open_issues": 13,
                     "owner": "davidgohel",
                     "repo": "flextable",
@@ -2630,7 +2630,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-06T22:21:46.571Z",
+    "last_updated": "2026-11-07T21:04:42.158Z",
     "original_repository_info": {
       "archived": false,
       "description": "An awesome R-shiny list!",
