@@ -1542,7 +1542,7 @@
                     "open_issues": 172,
                     "owner": "rich-iannone",
                     "repo": "DiagrammeR",
-                    "stars": 1751,
+                    "stars": 1750,
                     "topics": [
                       "graph",
                       "graph-functions",
@@ -1619,11 +1619,11 @@
                     "id": 62127938,
                     "language": "R",
                     "license": null,
-                    "last_commit": "2026-11-07T18:53:46Z",
-                    "open_issues": 13,
+                    "last_commit": "2026-11-08T20:25:40Z",
+                    "open_issues": 12,
                     "owner": "davidgohel",
                     "repo": "flextable",
-                    "stars": 629,
+                    "stars": 630,
                     "topics": [
                       "cran",
                       "docx",
@@ -2145,7 +2145,7 @@
             "open_issues": 2,
             "owner": "toddwschneider",
             "repo": "ballr",
-            "stars": 611,
+            "stars": 610,
             "topics": []
           },
           "first_seen": "2026-08-29T01:08:45.064Z"
@@ -2630,7 +2630,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-07T21:04:42.158Z",
+    "last_updated": "2026-11-08T21:21:02.715Z",
     "original_repository_info": {
       "archived": false,
       "description": "An awesome R-shiny list!",
