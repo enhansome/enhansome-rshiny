@@ -939,7 +939,7 @@
                 "id": 137799634,
                 "language": "JavaScript",
                 "license": "NOASSERTION",
-                "last_commit": "2026-11-02T08:18:41Z",
+                "last_commit": "2026-11-09T08:19:18Z",
                 "open_issues": 25,
                 "owner": "rstudio",
                 "repo": "reactlog",
@@ -1620,7 +1620,7 @@
                     "language": "R",
                     "license": null,
                     "last_commit": "2026-11-08T20:25:40Z",
-                    "open_issues": 12,
+                    "open_issues": 11,
                     "owner": "davidgohel",
                     "repo": "flextable",
                     "stars": 630,
@@ -1726,7 +1726,7 @@
                     "id": 22991378,
                     "language": "JavaScript",
                     "license": "NOASSERTION",
-                    "last_commit": "2026-10-14T13:27:58Z",
+                    "last_commit": "2026-11-09T09:55:48Z",
                     "open_issues": 121,
                     "owner": "rstudio",
                     "repo": "dygraphs",
@@ -2630,7 +2630,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-08T21:21:02.715Z",
+    "last_updated": "2026-11-10T00:50:42.106Z",
     "original_repository_info": {
       "archived": false,
       "description": "An awesome R-shiny list!",
