@@ -79,7 +79,7 @@
                     "open_issues": 8,
                     "owner": "fresh2dev",
                     "repo": "ShinyStudio",
-                    "stars": 241,
+                    "stars": 242,
                     "topics": [
                       "docker",
                       "powershell",
@@ -1510,7 +1510,7 @@
                     "open_issues": 762,
                     "owner": "plotly",
                     "repo": "plotly.R",
-                    "stars": 2683,
+                    "stars": 2685,
                     "topics": [
                       "d3js",
                       "data-visualization",
@@ -1619,7 +1619,7 @@
                     "id": 62127938,
                     "language": "R",
                     "license": null,
-                    "last_commit": "2026-11-08T20:25:40Z",
+                    "last_commit": "2026-11-11T11:56:25Z",
                     "open_issues": 11,
                     "owner": "davidgohel",
                     "repo": "flextable",
@@ -1751,7 +1751,7 @@
                     "open_issues": 37,
                     "owner": "bwlewis",
                     "repo": "rthreejs",
-                    "stars": 308,
+                    "stars": 309,
                     "topics": [
                       "data-visualization",
                       "graph-animation",
@@ -2630,7 +2630,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-10T22:30:32.012Z",
+    "last_updated": "2026-11-11T23:41:36.293Z",
     "original_repository_info": {
       "archived": false,
       "description": "An awesome R-shiny list!",
@@ -2642,7 +2642,7 @@
       "open_issues": 7,
       "owner": "grabear",
       "repo": "awesome-rshiny",
-      "stars": 874,
+      "stars": 875,
       "topics": [
         "awesome",
         "awesome-list",
