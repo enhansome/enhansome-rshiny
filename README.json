@@ -17,11 +17,11 @@
                 "id": 4729944,
                 "language": "R",
                 "license": "NOASSERTION",
-                "last_commit": "2026-11-06T21:43:34Z",
-                "open_issues": 877,
+                "last_commit": "2026-11-12T21:40:59Z",
+                "open_issues": 879,
                 "owner": "rstudio",
                 "repo": "shiny",
-                "stars": 5705,
+                "stars": 5704,
                 "topics": [
                   "r",
                   "reactive",
@@ -192,7 +192,7 @@
                     "open_issues": 2,
                     "owner": "daattali",
                     "repo": "advanced-shiny",
-                    "stars": 1217,
+                    "stars": 1216,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T01:08:45.064Z"
@@ -224,7 +224,7 @@
                 "id": 132664006,
                 "language": "R",
                 "license": "NOASSERTION",
-                "last_commit": "2026-09-15T08:21:44Z",
+                "last_commit": "2026-11-12T20:13:36Z",
                 "open_issues": 21,
                 "owner": "ThinkR-open",
                 "repo": "golem",
@@ -258,7 +258,7 @@
                 "open_issues": 116,
                 "owner": "dreamRs",
                 "repo": "shinyWidgets",
-                "stars": 873,
+                "stars": 872,
                 "topics": [
                   "r",
                   "rshiny",
@@ -284,7 +284,7 @@
                 "open_issues": 7,
                 "owner": "daattali",
                 "repo": "shinyjs",
-                "stars": 753,
+                "stars": 752,
                 "topics": [
                   "javascript",
                   "r",
@@ -704,7 +704,7 @@
                 "open_issues": 39,
                 "owner": "thomasp85",
                 "repo": "shinyFiles",
-                "stars": 205,
+                "stars": 204,
                 "topics": [
                   "filemanager",
                   "rstats",
@@ -1094,33 +1094,6 @@
             },
             {
               "node_type": "item",
-              "title": "shinyscreenshot",
-              "description": "Capture screenshots of entire pages or parts of pages in Shiny apps",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "📷 Capture screenshots of entire pages or parts of pages in Shiny apps",
-                "homepage": "https://daattali.com/shiny/shinyscreenshot-demo/",
-                "id": 161843898,
-                "language": "R",
-                "license": "NOASSERTION",
-                "last_commit": "2024-10-27T04:38:55Z",
-                "open_issues": 4,
-                "owner": "daattali",
-                "repo": "shinyscreenshot",
-                "stars": 72,
-                "topics": [
-                  "r",
-                  "r-package",
-                  "rstats",
-                  "shiny",
-                  "shiny-r"
-                ]
-              },
-              "first_seen": "2026-08-29T01:08:45.064Z"
-            },
-            {
-              "node_type": "item",
               "title": "shinydisconnect",
               "description": "Show a nice message when a Shiny app disconnects or errors",
               "children": [],
@@ -1135,6 +1108,33 @@
                 "open_issues": 5,
                 "owner": "daattali",
                 "repo": "shinydisconnect",
+                "stars": 71,
+                "topics": [
+                  "r",
+                  "r-package",
+                  "rstats",
+                  "shiny",
+                  "shiny-r"
+                ]
+              },
+              "first_seen": "2026-08-29T01:08:45.064Z"
+            },
+            {
+              "node_type": "item",
+              "title": "shinyscreenshot",
+              "description": "Capture screenshots of entire pages or parts of pages in Shiny apps",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "📷 Capture screenshots of entire pages or parts of pages in Shiny apps",
+                "homepage": "https://daattali.com/shiny/shinyscreenshot-demo/",
+                "id": 161843898,
+                "language": "R",
+                "license": "NOASSERTION",
+                "last_commit": "2024-10-27T04:38:55Z",
+                "open_issues": 4,
+                "owner": "daattali",
+                "repo": "shinyscreenshot",
                 "stars": 71,
                 "topics": [
                   "r",
@@ -1295,7 +1295,7 @@
                     "open_issues": 165,
                     "owner": "rstudio",
                     "repo": "shinydashboard",
-                    "stars": 926,
+                    "stars": 925,
                     "topics": [
                       "admin-dashboard",
                       "dashboard",
@@ -1510,7 +1510,7 @@
                     "open_issues": 762,
                     "owner": "plotly",
                     "repo": "plotly.R",
-                    "stars": 2685,
+                    "stars": 2684,
                     "topics": [
                       "d3js",
                       "data-visualization",
@@ -1542,7 +1542,7 @@
                     "open_issues": 172,
                     "owner": "rich-iannone",
                     "repo": "DiagrammeR",
-                    "stars": 1750,
+                    "stars": 1749,
                     "topics": [
                       "graph",
                       "graph-functions",
@@ -1595,7 +1595,7 @@
                     "open_issues": 171,
                     "owner": "JohnCoene",
                     "repo": "echarts4r",
-                    "stars": 633,
+                    "stars": 632,
                     "topics": [
                       "echarts",
                       "htmlwidget",
@@ -1619,8 +1619,8 @@
                     "id": 62127938,
                     "language": "R",
                     "license": null,
-                    "last_commit": "2026-11-11T11:56:25Z",
-                    "open_issues": 11,
+                    "last_commit": "2026-11-12T20:33:06Z",
+                    "open_issues": 10,
                     "owner": "davidgohel",
                     "repo": "flextable",
                     "stars": 630,
@@ -2033,7 +2033,7 @@
                     "open_issues": 26,
                     "owner": "rte-antares-rpackage",
                     "repo": "leaflet.minicharts",
-                    "stars": 109,
+                    "stars": 108,
                     "topics": [
                       "chart",
                       "dynamic-chart",
@@ -2124,7 +2124,7 @@
             "open_issues": 55,
             "owner": "rstudio",
             "repo": "shiny-examples",
-            "stars": 2034,
+            "stars": 2033,
             "topics": []
           },
           "first_seen": "2026-08-29T01:08:45.064Z"
@@ -2630,7 +2630,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-11T23:41:36.293Z",
+    "last_updated": "2026-11-12T22:51:23.469Z",
     "original_repository_info": {
       "archived": false,
       "description": "An awesome R-shiny list!",
