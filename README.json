@@ -17,11 +17,11 @@
                 "id": 4729944,
                 "language": "R",
                 "license": "NOASSERTION",
-                "last_commit": "2026-11-12T21:40:59Z",
-                "open_issues": 879,
+                "last_commit": "2026-11-13T20:47:22Z",
+                "open_issues": 881,
                 "owner": "rstudio",
                 "repo": "shiny",
-                "stars": 5704,
+                "stars": 5705,
                 "topics": [
                   "r",
                   "reactive",
@@ -698,11 +698,11 @@
                 "description": "A shiny extension for server side file access",
                 "homepage": null,
                 "id": 20096303,
-                "language": "JavaScript",
+                "language": "R",
                 "license": null,
-                "last_commit": "2023-07-05T20:43:26Z",
-                "open_issues": 39,
-                "owner": "thomasp85",
+                "last_commit": "2026-11-13T22:04:17Z",
+                "open_issues": 40,
+                "owner": "shinyFiles",
                 "repo": "shinyFiles",
                 "stars": 204,
                 "topics": [
@@ -2630,7 +2630,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-12T22:51:23.469Z",
+    "last_updated": "2026-11-13T22:50:47.935Z",
     "original_repository_info": {
       "archived": false,
       "description": "An awesome R-shiny list!",
