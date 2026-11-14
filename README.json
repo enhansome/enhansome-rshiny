@@ -1592,7 +1592,7 @@
                     "language": "R",
                     "license": "NOASSERTION",
                     "last_commit": "2026-10-16T10:02:55Z",
-                    "open_issues": 171,
+                    "open_issues": 172,
                     "owner": "JohnCoene",
                     "repo": "echarts4r",
                     "stars": 632,
@@ -1779,7 +1779,7 @@
                     "open_issues": 77,
                     "owner": "hafen",
                     "repo": "trelliscopejs",
-                    "stars": 265,
+                    "stars": 264,
                     "topics": [
                       "r",
                       "visualization"
@@ -2630,7 +2630,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-13T22:50:47.935Z",
+    "last_updated": "2026-11-14T21:40:06.347Z",
     "original_repository_info": {
       "archived": false,
       "description": "An awesome R-shiny list!",

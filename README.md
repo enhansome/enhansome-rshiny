@@ -185,14 +185,14 @@ A curated list of resources for R Shiny.  (*Featured on [Awesome-R](https://awes
   * [plotly](https://github.com/ropensci/plotly) ⭐ 2,684 | 🐛 762 | 🌐 R | 📅 2026-07-25 - Easily translate your ggplot2 graphics to an interactive web-based version, and also provides bindings to the plotly.js graphing library.
   * [DiagrammeR](https://github.com/rich-iannone/DiagrammeR) ⭐ 1,749 | 🐛 172 | 🌐 R | 📅 2026-04-27 - Tool for creating diagrams and flowcharts using Graphviz and Mermaid.
   * [networkD3](https://github.com/christophergandrud/networkD3) ⭐ 660 | 🐛 82 | 🌐 R | 📅 2025-04-18 - Graph data visualization with D3.
-  * [echarts4r](https://github.com/JohnCoene/echarts4r) ⭐ 632 | 🐛 171 | 🌐 R | 📅 2026-10-16 - Create interactive charts by leveraging Echarts.js library.
+  * [echarts4r](https://github.com/JohnCoene/echarts4r) ⭐ 632 | 🐛 172 | 🌐 R | 📅 2026-10-16 - Create interactive charts by leveraging Echarts.js library.
   * [flextable](https://github.com/davidgohel/flextable) ⭐ 630 | 🐛 10 | 🌐 R | 📅 2026-11-12 - Easily create customizable tables
   * [DT](https://github.com/rstudio/DT) ⭐ 621 | 🐛 207 | 🌐 JavaScript | 📅 2026-05-18 - Provides a function `datatable()` to display R data via the DataTables JavaScript library.
   * [visNetwork](https://github.com/datastorm-open/visNetwork) ⭐ 561 | 🐛 156 | 🌐 JavaScript | 📅 2026-07-15 - Network visualization for R using vis.js library.
   * [rhandsontable](https://github.com/jrowen/rhandsontable) ⭐ 391 | 🐛 167 | 🌐 HTML | 📅 2024-07-23 - An htmlwidgets implementation of Handsontable.js.
   * [dygraphs](https://github.com/rstudio/dygraphs) ⭐ 369 | 🐛 121 | 🌐 JavaScript | 📅 2026-11-09 - R interface to the dygraphs JavaScript charting library. It provides rich facilites for charting time-series data in R.
   * [rthreejs](https://github.com/bwlewis/rthreejs) ⭐ 309 | 🐛 37 | 🌐 JavaScript | 📅 2025-05-03 - 3D scatterplots and globes.
-  * [trelliscopejs](https://github.com/hafen/trelliscopejs/) ⭐ 265 | 🐛 77 | 🌐 R | 📅 2026-01-14 - TrelliscopeJS R package.
+  * [trelliscopejs](https://github.com/hafen/trelliscopejs/) ⭐ 264 | 🐛 77 | 🌐 R | 📅 2026-01-14 - TrelliscopeJS R package.
   * [d3heatmap](https://github.com/rstudio/d3heatmap) ⭐ 237 | 🐛 45 | 🌐 R | 📅 2025-11-29 - Implements a D3 heatmap htmlwidget.
   * [gglabeller](https://github.com/AliciaSchep/gglabeller) ⭐ 188 | 🐛 1 | 🌐 R | 📅 2021-03-12 - Gadget that enables selecting points on a ggplot to label.
   * [billboarder](https://github.com/dreamRs/billboarder) ⭐ 177 | 🐛 11 | 🌐 R | 📅 2026-09-23 - Htmlwidget for billboard.js.
@@ -301,4 +301,4 @@ A curated list of resources for R Shiny.  (*Featured on [Awesome-R](https://awes
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-13._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-14._
