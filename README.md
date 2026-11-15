@@ -168,7 +168,7 @@ A curated list of resources for R Shiny.  (*Featured on [Awesome-R](https://awes
 * [systemPipeShiny](https://github.com/systemPipeR/systemPipeShiny) ⭐ 36 | 🐛 0 | 🌐 R | 📅 2026-10-14 - Design/run biological or general data analysis workflows, and visualize downstream results.
 * [shinyTime](https://github.com/burgerga/shinyTime) ⭐ 31 | 🐛 8 | 🌐 R | 📅 2024-05-08 - A timeInput widget for Shiny
 * R-Studio
-  * [shinydashboard](https://github.com/rstudio/shinydashboard) ⭐ 925 | 🐛 165 | 🌐 CSS | 📅 2025-04-22 - Shiny Dashboarding framework.
+  * [shinydashboard](https://github.com/rstudio/shinydashboard) ⭐ 926 | 🐛 165 | 🌐 CSS | 📅 2025-04-22 - Shiny Dashboarding framework.
   * [fontawesome](https://github.com/rstudio/fontawesome) ⭐ 302 | 🐛 9 | 🌐 R | 📅 2025-10-05 - Easily insert FontAwesome icons into R Markdown docs and Shiny apps.
   * [shinythemes](https://github.com/rstudio/shinythemes) ⭐ 161 | 🐛 6 | 🌐 R | 📅 2022-02-25 - Bootstrap themes for use with Shiny.
     * [miniUI](https://github.com/rstudio/miniUI) ⭐ 108 | 🐛 6 | 🌐 R | 📅 2025-04-17 - Provides UI widget and layout functions for writing Shiny apps that work well on small screens.
@@ -252,7 +252,7 @@ A curated list of resources for R Shiny.  (*Featured on [Awesome-R](https://awes
 * [shiny-salesman](https://github.com/toddwschneider/shiny-salesman) ⭐ 246 | 🐛 0 | 🌐 R | 📅 2019-02-18 - Traveling salesman app.
 * [shinyEd](https://github.com/ShinyEd/ShinyEd) ⭐ 245 | 🐛 1 | 🌐 R | 📅 2022-09-15 - Statistics education apps.
 * [Google Analytics Dashboard](https://github.com/MarkEdmondson1234/ga-dashboard-demo) ⭐ 124 | 🐛 5 | 🌐 R | 📅 2018-04-20 - Demo on how to build your own Google Analytics dashboard with R, Shiny and MySQL.
-* [STARTapp](https://github.com/jminnier/STARTapp) ⭐ 87 | 🐛 7 | 🌐 HTML | 📅 2020-11-11 - Transcriptome Analysis Resource Tool.
+* [STARTapp](https://github.com/jminnier/STARTapp) ⭐ 88 | 🐛 7 | 🌐 HTML | 📅 2020-11-11 - Transcriptome Analysis Resource Tool.
 * [shiny-phyloseq](https://github.com/joey711/shiny-phyloseq) ⭐ 60 | 🐛 22 | 🌐 HTML | 📅 2019-07-18 - Provides a graphical user interface to the microbiome analysis package for R, called phyloseq.
 * [Interactive PCA Explorer](https://github.com/benmarwick/Interactive_PCA_Explorer) ⭐ 55 | 🐛 1 | 🌐 R | 📅 2023-12-21 - Explore a PCA plots and data.
 * [NYT Bar Optimizer](https://github.com/jordanmeyer/nyt-bar-optimizer) ⭐ 40 | 🐛 2 | 🌐 R | 📅 2016-02-14 - Optimize your liquor cabinet using cocktail recipes from New York Times Cooking.
@@ -301,4 +301,4 @@ A curated list of resources for R Shiny.  (*Featured on [Awesome-R](https://awes
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-14._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-15._

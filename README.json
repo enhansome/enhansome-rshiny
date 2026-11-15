@@ -494,7 +494,7 @@
                 "open_issues": 0,
                 "owner": "nik01010",
                 "repo": "dashboardthemes",
-                "stars": 313,
+                "stars": 314,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:08:45.064Z"
@@ -1295,7 +1295,7 @@
                     "open_issues": 165,
                     "owner": "rstudio",
                     "repo": "shinydashboard",
-                    "stars": 925,
+                    "stars": 926,
                     "topics": [
                       "admin-dashboard",
                       "dashboard",
@@ -2229,7 +2229,7 @@
             "open_issues": 7,
             "owner": "jminnier",
             "repo": "STARTapp",
-            "stars": 87,
+            "stars": 88,
             "topics": [
               "bioinformatics",
               "genome-biology",
@@ -2630,7 +2630,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-14T21:40:06.347Z",
+    "last_updated": "2026-11-15T22:03:31.268Z",
     "original_repository_info": {
       "archived": false,
       "description": "An awesome R-shiny list!",
