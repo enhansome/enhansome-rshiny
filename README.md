@@ -27,7 +27,7 @@ A curated list of resources for R Shiny.  (*Featured on [Awesome-R](https://awes
 
 ### General
 
-* [GitHub](https://github.com/rstudio/shiny) ⭐ 5,705 | 🐛 885 | 🌐 R | 📅 2026-11-18
+* [GitHub](https://github.com/rstudio/shiny) ⭐ 5,704 | 🐛 885 | 🌐 R | 📅 2026-11-18
 * [Official Website](http://shiny.rstudio.com/)
   * [Blog](https://blog.rstudio.org/category/shiny/)
   * [Articles](http://shiny.rstudio.com/articles/)
@@ -126,7 +126,7 @@ A curated list of resources for R Shiny.  (*Featured on [Awesome-R](https://awes
 
 * [golem](https://github.com/ThinkR-open/golem/) ⭐ 947 | 🐛 22 | 🌐 R | 📅 2026-11-12 - Framework for building production-grade shiny applications.
 * [shinyWidgets](https://github.com/dreamRs/shinyWidgets) ⭐ 872 | 🐛 116 | 🌐 R | 📅 2026-07-06 - Extend input widgets available in Shiny.
-* [shinyjs](https://github.com/daattali/shinyjs) ⭐ 752 | 🐛 7 | 🌐 R | 📅 2026-08-11 - Common JavaScript operations in shiny via R code.
+* [shinyjs](https://github.com/daattali/shinyjs) ⭐ 750 | 🐛 7 | 🌐 R | 📅 2026-08-11 - Common JavaScript operations in shiny via R code.
 * [timevis](https://github.com/daattali/timevis/) ⭐ 684 | 🐛 4 | 🌐 R | 📅 2024-08-18 - Create interactive timeline visualizations in R.
 * [shiny.semantic](https://github.com/Appsilon/shiny.semantic) ⭐ 512 | 🐛 41 | 🌐 R | 📅 2026-09-29 - Semantic UI wrapper for Shiny.
 * [waiter](https://github.com/JohnCoene/waiter) ⭐ 495 | 🐛 35 | 🌐 JavaScript | 📅 2026-08-17 - Loading screens for Shiny.
@@ -143,7 +143,7 @@ A curated list of resources for R Shiny.  (*Featured on [Awesome-R](https://awes
 * [shinyAce](https://github.com/trestletech/shinyAce) ⭐ 227 | 🐛 14 | 🌐 R | 📅 2025-02-02 - Integrate ace editor with shiny.
 * [colourpicker](https://github.com/daattali/colourpicker) ⭐ 227 | 🐛 4 | 🌐 JavaScript | 📅 2024-08-18 - Colour picker widget that can be used in different contexts in R.
 * [shinytest](https://github.com/rstudio/shinytest) ⭐ 224 | 🐛 53 | 🌐 JavaScript | 📅 2024-05-28 - Automated testing for shiny apps.
-* [shinyFiles](https://github.com/thomasp85/shinyFiles) ⭐ 204 | 🐛 16 | 🌐 R | 📅 2026-11-18 - Extends the functionality of shiny by providing an API for client side access to the server file system.
+* [shinyFiles](https://github.com/thomasp85/shinyFiles) ⭐ 204 | 🐛 11 | 🌐 R | 📅 2026-11-19 - Extends the functionality of shiny by providing an API for client side access to the server file system.
 * [shinysense](https://github.com/nstrayer/shinysense) ⭐ 203 | 🐛 19 | 🌐 JavaScript | 📅 2019-10-15 - Series of Shiny modules to help Shiny sense the world around it.
 * [shinyFeedback](https://github.com/merlinoa/shinyFeedback) ⭐ 193 | 🐛 13 | 🌐 R | 📅 2023-01-31 - Display user feedback along side Shiny inputs.
 * [ShinySky](https://github.com/AnalytixWare/ShinySky) ⭐ 188 | 🐛 20 | 🌐 R | 📅 2020-02-27 - Various UI widgets/components not part of Shiny e.g. alerts, styled buttons.
@@ -153,11 +153,11 @@ A curated list of resources for R Shiny.  (*Featured on [Awesome-R](https://awes
 * [bsplus](https://github.com/ijlyttle/bsplus) ⭐ 150 | 🐛 44 | 🌐 R | 📅 2025-04-06 - Shiny and R Markdown addons to Bootstrap 3.
 * [shinybusy](https://github.com/dreamRs/shinybusy) ⭐ 146 | 🐛 12 | 🌐 R | 📅 2026-10-30 - Minimal busy indicator for Shiny apps.
 * [yonder](https://github.com/nteetor/yonder) ⭐ 136 | 🐛 31 | 🌐 R | 📅 2026-10-30 - A reactive web framework built on shiny.
-* [reactlog](https://github.com/rstudio/reactlog) ⭐ 132 | 🐛 25 | 🌐 JavaScript | 📅 2026-11-16 - Visual insight into a Shiny apps reactive graph.
+* [reactlog](https://github.com/rstudio/reactlog) ⭐ 132 | 🐛 26 | 🌐 JavaScript | 📅 2026-11-19 - Visual insight into a Shiny apps reactive graph.
 * [ECharts2Shiny](https://github.com/XD-DENG/ECharts2Shiny) ⭐ 129 | 🐛 6 | 🌐 R | 📅 2020-10-02 - Insert interactive charts from ECharts into Shiny.
 * [shinycustomloader](https://github.com/emitanaka/shinycustomloader) ⭐ 121 | 🐛 8 | 🌐 R | 📅 2018-07-17 - Add a custom loader for R Shiny.
 * [shinyhelper](https://github.com/cwthom/shinyhelper) ⭐ 116 | 🐛 14 | 🌐 R | 📅 2022-10-05 - Add markdown help files to Shiny apps.
-* [shinytoastr](https://github.com/MangoTheCat/shinytoastr) ⭐ 96 | 🐛 0 | 🌐 R | 📅 2016-08-29 - Notifications in Shiny, via [toastr](https://github.com/CodeSeven/toastr) ⭐ 12,081 | 🐛 159 | 🌐 JavaScript | 📅 2023-02-27.
+* [shinytoastr](https://github.com/MangoTheCat/shinytoastr) ⭐ 96 | 🐛 0 | 🌐 R | 📅 2016-08-29 - Notifications in Shiny, via [toastr](https://github.com/CodeSeven/toastr) ⭐ 12,080 | 🐛 159 | 🌐 JavaScript | 📅 2023-02-27.
 * [shinyDND](https://github.com/ayayron/shinydnd) ⭐ 93 | 🐛 5 | 🌐 R | 📅 2017-09-24 - Create Shiny drag and drop elements in R.
 * [shiny.collections](https://github.com/Appsilon/shiny.collections) ⭐ 75 | 🐛 4 | 🌐 R | 📅 2023-12-15 - Google Docs-like live collaboration in Shiny.
 * [shinydisconnect](https://github.com/daattali/shinydisconnect) ⭐ 71 | 🐛 5 | 🌐 R | 📅 2024-08-18 - Show a nice message when a Shiny app disconnects or errors
@@ -168,7 +168,7 @@ A curated list of resources for R Shiny.  (*Featured on [Awesome-R](https://awes
 * [systemPipeShiny](https://github.com/systemPipeR/systemPipeShiny) ⭐ 36 | 🐛 0 | 🌐 R | 📅 2026-10-14 - Design/run biological or general data analysis workflows, and visualize downstream results.
 * [shinyTime](https://github.com/burgerga/shinyTime) ⭐ 31 | 🐛 8 | 🌐 R | 📅 2024-05-08 - A timeInput widget for Shiny
 * R-Studio
-  * [shinydashboard](https://github.com/rstudio/shinydashboard) ⭐ 926 | 🐛 165 | 🌐 CSS | 📅 2025-04-22 - Shiny Dashboarding framework.
+  * [shinydashboard](https://github.com/rstudio/shinydashboard) ⭐ 925 | 🐛 165 | 🌐 CSS | 📅 2025-04-22 - Shiny Dashboarding framework.
   * [fontawesome](https://github.com/rstudio/fontawesome) ⭐ 302 | 🐛 9 | 🌐 R | 📅 2025-10-05 - Easily insert FontAwesome icons into R Markdown docs and Shiny apps.
   * [shinythemes](https://github.com/rstudio/shinythemes) ⭐ 161 | 🐛 6 | 🌐 R | 📅 2022-02-25 - Bootstrap themes for use with Shiny.
     * [miniUI](https://github.com/rstudio/miniUI) ⭐ 108 | 🐛 6 | 🌐 R | 📅 2025-04-17 - Provides UI widget and layout functions for writing Shiny apps that work well on small screens.
@@ -179,19 +179,19 @@ A curated list of resources for R Shiny.  (*Featured on [Awesome-R](https://awes
 
 * [ggvis](https://github.com/rstudio/ggvis) ⚠️ Archived - Make it easy to describe interactive web graphics in R.
 * [googleVis](https://github.com/mages/googleVis) ⭐ 362 | 🐛 33 | 🌐 R | 📅 2025-10-08 - An interface between R and the [Google's charts tools](https://developers.google.com/chart/).
-* [RInno](https://github.com/ficonsulting/RInno) ⭐ 313 | 🐛 61 | 🌐 HTML | 📅 2023-10-31 - Install local shiny apps by providing an interface between R and Inno Setup, (Windows Only).
+* [RInno](https://github.com/ficonsulting/RInno) ⭐ 312 | 🐛 61 | 🌐 HTML | 📅 2023-10-31 - Install local shiny apps by providing an interface between R and Inno Setup, (Windows Only).
 * [pool](https://github.com/rstudio/pool) ⭐ 256 | 🐛 3 | 🌐 R | 📅 2026-09-16 - Abstract away the logic of connection management and the performance cost of fetching a new connection from a remote database.
 * [HTML Widgets/JavaScript](http://www.htmlwidgets.org/)
   * [plotly](https://github.com/ropensci/plotly) ⭐ 2,684 | 🐛 763 | 🌐 R | 📅 2026-07-25 - Easily translate your ggplot2 graphics to an interactive web-based version, and also provides bindings to the plotly.js graphing library.
-  * [DiagrammeR](https://github.com/rich-iannone/DiagrammeR) ⭐ 1,749 | 🐛 172 | 🌐 R | 📅 2026-04-27 - Tool for creating diagrams and flowcharts using Graphviz and Mermaid.
-  * [networkD3](https://github.com/christophergandrud/networkD3) ⭐ 660 | 🐛 82 | 🌐 R | 📅 2025-04-18 - Graph data visualization with D3.
+  * [DiagrammeR](https://github.com/rich-iannone/DiagrammeR) ⭐ 1,748 | 🐛 172 | 🌐 R | 📅 2026-04-27 - Tool for creating diagrams and flowcharts using Graphviz and Mermaid.
+  * [networkD3](https://github.com/christophergandrud/networkD3) ⭐ 657 | 🐛 82 | 🌐 R | 📅 2025-04-18 - Graph data visualization with D3.
   * [echarts4r](https://github.com/JohnCoene/echarts4r) ⭐ 632 | 🐛 172 | 🌐 R | 📅 2026-10-16 - Create interactive charts by leveraging Echarts.js library.
-  * [flextable](https://github.com/davidgohel/flextable) ⭐ 630 | 🐛 4 | 🌐 R | 📅 2026-11-18 - Easily create customizable tables
-  * [DT](https://github.com/rstudio/DT) ⭐ 621 | 🐛 208 | 🌐 JavaScript | 📅 2026-05-18 - Provides a function `datatable()` to display R data via the DataTables JavaScript library.
+  * [flextable](https://github.com/davidgohel/flextable) ⭐ 630 | 🐛 4 | 🌐 R | 📅 2026-11-19 - Easily create customizable tables
+  * [DT](https://github.com/rstudio/DT) ⭐ 620 | 🐛 208 | 🌐 JavaScript | 📅 2026-05-18 - Provides a function `datatable()` to display R data via the DataTables JavaScript library.
   * [visNetwork](https://github.com/datastorm-open/visNetwork) ⭐ 561 | 🐛 156 | 🌐 JavaScript | 📅 2026-07-15 - Network visualization for R using vis.js library.
-  * [rhandsontable](https://github.com/jrowen/rhandsontable) ⭐ 391 | 🐛 167 | 🌐 HTML | 📅 2024-07-23 - An htmlwidgets implementation of Handsontable.js.
-  * [dygraphs](https://github.com/rstudio/dygraphs) ⭐ 369 | 🐛 121 | 🌐 JavaScript | 📅 2026-11-18 - R interface to the dygraphs JavaScript charting library. It provides rich facilites for charting time-series data in R.
-  * [rthreejs](https://github.com/bwlewis/rthreejs) ⭐ 309 | 🐛 37 | 🌐 JavaScript | 📅 2025-05-03 - 3D scatterplots and globes.
+  * [rhandsontable](https://github.com/jrowen/rhandsontable) ⭐ 390 | 🐛 167 | 🌐 HTML | 📅 2024-07-23 - An htmlwidgets implementation of Handsontable.js.
+  * [dygraphs](https://github.com/rstudio/dygraphs) ⭐ 369 | 🐛 121 | 🌐 JavaScript | 📅 2026-11-19 - R interface to the dygraphs JavaScript charting library. It provides rich facilites for charting time-series data in R.
+  * [rthreejs](https://github.com/bwlewis/rthreejs) ⭐ 307 | 🐛 37 | 🌐 JavaScript | 📅 2025-05-03 - 3D scatterplots and globes.
   * [trelliscopejs](https://github.com/hafen/trelliscopejs/) ⭐ 264 | 🐛 77 | 🌐 R | 📅 2026-01-14 - TrelliscopeJS R package.
   * [d3heatmap](https://github.com/rstudio/d3heatmap) ⭐ 237 | 🐛 45 | 🌐 R | 📅 2025-11-29 - Implements a D3 heatmap htmlwidget.
   * [gglabeller](https://github.com/AliciaSchep/gglabeller) ⭐ 188 | 🐛 1 | 🌐 R | 📅 2021-03-12 - Gadget that enables selecting points on a ggplot to label.
@@ -301,4 +301,4 @@ A curated list of resources for R Shiny.  (*Featured on [Awesome-R](https://awes
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-18._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-19._

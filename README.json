@@ -21,7 +21,7 @@
                 "open_issues": 885,
                 "owner": "rstudio",
                 "repo": "shiny",
-                "stars": 5705,
+                "stars": 5704,
                 "topics": [
                   "r",
                   "reactive",
@@ -284,7 +284,7 @@
                 "open_issues": 7,
                 "owner": "daattali",
                 "repo": "shinyjs",
-                "stars": 752,
+                "stars": 750,
                 "topics": [
                   "javascript",
                   "r",
@@ -494,7 +494,7 @@
                 "open_issues": 0,
                 "owner": "nik01010",
                 "repo": "dashboardthemes",
-                "stars": 314,
+                "stars": 313,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:08:45.064Z"
@@ -700,8 +700,8 @@
                 "id": 20096303,
                 "language": "R",
                 "license": null,
-                "last_commit": "2026-11-18T22:17:12Z",
-                "open_issues": 16,
+                "last_commit": "2026-11-19T15:56:23Z",
+                "open_issues": 11,
                 "owner": "shinyFiles",
                 "repo": "shinyFiles",
                 "stars": 204,
@@ -939,8 +939,8 @@
                 "id": 137799634,
                 "language": "JavaScript",
                 "license": "NOASSERTION",
-                "last_commit": "2026-11-16T08:30:17Z",
-                "open_issues": 25,
+                "last_commit": "2026-11-19T23:08:29Z",
+                "open_issues": 26,
                 "owner": "rstudio",
                 "repo": "reactlog",
                 "stars": 132,
@@ -1295,7 +1295,7 @@
                     "open_issues": 165,
                     "owner": "rstudio",
                     "repo": "shinydashboard",
-                    "stars": 926,
+                    "stars": 925,
                     "topics": [
                       "admin-dashboard",
                       "dashboard",
@@ -1445,7 +1445,7 @@
                 "open_issues": 61,
                 "owner": "ficonsulting",
                 "repo": "RInno",
-                "stars": 313,
+                "stars": 312,
                 "topics": [
                   "batch-script",
                   "electron",
@@ -1542,7 +1542,7 @@
                     "open_issues": 172,
                     "owner": "rich-iannone",
                     "repo": "DiagrammeR",
-                    "stars": 1749,
+                    "stars": 1748,
                     "topics": [
                       "graph",
                       "graph-functions",
@@ -1570,7 +1570,7 @@
                     "open_issues": 82,
                     "owner": "christophergandrud",
                     "repo": "networkD3",
-                    "stars": 660,
+                    "stars": 657,
                     "topics": [
                       "d3js",
                       "networks",
@@ -1619,7 +1619,7 @@
                     "id": 62127938,
                     "language": "R",
                     "license": null,
-                    "last_commit": "2026-11-18T20:44:47Z",
+                    "last_commit": "2026-11-19T09:52:08Z",
                     "open_issues": 4,
                     "owner": "davidgohel",
                     "repo": "flextable",
@@ -1653,7 +1653,7 @@
                     "open_issues": 208,
                     "owner": "rstudio",
                     "repo": "DT",
-                    "stars": 621,
+                    "stars": 620,
                     "topics": [
                       "datatables",
                       "htmlwidgets",
@@ -1702,7 +1702,7 @@
                     "open_issues": 167,
                     "owner": "jrowen",
                     "repo": "rhandsontable",
-                    "stars": 391,
+                    "stars": 390,
                     "topics": [
                       "handsontable",
                       "htmlwidgets",
@@ -1726,7 +1726,7 @@
                     "id": 22991378,
                     "language": "JavaScript",
                     "license": "NOASSERTION",
-                    "last_commit": "2026-11-18T13:30:08Z",
+                    "last_commit": "2026-11-19T15:55:29Z",
                     "open_issues": 121,
                     "owner": "rstudio",
                     "repo": "dygraphs",
@@ -1751,7 +1751,7 @@
                     "open_issues": 37,
                     "owner": "bwlewis",
                     "repo": "rthreejs",
-                    "stars": 309,
+                    "stars": 307,
                     "topics": [
                       "data-visualization",
                       "graph-animation",
@@ -2630,7 +2630,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-18T23:33:31.465Z",
+    "last_updated": "2026-11-19T23:46:54.470Z",
     "original_repository_info": {
       "archived": false,
       "description": "An awesome R-shiny list!",
