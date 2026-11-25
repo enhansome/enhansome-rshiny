@@ -369,7 +369,7 @@
                 "open_issues": 35,
                 "owner": "JohnCoene",
                 "repo": "waiter",
-                "stars": 495,
+                "stars": 494,
                 "topics": [
                   "hacktoberfest",
                   "r",
@@ -441,7 +441,7 @@
                 "open_issues": 3,
                 "owner": "daattali",
                 "repo": "shinycssloaders",
-                "stars": 421,
+                "stars": 420,
                 "topics": [
                   "r",
                   "r-package",
@@ -562,7 +562,7 @@
                 "language": "R",
                 "license": "NOASSERTION",
                 "last_commit": "2024-06-02T16:48:16Z",
-                "open_issues": 5,
+                "open_issues": 7,
                 "owner": "daattali",
                 "repo": "shinyalert",
                 "stars": 246,
@@ -1510,7 +1510,7 @@
                     "open_issues": 763,
                     "owner": "plotly",
                     "repo": "plotly.R",
-                    "stars": 2684,
+                    "stars": 2685,
                     "topics": [
                       "d3js",
                       "data-visualization",
@@ -1650,7 +1650,7 @@
                     "language": "JavaScript",
                     "license": "NOASSERTION",
                     "last_commit": "2026-05-18T15:40:52Z",
-                    "open_issues": 209,
+                    "open_issues": 210,
                     "owner": "rstudio",
                     "repo": "DT",
                     "stars": 620,
@@ -2630,7 +2630,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-24T03:27:24.081Z",
+    "last_updated": "2026-11-25T01:34:54.539Z",
     "original_repository_info": {
       "archived": false,
       "description": "An awesome R-shiny list!",
