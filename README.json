@@ -17,11 +17,11 @@
                 "id": 4729944,
                 "language": "R",
                 "license": "NOASSERTION",
-                "last_commit": "2026-11-20T18:47:26Z",
-                "open_issues": 885,
+                "last_commit": "2026-11-25T23:18:02Z",
+                "open_issues": 884,
                 "owner": "rstudio",
                 "repo": "shiny",
-                "stars": 5704,
+                "stars": 5705,
                 "topics": [
                   "r",
                   "reactive",
@@ -54,7 +54,7 @@
                     "id": 5513742,
                     "language": "JavaScript",
                     "license": "NOASSERTION",
-                    "last_commit": "2026-11-04T00:20:40Z",
+                    "last_commit": "2026-11-25T17:34:24Z",
                     "open_issues": 197,
                     "owner": "rstudio",
                     "repo": "shiny-server",
@@ -228,7 +228,7 @@
                 "open_issues": 33,
                 "owner": "ThinkR-open",
                 "repo": "golem",
-                "stars": 947,
+                "stars": 948,
                 "topics": [
                   "golemverse",
                   "hacktoberfest",
@@ -369,7 +369,7 @@
                 "open_issues": 35,
                 "owner": "JohnCoene",
                 "repo": "waiter",
-                "stars": 494,
+                "stars": 495,
                 "topics": [
                   "hacktoberfest",
                   "r",
@@ -613,7 +613,7 @@
                 "open_issues": 43,
                 "owner": "ericrayanderson",
                 "repo": "shinymaterial",
-                "stars": 234,
+                "stars": 233,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:08:45.064Z"
@@ -1507,10 +1507,10 @@
                     "language": "R",
                     "license": "NOASSERTION",
                     "last_commit": "2026-07-25T00:33:15Z",
-                    "open_issues": 763,
+                    "open_issues": 764,
                     "owner": "plotly",
                     "repo": "plotly.R",
-                    "stars": 2685,
+                    "stars": 2686,
                     "topics": [
                       "d3js",
                       "data-visualization",
@@ -1591,8 +1591,8 @@
                     "id": 124915957,
                     "language": "R",
                     "license": "NOASSERTION",
-                    "last_commit": "2026-10-16T10:02:55Z",
-                    "open_issues": 172,
+                    "last_commit": "2026-11-25T10:47:16Z",
+                    "open_issues": 171,
                     "owner": "JohnCoene",
                     "repo": "echarts4r",
                     "stars": 632,
@@ -1623,7 +1623,7 @@
                     "open_issues": 5,
                     "owner": "davidgohel",
                     "repo": "flextable",
-                    "stars": 630,
+                    "stars": 631,
                     "topics": [
                       "cran",
                       "docx",
@@ -1653,7 +1653,7 @@
                     "open_issues": 210,
                     "owner": "rstudio",
                     "repo": "DT",
-                    "stars": 620,
+                    "stars": 621,
                     "topics": [
                       "datatables",
                       "htmlwidgets",
@@ -1681,7 +1681,7 @@
                     "open_issues": 156,
                     "owner": "datastorm-open",
                     "repo": "visNetwork",
-                    "stars": 561,
+                    "stars": 562,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T01:08:45.064Z"
@@ -2630,7 +2630,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-25T01:34:54.539Z",
+    "last_updated": "2026-11-26T01:08:39.615Z",
     "original_repository_info": {
       "archived": false,
       "description": "An awesome R-shiny list!",
