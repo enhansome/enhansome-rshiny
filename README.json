@@ -21,7 +21,7 @@
                 "open_issues": 884,
                 "owner": "rstudio",
                 "repo": "shiny",
-                "stars": 5706,
+                "stars": 5707,
                 "topics": [
                   "r",
                   "reactive",
@@ -1507,7 +1507,7 @@
                     "language": "R",
                     "license": "NOASSERTION",
                     "last_commit": "2026-07-25T00:33:15Z",
-                    "open_issues": 765,
+                    "open_issues": 766,
                     "owner": "plotly",
                     "repo": "plotly.R",
                     "stars": 2686,
@@ -2630,7 +2630,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-27T01:08:33.216Z",
+    "last_updated": "2026-11-28T00:40:21.679Z",
     "original_repository_info": {
       "archived": false,
       "description": "An awesome R-shiny list!",
